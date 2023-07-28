@@ -1,0 +1,3184 @@
+Rating,Opponent_Rating,Result,Termination,Datetime,Location
+1307,1280,W,checkmate,2023-07-28 11:37:18,France
+1299,1309,L,time,2023-07-28 10:20:17,Greece
+1299,1351,L,time,2023-07-27 18:11:14,Romania
+1315,1318,W,time,2023-07-27 17:22:43,Chile
+1307,1321,W,time,2023-07-27 17:14:55,Spain
+1298,1297,W,checkmate,2023-07-27 17:10:14,Uzbekistan
+1291,1279,W,checkmate,2023-07-27 15:37:59,Armenia
+1283,1230,W,time,2023-07-27 13:54:57,Philippines
+1276,1261,W,checkmate,2023-07-27 12:20:53,Germany
+1279,1265,L,time,2023-07-26 13:15:35,Argentina
+1288,1319,L,checkmate,2023-07-26 10:55:09,Spain
+1288,1290,D,material,2023-07-25 15:17:46,United States
+1280,1305,L,time,2023-07-25 13:35:47,New Zealand
+1288,1286,L,time,2023-07-25 13:02:20,Germany
+1296,1288,W,time,2023-07-25 12:39:41,Spain
+1297,1259,W,resignation,2023-07-24 22:05:37,Canada
+1290,1282,L,checkmate,2023-07-24 22:04:42,Ukraine
+1291,1274,L,time,2023-07-24 18:22:01,Israel
+1300,1320,W,resignation,2023-07-24 18:15:04,Mexico
+1284,1228,W,time,2023-07-24 16:00:34,Canada
+1284,1311,L,time,2023-07-23 10:58:04,Taiwan
+1292,1309,W,time,2023-07-23 10:13:19,United States
+1283,1279,W,time,2023-07-20 16:54:00,Argentina
+1267,1208,W,checkmate,2023-07-20 13:13:57,Italy
+1244,1284,L,time,2023-07-19 17:38:01,France
+1251,1294,L,time,2023-07-19 16:56:35,Indonesia
+1266,1257,W,time,2023-07-19 12:12:16,United States
+1258,1271,L,time,2023-07-19 11:38:01,Germany
+1259,1230,W,resignation,2023-07-19 11:10:17,United States
+1252,1309,L,checkmate,2023-07-18 20:25:37,Sweden
+1267,1251,L,time,2023-07-18 19:46:48,Afghanistan
+1276,1256,W,time,2023-07-18 16:11:27,Vietnam
+1267,1286,W,checkmate,2023-07-18 12:36:46,Dominican Republic
+1258,1247,W,time,2023-07-18 12:31:06,United States
+1258,1254,W,time,2023-07-16 21:50:01,United States
+1242,1184,W,checkmate,2023-07-16 17:56:14,United States
+1243,1272,L,time,2023-07-16 13:49:49,Ireland
+1245,1230,L,time,2023-07-15 18:03:21,Netherlands
+1254,1220,W,time,2023-07-15 17:35:20,Croatia
+1255,1251,L,time,2023-07-15 11:56:46,American Samoa
+1264,1266,W,checkmate,2023-07-15 10:17:46,India
+1255,1261,L,time,2023-07-14 19:06:41,United States
+1263,1309,L,time,2023-07-14 18:29:11,Argentina
+1295,1265,W,checkmate,2023-07-14 15:33:19,Catalonia
+1287,1297,W,time,2023-07-14 15:29:52,Canada
+1272,1274,L,time,2023-07-14 12:12:58,Canada
+1280,1248,W,time,2023-07-14 12:09:20,United Kingdom
+1258,1279,L,time,2023-07-13 14:47:20,Spain
+1275,1232,W,checkmate,2023-07-13 10:25:53,United Kingdom
+1275,1272,W,time,2023-07-12 18:46:15,Italy
+1267,1255,W,time,2023-07-12 17:03:47,Portugal
+1259,1228,L,time,2023-07-12 16:59:51,Catalonia
+1267,1262,W,time,2023-07-12 15:46:05,France
+1259,1236,W,time,2023-07-12 15:38:05,Brazil
+1246,1253,L,checkmate,2023-07-12 13:58:45,Italy
+1254,1268,L,time,2023-07-12 13:47:24,Malaysia
+1270,1245,L,checkmate,2023-07-12 11:55:33,Italy
+1279,1241,W,time,2023-07-12 09:29:03,Bangladesh
+1280,1309,L,time,2023-07-10 18:02:28,Germany
+1279,1273,L,time,2023-07-10 17:32:30,United States
+1288,1279,L,checkmate,2023-07-10 16:39:59,India
+1289,1367,L,time,2023-07-10 12:55:15,Norway
+1296,1276,W,checkmate,2023-07-10 12:52:22,Ukraine
+1314,1317,L,checkmate,2023-07-10 12:11:01,Canada
+1322,1385,L,time,2023-07-10 11:43:17,Norway
+1321,1367,L,time,2023-07-09 16:32:34,Germany
+1328,1279,W,resignation,2023-07-09 16:32:30,Italy
+1337,1306,L,time,2023-07-09 12:38:17,Wales
+1346,1250,W,resignation,2023-07-09 12:12:05,Egypt
+1348,1334,W,time,2023-07-09 10:10:50,Philippines
+1332,1328,L,time,2023-07-09 08:15:54,Egypt
+1332,1401,L,time,2023-07-08 16:04:03,United Kingdom
+1339,1330,L,time,2023-07-08 09:07:36,Turkey
+1339,1303,W,resignation,2023-07-08 06:01:09,China
+1338,1340,L,time,2023-07-07 11:06:57,Hong Kong
+1353,1390,L,time,2023-07-07 09:04:52,India
+1354,1405,L,time,2023-07-06 14:27:46,International
+1361,1421,L,time,2023-07-06 13:17:53,India
+1368,1360,W,time,2023-07-06 13:11:17,South Africa
+1351,1291,L,time,2023-07-06 09:27:44,United Arab Emirates
+1352,1298,W,resignation,2023-07-05 14:48:00,Switzerland
+1361,1299,W,time,2023-07-05 12:26:44,United Kingdom
+1354,1395,L,time,2023-07-05 12:11:20,Austria
+1361,1401,L,checkmate,2023-07-05 11:51:45,Israel
+1368,1340,L,checkmate,2023-07-05 11:47:04,Italy
+1394,1392,W,resignation,2023-07-04 15:52:39,Ukraine
+1378,1407,L,time,2023-07-04 12:03:52,Turkey
+1393,1356,W,resignation,2023-07-03 18:21:23,Canada
+1386,1335,W,checkmate,2023-07-03 15:40:49,Russia
+1386,1434,L,time,2023-07-03 14:05:29,Brazil
+1401,1459,L,time,2023-07-03 12:27:36,India
+1408,1456,W,time,2023-07-03 11:48:17,India
+1398,1389,L,time,2023-07-03 11:36:21,Colombia
+1400,1429,L,checkmate,2023-07-03 10:29:21,Netherlands
+1416,1431,W,checkmate,2023-07-02 17:40:06,Spain
+1407,1474,W,resignation,2023-07-02 16:41:29,United States
+1397,1390,W,checkmate,2023-07-02 13:43:10,United States
+1381,1342,W,checkmate,2023-07-02 12:55:45,United Kingdom
+1367,1351,L,time,2023-07-01 20:21:32,Brazil
+1376,1377,W,checkmate,2023-07-01 20:17:50,United States
+1376,1322,W,time,2023-06-30 12:37:03,India
+1385,1331,W,resignation,2023-06-29 11:36:02,Germany
+1387,1393,L,time,2023-06-28 23:40:29,Mexico
+1387,1360,W,checkmate,2023-06-28 20:47:15,United States
+1379,1411,W,time,2023-06-28 20:44:31,South Africa
+1370,1391,W,checkmate,2023-06-28 19:31:51,United States
+1369,1321,W,checkmate,2023-06-28 16:13:13,Ukraine
+1362,1297,L,time,2023-06-28 11:00:41,Russia
+1372,1353,L,time,2023-06-28 09:21:17,India
+1388,1410,W,time,2023-06-27 18:43:03,Brazil
+1379,1343,W,time,2023-06-27 17:53:32,United Kingdom
+1372,1368,W,resignation,2023-06-26 16:57:27,India
+1364,1369,L,time,2023-06-26 09:25:05,United Kingdom
+1372,1382,L,time,2023-06-25 12:22:58,Finland
+1388,1412,L,time,2023-06-25 11:19:37,France
+1387,1354,W,checkmate,2023-06-25 08:38:18,Mexico
+1396,1341,W,checkmate,2023-06-24 20:37:38,Italy
+1389,1403,L,time,2023-06-24 20:24:23,Canada
+1382,1377,L,time,2023-06-24 14:49:30,France
+1390,1327,W,time,2023-06-24 11:44:46,Serbia
+1375,1390,L,resignation,2023-06-24 09:09:43,Syria
+1383,1377,L,checkmate,2023-06-24 09:01:05,Wales
+1392,1367,W,time,2023-06-23 13:50:01,India
+1407,1399,W,time,2023-06-23 09:45:02,Dominican Republic
+1399,1387,L,time,2023-06-23 09:03:30,United Kingdom
+1425,1422,W,time,2023-06-22 19:27:02,United Kingdom
+1409,1441,W,checkmate,2023-06-22 12:53:18,Poland
+1400,1363,W,checkmate,2023-06-21 13:44:46,International
+1376,1407,L,checkmate,2023-06-21 12:06:08,Portugal
+1384,1364,W,time,2023-06-20 17:27:44,United States
+1376,1365,L,time,2023-06-20 16:47:28,Peru
+1385,1321,W,time,2023-06-20 14:01:23,Brazil
+1370,1371,L,time,2023-06-20 13:11:07,Canada
+1369,1324,W,time,2023-06-20 12:29:57,Australia
+1362,1395,D,material,2023-06-19 15:46:31,Spain
+1354,1339,L,time,2023-06-19 13:06:15,Germany
+1363,1295,W,time,2023-06-19 12:53:22,Bangladesh
+1348,1326,L,time,2023-06-16 20:23:52,Colombia
+1357,1338,L,time,2023-06-16 15:45:14,Spain
+1367,1383,W,checkmate,2023-06-16 13:15:15,Argentina
+1350,1352,L,time,2023-06-15 17:08:04,Indonesia
+1358,1305,W,checkmate,2023-06-15 17:03:17,Montenegro
+1351,1378,W,checkmate,2023-06-15 15:45:48,India
+1334,1384,L,time,2023-06-15 12:39:07,Estonia
+1341,1346,L,time,2023-06-15 11:33:23,Australia
+1344,1395,L,time,2023-06-15 08:16:20,United States
+1351,1354,W,time,2023-06-15 07:33:40,France
+1335,1271,W,checkmate,2023-06-14 21:43:07,United States
+1328,1277,W,resignation,2023-06-14 15:47:54,Netherlands
+1321,1317,L,time,2023-06-14 14:37:32,Germany
+1354,1383,W,checkmate,2023-06-13 17:05:15,Mexico
+1362,1405,L,time,2023-06-11 20:28:43,Argentina
+1360,1318,W,resignation,2023-06-11 14:47:52,Russia
+1353,1415,L,time,2023-06-11 14:42:53,Germany
+1360,1334,L,time,2023-06-11 13:00:26,Indonesia
+1367,1378,L,checkmate,2023-06-11 10:16:35,Germany
+1375,1314,W,checkmate,2023-06-10 11:56:18,Ukraine
+1391,1356,W,resignation,2023-06-09 21:17:07,Brazil
+1391,1407,W,checkmate,2023-06-09 19:37:37,Japan
+1382,1356,W,checkmate,2023-06-09 14:05:41,Germany
+1374,1402,L,time,2023-06-09 10:47:30,Poland
+1374,1425,L,time,2023-06-09 09:31:47,Montenegro
+1390,1405,W,time,2023-06-08 20:34:44,Brazil
+1381,1385,W,checkmate,2023-06-08 20:14:11,Australia
+1359,1326,W,time,2023-06-08 15:19:16,United States
+1352,1303,W,time,2023-06-08 11:32:05,Germany
+1345,1340,L,time,2023-06-07 18:02:04,Brazil
+1353,1291,W,time,2023-06-07 17:50:49,Netherlands
+1353,1376,L,time,2023-06-07 17:31:32,United States
+1368,1403,L,time,2023-06-07 10:56:13,Paraguay
+1376,1366,W,time,2023-06-06 17:38:26,Vietnam
+1352,1356,W,time,2023-06-06 15:01:48,Spain
+1343,1307,W,checkmate,2023-06-06 14:05:34,Canada
+1327,1388,L,time,2023-06-06 12:42:11,Peru
+1334,1380,L,time,2023-06-06 11:23:56,Spain
+1347,1337,L,time,2023-06-05 15:43:00,Poland
+1356,1316,W,resignation,2023-06-05 12:51:29,Indonesia
+1363,1403,L,checkmate,2023-06-05 08:37:45,Philippines
+1387,1416,L,time,2023-06-04 13:46:42,Canada
+1395,1374,L,time,2023-06-04 13:42:48,Indonesia
+1413,1425,W,checkmate,2023-06-04 11:18:02,United States
+1411,1426,W,resignation,2023-06-04 08:20:52,Indonesia
+1402,1456,L,time,2023-06-03 19:46:29,Peru
+1401,1370,W,time,2023-06-03 19:37:18,Mexico
+1393,1442,L,time,2023-06-02 12:42:12,Mexico
+1400,1437,L,time,2023-06-02 12:25:12,United States
+1408,1390,L,time,2023-06-02 11:35:39,France
+1418,1445,L,time,2023-05-31 19:47:26,Argentina
+1426,1395,L,time,2023-05-31 19:04:19,United States
+1435,1405,W,time,2023-05-31 19:02:10,Ukraine
+1435,1440,W,checkmate,2023-05-31 15:19:56,United States
+1427,1417,W,time,2023-05-31 10:07:24,Poland
+1419,1393,L,checkmate,2023-05-30 15:06:29,Slovenia
+1428,1462,L,time,2023-05-29 19:50:47,United States
+1427,1427,L,time,2023-05-29 16:20:49,Sweden
+1435,1431,L,time,2023-05-29 16:08:57,United States
+1430,1391,L,checkmate,2023-05-29 11:22:20,Australia
+1439,1408,L,time,2023-05-29 10:41:22,Australia
+1448,1420,L,time,2023-05-29 10:08:19,India
+1443,1491,L,time,2023-05-28 23:20:41,Mexico
+1440,1404,W,resignation,2023-05-28 20:44:03,Ireland
+1433,1431,W,time,2023-05-28 16:15:58,Zimbabwe
+1425,1401,W,checkmate,2023-05-28 15:25:43,United States
+1417,1414,D,material,2023-05-27 18:08:31,France
+1418,1457,L,time,2023-05-27 14:45:59,Brazil
+1425,1451,L,time,2023-05-27 14:06:39,South Korea
+1433,1401,L,checkmate,2023-05-27 09:34:29,United States
+1449,1460,L,time,2023-05-26 19:34:00,Germany
+1448,1426,W,checkmate,2023-05-26 19:16:40,Israel
+1440,1412,W,resignation,2023-05-26 11:06:03,Finland
+1415,1366,W,time,2023-05-25 10:24:30,Indonesia
+1416,1404,W,resignation,2023-05-24 13:05:56,United States
+1415,1441,L,time,2023-05-23 19:41:37,United States
+1423,1402,W,checkmate,2023-05-23 15:31:00,Ukraine
+1399,1393,L,time,2023-05-22 12:58:52,Saudi Arabia
+1366,1344,W,checkmate,2023-05-21 17:27:48,Algeria
+1341,1405,L,checkmate,2023-05-21 16:12:55,France
+1400,1376,L,time,2023-05-21 14:26:12,Bulgaria
+1364,1353,W,time,2023-05-21 13:06:05,Turkey
+1409,1421,L,resignation,2023-05-21 12:47:01,India
+1417,1438,L,checkmate,2023-05-21 12:46:36,Indonesia
+1433,1384,W,time,2023-05-21 11:59:05,United Kingdom
+1452,1454,W,checkmate,2023-05-20 16:04:46,Portugal
+1426,1466,L,time,2023-05-20 14:22:40,United States
+1433,1481,L,time,2023-05-20 12:30:46,Poland
+1440,1435,L,time,2023-05-19 17:51:14,Brazil
+1448,1461,L,time,2023-05-19 13:34:11,Greece
+1456,1502,L,time,2023-05-18 14:04:05,Poland
+1456,1435,W,resignation,2023-05-18 12:37:48,Israel
+1441,1451,W,time,2023-05-15 11:49:09,Germany
+1432,1445,W,time,2023-05-15 11:42:32,Morocco
+1423,1490,L,time,2023-05-15 10:16:01,France
+1422,1440,D,stalemate,2023-05-15 10:01:11,Vietnam
+1331,1409,D,repetition,2023-05-14 17:27:18,Brazil
+1323,1240,W,resignation,2023-05-14 17:08:56,Czech Republic
+1422,1402,L,time,2023-05-14 09:40:53,South Africa
+1431,1483,L,time,2023-05-13 23:53:18,United States
+1438,1425,L,time,2023-05-13 22:14:07,India
+1438,1474,L,checkmate,2023-05-13 21:22:05,Italy
+1454,1462,L,checkmate,2023-05-13 14:23:46,Sweden
+1462,1351,W,time,2023-05-13 10:30:38,Brazil
+1456,1461,W,checkmate,2023-05-13 10:27:48,Albania
+1442,1471,L,resignation,2023-05-12 13:13:27,India
+1442,1409,W,time,2023-05-12 10:59:55,Brazil
+1434,1445,D,material,2023-05-11 09:14:06,Russia
+1425,1420,L,checkmate,2023-05-10 20:33:30,United Kingdom
+1434,1397,W,resignation,2023-05-10 19:52:01,South Korea
+1426,1429,W,time,2023-05-10 19:48:24,India
+1426,1443,L,time,2023-05-10 18:01:03,Spain
+1440,1387,W,resignation,2023-05-10 10:41:43,Brazil
+1449,1522,L,time,2023-05-10 08:37:36,India
+1456,1544,L,time,2023-05-10 08:18:18,Russia
+1463,1431,W,resignation,2023-05-08 18:40:53,Brazil
+1455,1585,L,checkmate,2023-05-08 15:22:52,Belgium
+1450,1456,L,time,2023-05-08 08:48:15,Thailand
+1450,1458,W,time,2023-05-07 17:49:35,Mexico
+1433,1431,W,time,2023-05-07 12:25:20,India
+1433,1424,L,time,2023-05-05 09:45:46,Malaysia
+1442,1460,W,time,2023-05-05 08:54:57,Germany
+1441,1453,L,time,2023-05-04 19:27:05,United States
+1441,1414,L,time,2023-05-04 12:39:17,United States
+1450,1424,L,time,2023-05-04 12:03:49,Brazil
+1459,1392,W,checkmate,2023-05-04 10:25:40,United Kingdom
+1452,1425,W,checkmate,2023-05-04 10:20:34,International
+1453,1429,L,checkmate,2023-05-03 17:46:50,United States
+1462,1499,L,time,2023-05-03 15:34:48,Romania
+1485,1493,D,repetition,2023-05-03 12:27:12,Canada
+1485,1498,L,checkmate,2023-05-03 12:02:33,Netherlands
+1493,1509,L,time,2023-05-03 11:51:43,Scotland
+1501,1458,W,time,2023-05-03 11:38:54,United States
+1487,1439,W,checkmate,2023-05-02 19:00:11,Iran
+1480,1500,L,time,2023-05-02 13:50:16,India
+1483,1447,W,resignation,2023-05-02 10:41:45,Switzerland
+1466,1470,W,resignation,2023-05-01 23:24:29,United States
+1458,1426,L,time,2023-05-01 21:56:08,United States
+1467,1414,W,time,2023-05-01 21:53:56,United States
+1459,1473,W,time,2023-05-01 19:53:17,International
+1458,1469,W,resignation,2023-05-01 11:50:29,Hungary
+1440,1443,W,time,2023-05-01 10:34:48,India
+1441,1414,W,time,2023-04-30 12:09:51,Egypt
+1433,1484,L,checkmate,2023-04-29 17:58:11,United Kingdom
+1440,1474,L,time,2023-04-29 16:33:42,Jamaica
+1456,1395,W,checkmate,2023-04-29 13:42:21,Russia
+1449,1405,W,checkmate,2023-04-29 13:28:24,Pakistan
+1450,1443,W,checkmate,2023-04-29 12:31:38,Ukraine
+1419,1394,W,time,2023-04-29 09:42:38,France
+1411,1484,L,time,2023-04-29 08:48:18,Saudi Arabia
+1418,1411,W,checkmate,2023-04-29 08:34:52,Spain
+1410,1406,L,checkmate,2023-04-29 07:18:14,United States
+1418,1382,W,checkmate,2023-04-28 21:43:50,Canada
+1402,1365,W,resignation,2023-04-28 19:55:49,Mexico
+1394,1398,W,time,2023-04-28 19:33:46,Bosnia-Herzegovina
+1386,1407,L,time,2023-04-28 14:50:49,France
+1388,1385,W,time,2023-04-28 12:13:12,Venezuela
+1380,1400,W,time,2023-04-28 11:18:14,Italy
+1371,1333,W,time,2023-04-28 10:46:12,Kyrgyzstan
+1357,1310,W,time,2023-04-27 23:35:40,Bolivia
+1350,1381,W,resignation,2023-04-27 22:33:08,Turkey
+1333,1345,L,time,2023-04-27 17:59:48,Spain
+1341,1348,W,time,2023-04-27 17:53:58,Poland
+1332,1285,W,time,2023-04-27 17:41:27,United States
+1351,1364,W,time,2023-04-27 10:26:57,Estonia
+1328,1320,D,repetition,2023-04-27 10:03:28,Brazil
+1337,1379,L,time,2023-04-27 08:47:38,Turkey
+1344,1295,W,time,2023-04-27 08:42:33,Canada
+1345,1344,L,checkmate,2023-04-26 12:59:24,Kazakhstan
+1373,1408,L,resignation,2023-04-26 11:49:01,Philippines
+1428,1535,L,checkmate,2023-04-26 08:51:10,Serbia
+1328,1385,L,time,2023-04-26 07:56:25,Serbia
+1352,1387,L,time,2023-04-26 05:12:39,South Africa
+1352,1356,W,checkmate,2023-04-25 19:56:22,Poland
+1352,1348,W,checkmate,2023-04-25 18:22:34,United Kingdom
+1344,1371,W,time,2023-04-25 16:58:39,United States
+1342,1289,L,checkmate,2023-04-25 13:01:35,Slovenia
+1360,1385,L,time,2023-04-25 11:57:11,United States
+1368,1357,L,resignation,2023-04-25 11:14:19,Germany
+1392,1406,L,time,2023-04-25 10:29:58,Mexico
+1400,1379,W,time,2023-04-25 10:26:47,India
+1383,1379,L,time,2023-04-25 10:07:02,Australia
+1400,1338,W,time,2023-04-25 04:35:52,Indonesia
+1386,1368,W,resignation,2023-04-24 20:14:26,Germany
+1378,1416,L,time,2023-04-24 16:40:34,Peru
+1377,1428,L,time,2023-04-24 15:37:07,Peru
+1392,1453,L,time,2023-04-24 14:54:38,International
+1398,1392,W,time,2023-04-24 14:25:18,Germany
+1390,1397,W,time,2023-04-24 12:19:25,India
+1381,1345,W,time,2023-04-24 12:15:09,United States
+1373,1315,W,checkmate,2023-04-24 12:12:43,United Kingdom
+1366,1366,L,time,2023-04-24 12:05:16,England
+1366,1406,L,time,2023-04-24 08:26:28,India
+1362,1357,W,checkmate,2023-04-24 07:46:58,India
+1354,1340,W,checkmate,2023-04-24 07:41:24,Ukraine
+1346,1335,L,time,2023-04-24 07:36:35,United States
+1347,1377,W,resignation,2023-04-24 07:25:52,Kazakhstan
+1338,1359,L,resignation,2023-04-24 07:05:46,International
+1363,1388,W,checkmate,2023-04-23 20:28:08,Sweden
+1355,1376,L,time,2023-04-23 15:53:28,United Kingdom
+1354,1312,W,time,2023-04-23 15:41:46,Ukraine
+1347,1335,W,checkmate,2023-04-22 19:43:21,United States
+1330,1362,L,checkmate,2023-04-22 16:54:10,Andorra
+1338,1366,W,time,2023-04-22 16:48:04,Poland
+1329,1322,W,checkmate,2023-04-22 15:12:07,France
+1321,1324,W,time,2023-04-22 14:57:32,United States
+1313,1301,W,checkmate,2023-04-21 20:49:50,United States
+1305,1304,L,time,2023-04-21 19:34:32,Costa Rica
+1320,1325,W,time,2023-04-21 17:19:17,United Kingdom
+1323,1272,W,time,2023-04-21 11:37:27,India
+1315,1330,D,material,2023-04-21 10:32:51,United Kingdom
+1308,1313,W,resignation,2023-04-21 09:55:34,Croatia
+1300,1291,L,time,2023-04-21 09:44:25,Germany
+1309,1308,W,time,2023-04-21 07:38:35,Germany
+1308,1274,L,checkmate,2023-04-21 07:25:20,India
+1331,1303,W,time,2023-04-21 05:57:56,India
+1323,1333,W,checkmate,2023-04-20 15:14:01,United States
+1305,1274,L,checkmate,2023-04-20 13:30:56,Spain
+1323,1329,D,material,2023-04-20 07:44:23,Israel
+1323,1246,W,resignation,2023-04-20 07:42:10,Poland
+1316,1277,W,checkmate,2023-04-20 07:30:05,Bolivia
+1318,1256,W,checkmate,2023-04-20 06:43:38,Philippines
+1300,1307,W,time,2023-04-20 05:49:38,United States
+1291,1321,W,time,2023-04-20 05:41:55,Sri Lanka
+1275,1258,W,checkmate,2023-04-20 05:05:53,United States
+1267,1254,W,time,2023-04-20 04:53:45,United States
+1259,1270,W,time,2023-04-20 04:25:01,Philippines
+1250,1271,L,time,2023-04-19 19:33:28,France
+1250,1217,W,resignation,2023-04-19 19:20:36,United States
+1243,1226,W,checkmate,2023-04-19 18:55:15,Brazil
+1219,1198,W,checkmate,2023-04-19 18:46:05,Canada
+1211,1173,W,checkmate,2023-04-19 18:45:03,Poland
+1212,1177,D,material,2023-04-19 18:36:40,United States
+1213,1209,W,checkmate,2023-04-19 18:12:51,Yemen
+1205,1218,W,time,2023-04-19 18:09:41,United States
+1173,1182,L,time,2023-04-19 08:17:09,United Kingdom
+1173,1172,W,time,2023-04-19 07:45:37,South Africa
+1165,1172,W,resignation,2023-04-19 07:44:42,United Kingdom
+1147,1160,W,time,2023-04-19 07:21:04,South Africa
+1146,1175,W,checkmate,2023-04-19 07:09:58,Mexico
+1129,1113,W,time,2023-04-19 06:29:26,North Korea
+1121,1074,W,time,2023-04-19 06:24:57,Armenia
+1106,1109,W,resignation,2023-04-18 00:50:34,Brazil
+1107,1052,W,time,2023-04-17 09:23:36,Vietnam
+1093,1082,L,time,2023-04-17 08:28:25,India
+1109,1121,L,resignation,2023-04-17 03:11:33,India
+1117,1149,L,time,2023-04-16 05:00:57,United States
+1133,1152,D,material,2023-04-15 09:33:59,Philippines
+1140,1183,L,time,2023-04-15 01:46:20,Australia
+1156,1194,L,checkmate,2023-04-14 13:25:34,Hungary
+1163,1165,W,abandoned,2023-04-14 13:24:42,Saint Pierre/Miquelon
+1147,1196,L,resignation,2023-04-14 12:48:04,Germany
+1154,1124,L,time,2023-04-14 12:24:43,Iran
+1163,1173,W,time,2023-04-14 04:38:07,United States
+1154,1150,W,checkmate,2023-04-14 00:20:38,India
+1155,1053,W,checkmate,2023-04-13 08:11:39,Austria
+1158,1204,L,resignation,2023-04-13 07:43:06,Vietnam
+1157,1105,L,time,2023-04-13 05:31:51,Australia
+1190,1239,L,time,2023-04-13 02:30:13,United States
+1197,1252,L,time,2023-04-13 02:25:08,Palestine
+1204,1183,L,time,2023-04-13 02:15:54,United States
+1213,1188,W,time,2023-04-13 02:12:28,United States
+1214,1186,W,time,2023-04-13 01:35:20,Brazil
+1198,1060,W,checkmate,2023-04-12 23:16:07,United States
+1209,1264,L,time,2023-04-12 14:37:26,Spain
+1224,1251,W,resignation,2023-04-12 14:28:10,United States
+1223,1269,L,time,2023-04-12 14:17:48,Seychelles
+1230,1211,W,checkmate,2023-04-12 14:13:34,Turkey
+1221,1201,W,time,2023-04-12 12:52:13,Belgium
+1213,1198,L,time,2023-04-12 12:46:50,India
+1213,1195,W,time,2023-04-12 12:38:00,United States
+1198,1231,L,resignation,2023-04-12 11:39:34,Russia
+1224,1222,L,time,2023-04-12 08:22:25,Netherlands
+1232,1216,L,time,2023-04-12 08:02:05,Singapore
+1241,1208,D,material,2023-04-12 07:35:19,Russia
+1235,1277,L,checkmate,2023-04-12 07:25:24,United States
+1242,1213,L,time,2023-04-12 07:18:54,Armenia
+1251,1254,W,resignation,2023-04-12 07:14:10,Lebanon
+1242,1247,W,checkmate,2023-04-12 03:44:58,Argentina
+1258,1282,W,resignation,2023-04-12 02:59:30,United States
+1258,1294,L,time,2023-04-11 07:21:18,Indonesia
+1265,1284,W,time,2023-04-11 07:18:59,Norway
+1256,1269,W,time,2023-04-11 07:16:46,Saudi Arabia
+1247,1241,W,time,2023-04-11 06:50:31,United Kingdom
+1247,1245,L,resignation,2023-04-10 05:06:22,Philippines
+1260,1202,W,checkmate,2023-04-05 10:34:20,Australia
+1262,1241,W,time,2023-04-05 09:20:50,Turkey
+1254,1202,L,time,2023-04-05 08:46:04,Croatia
+1264,1232,W,resignation,2023-04-05 06:37:01,Russia
+1270,1291,W,time,2023-04-05 06:20:03,Serbia
+1261,1254,W,time,2023-04-05 02:48:35,United States
+1254,1247,L,time,2023-04-05 01:33:10,Japan
+1255,1258,L,time,2023-04-05 00:54:04,United States
+1263,1251,L,time,2023-04-04 23:57:07,United Kingdom
+1263,1290,L,time,2023-04-04 06:04:18,India
+1264,1316,L,checkmate,2023-04-04 03:27:48,Jersey
+1271,1314,L,time,2023-04-04 01:51:26,India
+1286,1381,L,time,2023-04-03 03:37:56,United States
+1301,1266,W,checkmate,2023-04-03 03:30:43,Canada
+1293,1307,W,checkmate,2023-04-03 03:27:43,Australia
+1284,1234,L,resignation,2023-04-03 03:18:36,Ukraine
+1294,1277,L,time,2023-04-03 02:17:38,Germany
+1310,1365,L,time,2023-04-03 02:06:18,India
+1328,1352,L,time,2023-04-02 22:53:34,Ukraine
+1343,1290,W,checkmate,2023-04-02 22:39:00,United States
+1344,1374,L,time,2023-04-02 22:12:57,Indonesia
+1352,1347,L,time,2023-04-02 15:33:40,Palestine
+1369,1351,W,resignation,2023-04-02 02:33:47,India
+1361,1268,W,checkmate,2023-04-02 02:31:48,Bahamas
+1355,1350,W,checkmate,2023-04-02 02:23:47,Australia
+1332,1340,W,resignation,2023-04-02 02:01:29,United States
+1315,1319,L,time,2023-04-02 01:14:00,Argentina
+1323,1333,W,time,2023-04-01 14:10:41,Germany
+1307,1397,D,material,2023-04-01 13:58:54,United Kingdom
+1305,1300,L,time,2023-04-01 13:52:05,Canada
+1314,1277,W,time,2023-04-01 13:45:56,Brazil
+1315,1337,L,time,2023-04-01 11:10:39,Poland
+1332,1322,W,checkmate,2023-04-01 10:16:26,Philippines
+1324,1355,W,checkmate,2023-04-01 09:53:25,Italy
+1323,1317,L,checkmate,2023-04-01 06:42:30,Canada
+1341,1361,L,time,2023-04-01 05:40:14,Mexico
+1343,1322,L,time,2023-04-01 02:35:58,Egypt
+1351,1330,W,resignation,2023-04-01 02:02:16,United States
+1343,1343,L,time,2023-03-31 08:54:08,India
+1351,1387,L,checkmate,2023-03-28 03:03:41,Denmark
+1359,1342,W,checkmate,2023-03-28 02:56:37,United States
+1351,1343,L,checkmate,2023-03-28 01:34:54,Hungary
+1360,1405,L,resignation,2023-03-27 21:36:39,Sweden
+1384,1415,L,time,2023-03-26 12:49:28,United States
+1384,1434,L,time,2023-03-26 12:25:27,Brazil
+1391,1435,W,time,2023-03-26 11:37:47,Ghana
+1382,1353,L,checkmate,2023-03-26 11:34:23,India
+1391,1401,D,material,2023-03-26 10:15:33,Mexico
+1401,1415,L,resignation,2023-03-26 10:10:55,France
+1404,1452,L,time,2023-03-26 08:02:03,Canada
+1419,1424,W,time,2023-03-26 07:04:30,Jordan
+1418,1405,W,time,2023-03-26 06:26:01,Canada
+1410,1406,L,resignation,2023-03-26 06:24:29,United States
+1419,1394,W,resignation,2023-03-26 06:23:08,Azerbaijan
+1410,1399,W,time,2023-03-25 21:52:45,Sudan
+1387,1372,L,checkmate,2023-03-25 17:47:56,India
+1405,1382,D,material,2023-03-25 10:41:41,Morocco
+1406,1369,L,checkmate,2023-03-25 10:40:39,United Kingdom
+1415,1426,L,time,2023-03-25 09:56:47,United States
+1423,1468,L,time,2023-03-25 09:53:01,Indonesia
+1430,1428,L,checkmate,2023-03-25 09:52:07,Germany
+1445,1499,L,time,2023-03-24 18:49:30,United States
+1452,1484,L,time,2023-03-24 18:34:52,United States
+1446,1415,L,checkmate,2023-03-24 15:51:15,Ukraine
+1455,1463,W,checkmate,2023-03-24 15:44:20,Vietnam
+1446,1446,L,time,2023-03-24 15:38:00,United States
+1454,1464,L,time,2023-03-24 15:20:25,Russia
+1460,1402,L,time,2023-03-24 06:31:24,United States
+1477,1492,L,checkmate,2023-03-24 04:17:10,United Kingdom
+1486,1447,W,checkmate,2023-03-23 20:20:59,India
+1479,1520,D,material,2023-03-23 19:05:35,Turkey
+1478,1444,W,resignation,2023-03-23 18:24:30,United States
+1479,1422,W,time,2023-03-23 18:10:40,Canada
+1463,1491,L,time,2023-03-23 17:15:08,France
+1462,1473,W,time,2023-03-23 16:20:38,Poland
+1453,1431,W,checkmate,2023-03-23 15:53:37,United States
+1438,1512,W,resignation,2023-03-23 15:45:06,France
+1420,1463,L,time,2023-03-23 15:02:59,Romania
+1436,1427,L,time,2023-03-23 03:26:43,Cuba
+1445,1419,L,time,2023-03-23 02:01:00,United States
+1446,1428,L,checkmate,2023-03-22 20:55:58,United States
+1446,1462,W,resignation,2023-03-22 19:21:58,Spain
+1430,1445,L,time,2023-03-22 19:02:41,Indonesia
+1431,1406,L,time,2023-03-22 16:28:29,United States
+1440,1422,W,time,2023-03-22 15:59:29,International
+1432,1445,L,time,2023-03-22 14:56:21,Spain
+1438,1456,W,time,2023-03-22 13:51:49,United Kingdom
+1444,1415,L,checkmate,2023-03-22 11:23:45,India
+1462,1504,L,checkmate,2023-03-22 00:06:09,France
+1478,1510,L,checkmate,2023-03-21 23:46:04,United States
+1486,1468,L,time,2023-03-21 23:36:32,Mexico
+1495,1482,L,time,2023-03-21 23:31:57,Canada
+1494,1436,W,resignation,2023-03-21 22:45:12,Greece
+1486,1447,W,time,2023-03-21 21:36:05,Ireland
+1479,1510,L,time,2023-03-21 21:32:08,Chile
+1487,1509,W,time,2023-03-21 21:16:32,Albania
+1471,1488,W,resignation,2023-03-21 21:02:49,Canada
+1462,1486,L,checkmate,2023-03-21 20:55:34,Turkey
+1470,1481,L,checkmate,2023-03-21 20:46:10,United States
+1478,1522,L,time,2023-03-21 20:43:54,Poland
+1492,1547,L,time,2023-03-21 19:52:14,United States
+1499,1536,L,time,2023-03-21 19:50:27,Netherlands
+1498,1447,W,time,2023-03-21 18:55:54,Scotland
+1491,1482,W,resignation,2023-03-21 18:07:22,France
+1474,1465,L,time,2023-03-21 18:00:27,India
+1474,1415,W,checkmate,2023-03-21 17:33:17,Germany
+1467,1487,L,time,2023-03-21 17:20:24,Finland
+1461,1495,L,time,2023-03-21 17:15:32,Czech Republic
+1469,1420,W,time,2023-03-21 17:13:04,Singapore
+1470,1517,D,material,2023-03-21 16:31:29,United States
+1482,1491,W,time,2023-03-21 15:52:38,Kosovo
+1482,1429,W,time,2023-03-20 22:55:50,Azerbaijan
+1468,1470,W,checkmate,2023-03-20 21:34:14,Poland
+1460,1412,W,resignation,2023-03-20 21:31:23,Argentina
+1461,1457,L,time,2023-03-20 21:28:03,Poland
+1470,1456,L,time,2023-03-20 21:25:55,Algeria
+1479,1529,L,time,2023-03-20 21:23:53,Germany
+1486,1446,W,time,2023-03-20 21:21:39,Mexico
+1487,1456,W,time,2023-03-20 21:17:23,United States
+1479,1453,L,time,2023-03-20 21:15:20,Netherlands
+1496,1566,L,time,2023-03-20 20:27:38,Israel
+1519,1565,D,stalemate,2023-03-20 19:33:32,United Kingdom
+1510,1546,L,time,2023-03-20 18:56:35,Portugal
+1518,1511,W,resignation,2023-03-20 17:45:31,Poland
+1500,1481,L,checkmate,2023-03-20 13:30:02,Poland
+1509,1494,L,checkmate,2023-03-20 13:28:47,Mexico
+1518,1506,L,time,2023-03-20 10:54:36,United Arab Emirates
+1521,1579,L,time,2023-03-20 09:52:53,United Kingdom
+1528,1552,W,time,2023-03-20 08:38:39,Germany
+1529,1542,L,time,2023-03-18 19:51:35,United States
+1535,1504,W,checkmate,2023-03-18 19:43:22,Mexico
+1512,1475,W,resignation,2023-03-18 18:45:45,India
+1511,1475,W,time,2023-03-18 17:43:18,Romania
+1510,1483,W,checkmate,2023-03-18 15:34:23,Kazakhstan
+1502,1495,L,time,2023-03-18 15:32:27,Greece
+1519,1540,W,checkmate,2023-03-18 06:00:40,Malaysia
+1526,1516,W,time,2023-03-18 01:16:59,Lebanon
+1518,1531,L,time,2023-03-18 00:45:26,United Kingdom
+1534,1571,L,checkmate,2023-03-18 00:42:33,United States
+1542,1491,W,resignation,2023-03-18 00:40:43,Brazil
+1535,1488,W,time,2023-03-18 00:36:38,United States
+1521,1500,W,checkmate,2023-03-17 22:05:55,Romania
+1513,1471,W,resignation,2023-03-17 21:34:15,Italy
+1506,1467,W,resignation,2023-03-17 21:00:56,United Kingdom
+1499,1551,L,checkmate,2023-03-17 20:55:14,Lebanon
+1499,1515,L,time,2023-03-17 20:48:34,Russia
+1499,1457,W,checkmate,2023-03-17 20:40:18,Ireland
+1501,1524,D,stalemate,2023-03-17 20:04:24,Norway
+1502,1507,W,checkmate,2023-03-17 19:51:53,United States
+1493,1501,L,time,2023-03-17 19:19:28,Belgium
+1493,1552,L,time,2023-03-17 19:04:32,Philippines
+1492,1421,W,time,2023-03-17 18:57:57,Germany
+1485,1470,W,time,2023-03-17 18:15:31,Portugal
+1469,1472,W,checkmate,2023-03-17 16:56:34,Cyprus
+1469,1414,W,checkmate,2023-03-17 16:43:38,United States
+1462,1442,W,time,2023-03-17 16:26:19,Cuba
+1454,1490,L,checkmate,2023-03-17 15:11:08,Netherlands
+1454,1428,L,time,2023-03-17 01:39:38,United States
+1464,1467,W,checkmate,2023-03-16 22:28:57,France
+1449,1411,W,resignation,2023-03-16 22:04:23,Suriname
+1441,1460,W,time,2023-03-16 19:58:17,Spain
+1432,1446,L,checkmate,2023-03-16 19:11:26,US Virgin Islands
+1449,1491,L,time,2023-03-16 17:23:53,Brazil
+1456,1392,W,checkmate,2023-03-16 17:21:38,United Kingdom
+1427,1383,W,time,2023-03-16 16:38:14,Turkey
+1420,1475,L,checkmate,2023-03-16 15:39:10,Israel
+1445,1526,L,time,2023-03-16 04:47:48,Afghanistan
+1460,1424,W,checkmate,2023-03-16 02:47:13,Indonesia
+1452,1466,L,checkmate,2023-03-16 01:35:48,Ecuador
+1454,1490,L,time,2023-03-16 00:20:57,Malaysia
+1461,1429,W,time,2023-03-15 23:55:08,Ukraine
+1453,1390,W,resignation,2023-03-15 23:16:46,Romania
+1431,1385,W,time,2023-03-15 20:37:09,Italy
+1432,1450,W,time,2023-03-15 18:52:03,India
+1423,1400,W,checkmate,2023-03-15 18:50:15,Romania
+1415,1390,L,checkmate,2023-03-15 18:09:41,International
+1422,1385,L,time,2023-03-15 03:08:45,United States
+1422,1414,W,time,2023-03-14 20:29:10,Italy
+1422,1396,W,checkmate,2023-03-14 18:30:44,Spain
+1414,1402,W,resignation,2023-03-14 18:15:36,United States
+1406,1385,W,time,2023-03-14 17:13:29,Chile
+1405,1411,W,time,2023-03-13 17:06:49,United States
+1396,1354,W,checkmate,2023-03-13 14:14:31,North Macedonia
+1404,1383,D,stalemate,2023-03-12 18:49:49,Russia
+1420,1418,W,checkmate,2023-03-12 01:51:42,United States
+1403,1434,L,time,2023-03-11 22:02:32,United States
+1411,1391,W,time,2023-03-11 20:49:48,United States
+1403,1394,W,checkmate,2023-03-11 20:38:41,Peru
+1395,1423,L,time,2023-03-11 20:18:13,United States
+1396,1502,L,time,2023-03-11 19:32:06,Peru
+1411,1350,W,resignation,2023-03-11 18:53:03,United States
+1396,1492,L,time,2023-03-11 16:39:28,Peru
+1397,1418,D,stalemate,2023-03-11 14:44:19,France
+1396,1383,W,time,2023-03-11 14:30:45,United States
+1388,1429,L,time,2023-03-11 14:24:12,Germany
+1395,1389,W,time,2023-03-11 14:17:49,Iraq
+1387,1413,L,checkmate,2023-03-11 14:17:20,Colombia
+1395,1387,W,resignation,2023-03-11 13:33:58,France
+1412,1373,W,abandoned,2023-03-11 02:44:55,United States
+1378,1404,L,checkmate,2023-03-11 01:38:58,United States
+1377,1335,W,time,2023-03-10 23:25:00,United States
+1370,1321,W,time,2023-03-10 23:20:12,Brazil
+1363,1391,L,time,2023-03-10 22:39:09,Spain
+1371,1337,W,checkmate,2023-03-10 22:35:54,Serbia
+1363,1350,W,time,2023-03-10 22:01:04,Hong Kong
+1356,1411,L,time,2023-03-10 21:30:00,Brazil
+1356,1370,D,material,2023-03-10 18:46:42,India
+1356,1320,D,repetition,2023-03-10 18:34:18,Norway
+1349,1412,L,time,2023-03-10 17:51:00,United States
+1356,1371,W,time,2023-03-10 17:45:59,Ukraine
+1338,1358,L,checkmate,2023-03-10 15:52:14,Brazil
+1347,1347,W,time,2023-03-10 13:00:39,India
+1345,1340,L,checkmate,2023-03-09 21:23:38,Indonesia
+1354,1375,W,checkmate,2023-03-09 21:06:38,United States
+1345,1332,W,checkmate,2023-03-09 19:47:49,Argentina
+1337,1346,L,time,2023-03-09 19:42:36,Switzerland
+1353,1373,W,checkmate,2023-03-09 18:48:06,United States
+1327,1314,W,time,2023-03-09 18:05:10,Spain
+1318,1265,W,time,2023-03-08 17:28:15,United States
+1302,1323,L,time,2023-03-08 16:50:31,United States
+1309,1317,L,time,2023-03-08 13:59:37,Tanzania
+1317,1337,L,time,2023-03-08 12:44:54,International
+1334,1302,L,time,2023-03-08 12:05:23,India
+1343,1323,L,time,2023-03-08 11:55:53,France
+1352,1316,W,time,2023-03-08 11:37:49,Egypt
+1329,1341,W,resignation,2023-03-07 21:34:06,Turkey
+1320,1318,L,time,2023-03-07 20:11:49,Bulgaria
+1311,1368,L,time,2023-03-07 16:18:21,United States
+1318,1298,D,repetition,2023-03-06 19:02:43,United States
+1319,1309,W,resignation,2023-03-06 18:15:00,United Kingdom
+1311,1263,W,time,2023-03-06 17:46:24,United Kingdom
+1304,1266,W,time,2023-03-06 16:40:16,Italy
+1290,1271,L,time,2023-03-06 15:29:48,United States
+1299,1307,W,resignation,2023-03-06 14:51:38,Mexico
+1292,1302,L,time,2023-03-06 13:35:54,United States
+1291,1317,L,checkmate,2023-03-06 10:43:36,Brazil
+1299,1290,W,time,2023-03-06 10:33:09,Russia
+1291,1315,L,time,2023-03-06 08:16:11,Greece
+1307,1253,W,time,2023-03-05 18:26:12,United States
+1307,1252,W,checkmate,2023-03-05 17:58:13,United States
+1300,1307,W,time,2023-03-05 17:15:48,Russia
+1291,1336,L,time,2023-03-05 13:32:22,United States
+1315,1331,W,time,2023-03-04 21:59:28,Turkey
+1314,1372,L,time,2023-03-04 20:14:44,Italy
+1321,1330,L,time,2023-03-04 18:59:01,Israel
+1329,1356,L,time,2023-03-04 18:54:11,El Salvador
+1328,1329,L,time,2023-03-04 18:37:00,United Kingdom
+1336,1381,L,time,2023-03-04 17:13:09,Italy
+1343,1402,W,resignation,2023-03-04 16:10:02,Italy
+1333,1339,W,checkmate,2023-03-04 16:00:32,United States
+1346,1336,D,stalemate,2023-03-03 23:49:15,Greenland
+1346,1383,L,time,2023-03-03 23:47:12,Italy
+1376,1333,W,time,2023-03-03 21:49:27,United States
+1369,1355,W,resignation,2023-03-03 21:17:09,South Africa
+1361,1397,L,time,2023-03-03 20:39:27,International
+1375,1400,L,time,2023-03-03 20:02:54,International
+1375,1316,W,time,2023-03-03 19:32:02,United States
+1376,1341,W,time,2023-03-03 19:20:55,United Kingdom
+1369,1365,W,resignation,2023-03-03 18:33:34,Egypt
+1369,1359,W,time,2023-03-03 18:10:24,Singapore
+1370,1372,W,checkmate,2023-03-03 18:08:03,Jordan
+1362,1350,W,time,2023-03-03 18:02:41,Venezuela
+1352,1322,W,time,2023-03-03 17:50:37,Italy
+1344,1387,L,time,2023-03-03 16:57:02,Ireland
+1374,1322,W,time,2023-03-03 14:23:49,Argentina
+1376,1425,L,time,2023-03-03 14:19:46,Israel
+1383,1411,L,time,2023-03-03 14:16:34,United States
+1391,1405,W,checkmate,2023-03-03 13:50:08,France
+1391,1351,W,time,2023-03-03 13:41:55,Georgia
+1376,1321,W,checkmate,2023-03-03 13:33:00,United States
+1368,1414,L,checkmate,2023-03-03 13:22:25,United States
+1366,1321,W,time,2023-03-03 13:12:33,International
+1359,1335,L,time,2023-03-03 12:55:20,Serbia
+1368,1364,L,checkmate,2023-03-03 12:47:58,United Kingdom
+1374,1386,L,checkmate,2023-03-02 20:42:36,Iran
+1390,1369,W,time,2023-03-02 20:38:14,Russia
+1373,1330,W,checkmate,2023-03-02 20:35:07,Australia
+1373,1383,W,time,2023-03-02 20:31:10,United States
+1372,1391,L,time,2023-03-02 20:21:19,International
+1389,1394,L,time,2023-03-02 19:36:11,Sweden
+1388,1393,W,checkmate,2023-03-02 17:01:18,Poland
+1372,1380,L,time,2023-03-02 15:09:11,Uzbekistan
+1371,1415,L,time,2023-03-02 14:29:23,Germany
+1378,1339,D,stalemate,2023-03-02 14:25:30,Italy
+1379,1352,W,time,2023-03-02 14:22:53,Colombia
+1377,1398,L,time,2023-03-02 13:42:09,Turkey
+1385,1383,W,time,2023-03-02 13:39:49,Germany
+1385,1421,L,time,2023-03-02 13:32:55,Russia
+1383,1427,D,material,2023-03-02 13:10:37,Scotland
+1382,1369,L,time,2023-03-02 13:04:32,United States
+1391,1330,W,time,2023-03-02 13:01:11,Belgium
+1361,1331,W,time,2023-03-02 00:21:24,United States
+1353,1331,W,checkmate,2023-03-01 22:58:29,United States
+1337,1299,D,material,2023-03-01 22:53:13,Croatia
+1345,1352,W,time,2023-03-01 22:45:04,United States
+1336,1374,L,checkmate,2023-03-01 22:29:39,Russia
+1328,1305,W,time,2023-03-01 21:27:43,Germany
+1312,1264,W,checkmate,2023-03-01 21:22:59,United States
+1306,1341,L,time,2023-03-01 20:03:19,United States
+1321,1301,L,checkmate,2023-03-01 18:30:32,Argentina
+1330,1319,W,time,2023-03-01 18:20:20,India
+1329,1267,W,resignation,2023-03-01 16:59:02,Colombia
+1322,1320,L,time,2023-03-01 16:42:07,India
+1332,1361,L,time,2023-03-01 11:24:40,Singapore
+1351,1375,L,time,2023-03-01 11:18:36,International
+1351,1348,L,resignation,2023-03-01 10:11:26,United States
+1359,1400,W,checkmate,2023-03-01 09:49:11,Scotland
+1341,1322,L,time,2023-02-28 19:35:02,Costa Rica
+1350,1323,L,checkmate,2023-02-28 19:25:20,International
+1368,1382,W,time,2023-02-28 19:21:00,United States
+1367,1404,L,time,2023-02-28 18:24:51,United States
+1375,1298,W,time,2023-02-28 18:18:24,India
+1361,1358,W,resignation,2023-02-28 18:16:31,Brazil
+1353,1367,L,time,2023-02-28 18:14:19,South Africa
+1378,1344,W,checkmate,2023-02-28 18:07:08,United States
+1378,1357,W,resignation,2023-02-28 17:31:46,Chile
+1370,1271,W,time,2023-02-28 16:47:22,Argentina
+1362,1342,W,time,2023-02-28 16:02:04,International
+1354,1320,W,time,2023-02-28 16:00:00,India
+1354,1224,W,time,2023-02-28 15:37:43,United Kingdom
+1349,1325,W,checkmate,2023-02-28 15:34:15,United States
+1349,1396,L,time,2023-02-28 15:17:03,Venezuela
+1356,1381,L,time,2023-02-28 14:46:47,Indonesia
+1348,1375,L,time,2023-02-28 13:02:02,Brazil
+1364,1378,L,time,2023-02-28 12:21:48,United States
+1372,1360,L,time,2023-02-28 12:20:03,United States
+1381,1434,L,time,2023-02-28 12:13:47,Finland
+1379,1373,W,resignation,2023-02-28 12:05:47,Russia
+1370,1351,L,time,2023-02-28 11:45:01,Netherlands
+1379,1382,W,checkmate,2023-02-28 11:10:33,United States
+1379,1385,W,time,2023-02-28 11:06:50,Iran
+1379,1430,L,time,2023-02-28 10:19:50,Netherlands
+1378,1396,L,checkmate,2023-02-27 21:29:55,Spain
+1394,1442,L,time,2023-02-27 20:40:04,Colombia
+1401,1420,W,time,2023-02-27 20:19:26,Egypt
+1392,1384,L,time,2023-02-27 19:35:57,Brazil
+1401,1380,W,checkmate,2023-02-27 19:29:06,Mexico
+1385,1408,L,time,2023-02-27 18:42:38,Poland
+1402,1358,W,resignation,2023-02-27 17:17:48,Peru
+1402,1395,W,resignation,2023-02-27 16:49:53,Spain
+1401,1391,L,checkmate,2023-02-27 12:19:22,Mexico
+1410,1395,W,checkmate,2023-02-27 12:11:44,South Africa
+1393,1417,L,time,2023-02-26 23:18:56,India
+1408,1456,W,time,2023-02-26 23:08:57,United States
+1398,1407,L,time,2023-02-26 23:02:53,Ukraine
+1397,1389,W,time,2023-02-26 22:55:19,France
+1389,1377,W,time,2023-02-26 22:53:16,United States
+1381,1367,W,resignation,2023-02-26 22:51:58,United States
+1365,1332,L,time,2023-02-26 22:30:25,Norway
+1374,1433,L,checkmate,2023-02-26 22:28:15,France
+1388,1344,W,resignation,2023-02-26 21:45:04,United States
+1381,1345,W,checkmate,2023-02-26 21:43:22,United States
+1375,1374,L,time,2023-02-26 21:20:16,Brazil
+1383,1358,L,time,2023-02-26 21:17:55,United Kingdom
+1385,1329,W,resignation,2023-02-26 21:15:10,United States
+1371,1355,L,checkmate,2023-02-26 21:11:16,Brazil
+1372,1390,W,time,2023-02-26 21:07:23,Turkey
+1355,1310,W,time,2023-02-26 21:03:00,United Kingdom
+1339,1378,L,time,2023-02-26 19:31:42,Nigeria
+1346,1305,W,time,2023-02-26 19:29:30,Japan
+1332,1376,L,time,2023-02-26 18:31:02,United States
+1345,1349,W,time,2023-02-26 16:39:10,Indonesia
+1337,1319,L,time,2023-02-26 16:36:53,Georgia
+1346,1369,W,checkmate,2023-02-26 16:35:07,United States
+1337,1287,W,time,2023-02-26 16:32:50,United States
+1322,1284,W,checkmate,2023-02-26 16:29:00,Greece
+1314,1251,W,checkmate,2023-02-26 14:46:18,India
+1313,1317,W,time,2023-02-26 14:33:26,India
+1305,1364,L,time,2023-02-26 14:28:47,Russia
+1319,1263,W,time,2023-02-26 14:24:24,Colombia
+1312,1349,L,time,2023-02-26 14:21:24,Malaysia
+1319,1282,W,time,2023-02-26 14:16:33,South Korea
+1296,1347,L,time,2023-02-26 13:31:14,Peru
+1310,1319,L,time,2023-02-25 21:12:35,Peru
+1318,1234,W,time,2023-02-25 21:10:37,United States
+1312,1252,W,time,2023-02-25 21:08:25,United States
+1297,1320,L,time,2023-02-25 20:57:00,Ukraine
+1305,1341,L,time,2023-02-25 20:40:06,International
+1301,1279,W,time,2023-02-25 17:55:59,Australia
+1293,1232,W,resignation,2023-02-25 16:08:16,Greece
+1278,1291,W,time,2023-02-25 15:59:04,Austria
+1269,1300,W,checkmate,2023-02-25 15:51:39,United States
+1269,1248,L,time,2023-02-25 15:16:18,United Arab Emirates
+1286,1346,L,time,2023-02-25 15:09:43,Latvia
+1302,1320,L,time,2023-02-24 15:46:56,Italy
+1302,1281,D,material,2023-02-24 14:55:41,Turkey
+1311,1259,W,time,2023-02-24 11:54:33,United States
+1304,1284,W,time,2023-02-24 11:23:23,Iran
+1288,1353,W,time,2023-02-24 04:44:07,Philippines
+1278,1220,W,resignation,2023-02-24 04:43:12,United Kingdom
+1263,1258,W,time,2023-02-24 00:27:19,Peru
+1247,1271,W,checkmate,2023-02-23 19:01:53,Netherlands
+1238,1209,W,time,2023-02-23 18:36:43,Israel
+1239,1238,L,resignation,2023-02-23 17:57:01,Russia
+1246,1226,L,time,2023-02-22 21:27:07,United States
+1255,1305,L,time,2023-02-22 20:37:51,Italy
+1261,1239,W,time,2023-02-22 16:56:42,United Kingdom
+1253,1249,L,time,2023-02-22 13:14:41,Brazil
+1270,1292,L,checkmate,2023-02-22 00:06:51,United States
+1261,1219,W,checkmate,2023-02-21 22:23:08,Canada
+1254,1267,D,stalemate,2023-02-21 22:19:53,Spain
+1254,1274,W,time,2023-02-21 19:54:59,United States
+1254,1212,W,checkmate,2023-02-21 18:33:59,Brazil
+1264,1299,D,material,2023-02-21 15:09:14,Czech Republic
+1272,1280,W,time,2023-02-20 16:18:40,Egypt
+1263,1332,W,checkmate,2023-02-20 15:45:22,United States
+1244,1183,W,checkmate,2023-02-20 14:12:50,India
+1237,1252,L,time,2023-02-20 13:47:47,Brazil
+1237,1212,W,time,2023-02-20 05:50:53,Philippines
+1238,1230,L,time,2023-02-20 05:19:39,Canada
+1240,1300,L,time,2023-02-20 05:09:30,United States
+1247,1233,L,checkmate,2023-02-20 05:08:30,Australia
+1256,1295,L,time,2023-02-19 19:16:41,India
+1272,1251,W,checkmate,2023-02-19 18:13:23,United States
+1257,1226,W,checkmate,2023-02-18 22:00:41,Spain
+1251,1257,W,resignation,2023-02-18 18:38:05,Italy
+1234,1201,W,checkmate,2023-02-18 16:07:55,Thailand
+1218,1275,L,checkmate,2023-02-18 15:48:48,Albania
+1225,1253,L,time,2023-02-18 15:39:49,Ukraine
+1233,1202,W,time,2023-02-18 14:26:49,United States
+1240,1236,L,time,2023-02-17 20:37:17,Canada
+1264,1311,L,time,2023-02-17 01:31:23,United States
+1271,1249,L,time,2023-02-16 21:35:47,Argentina
+1272,1252,W,checkmate,2023-02-16 17:36:48,United States
+1264,1244,W,checkmate,2023-02-16 16:30:28,Spain
+1256,1307,L,time,2023-02-16 14:11:46,Germany
+1263,1315,L,time,2023-02-16 12:39:12,Spain
+1277,1255,W,checkmate,2023-02-15 17:30:18,Turkey
+1261,1314,L,time,2023-02-15 14:06:47,United States
+1279,1273,L,checkmate,2023-02-15 10:35:10,Russia
+1288,1286,L,time,2023-02-15 09:22:08,India
+1295,1252,W,checkmate,2023-02-14 18:00:45,Turkey
+1297,1301,W,checkmate,2023-02-14 13:56:37,Canada
+1288,1321,D,material,2023-02-14 10:44:06,United Kingdom
+1287,1313,L,time,2023-02-14 10:22:20,France
+1303,1269,W,time,2023-02-13 19:08:31,Spain
+1286,1235,W,resignation,2023-02-13 18:29:48,United States
+1288,1298,L,time,2023-02-13 16:36:35,France
+1296,1294,W,time,2023-02-12 20:10:05,Brazil
+1305,1294,L,time,2023-02-12 13:33:36,Italy
+1314,1349,L,time,2023-02-12 13:22:04,Turkey
+1314,1325,L,time,2023-02-12 00:30:19,United States
+1330,1323,L,time,2023-02-12 00:15:32,Belgium
+1347,1315,W,resignation,2023-02-11 21:04:14,Brazil
+1330,1319,L,checkmate,2023-02-11 20:36:02,Italy
+1338,1323,L,time,2023-02-11 15:39:46,Germany
+1330,1337,W,checkmate,2023-02-11 15:29:49,Israel
+1321,1276,W,checkmate,2023-02-11 15:03:19,Poland
+1314,1285,L,time,2023-02-11 14:54:36,United States
+1331,1280,W,checkmate,2023-02-10 18:51:28,United States
+1332,1357,L,time,2023-02-10 16:11:33,Italy
+1355,1358,W,resignation,2023-02-10 12:13:03,India
+1354,1398,L,time,2023-02-09 21:35:43,Poland
+1361,1349,W,time,2023-02-09 21:33:31,Mexico
+1353,1404,L,time,2023-02-09 20:25:56,Mexico
+1360,1331,W,checkmate,2023-02-09 20:09:53,United States
+1352,1353,W,checkmate,2023-02-09 15:43:04,India
+1336,1299,W,checkmate,2023-02-09 13:55:55,Netherlands
+1328,1345,L,time,2023-02-08 12:44:12,Philippines
+1328,1386,L,time,2023-02-06 19:34:23,Iran
+1335,1332,W,resignation,2023-02-06 19:32:20,Mexico
+1327,1336,W,checkmate,2023-02-06 19:31:20,United Kingdom
+1325,1432,L,time,2023-02-06 17:39:19,Russia
+1330,1308,L,time,2023-02-06 15:56:42,Iran
+1331,1357,L,time,2023-02-06 08:38:57,United States
+1339,1397,L,time,2023-02-05 22:15:14,Peru
+1339,1316,L,time,2023-02-04 15:27:39,Colombia
+1348,1316,W,time,2023-02-04 13:13:37,Palestine
+1356,1369,W,checkmate,2023-02-03 17:30:57,Malta
+1355,1335,W,abandoned,2023-02-02 20:49:18,Algeria
+1347,1333,L,time,2023-02-02 20:09:25,Slovakia
+1373,1353,W,time,2023-02-02 18:13:45,Germany
+1373,1331,W,time,2023-02-02 00:21:02,Canada
+1366,1407,L,time,2023-02-01 19:44:17,Poland
+1367,1306,W,time,2023-02-01 19:10:25,United States
+1360,1384,L,time,2023-01-31 16:40:41,United States
+1385,1388,L,time,2023-01-29 19:34:17,Georgia
+1393,1456,L,time,2023-01-28 19:24:21,Romania
+1393,1369,W,resignation,2023-01-28 18:12:01,Suriname
+1359,1338,W,time,2023-01-28 15:25:09,Italy
+1351,1364,L,checkmate,2023-01-27 18:23:19,Chile
+1367,1337,D,material,2023-01-26 21:19:32,US Virgin Islands
+1368,1389,L,time,2023-01-26 19:44:38,Canada
+1375,1350,W,time,2023-01-26 15:49:04,Spain
+1367,1386,L,time,2023-01-25 19:25:37,Czech Republic
+1381,1444,L,time,2023-01-24 13:21:23,India
+1396,1432,L,time,2023-01-24 10:55:05,Germany
+1404,1397,W,time,2023-01-24 10:39:20,Germany
+1412,1437,W,checkmate,2023-01-23 20:35:45,India
+1403,1453,L,time,2023-01-23 18:23:01,Poland
+1410,1400,W,time,2023-01-23 18:20:51,United States
+1404,1424,L,time,2023-01-22 20:23:41,Saudi Arabia
+1412,1397,W,checkmate,2023-01-21 22:40:57,United Kingdom
+1395,1307,W,time,2023-01-21 16:31:00,Turkey
+1389,1355,W,time,2023-01-20 17:09:16,Malaysia
+1381,1420,L,time,2023-01-20 16:32:19,Dominican Republic
+1389,1347,W,checkmate,2023-01-19 18:06:48,Brazil
+1382,1324,W,time,2023-01-19 17:55:47,Poland
+1383,1404,W,checkmate,2023-01-19 17:28:34,United States
+1381,1317,W,time,2023-01-18 22:58:34,United States
+1381,1418,D,stalemate,2023-01-18 19:23:26,Germany
+1372,1347,W,resignation,2023-01-18 16:30:16,India
+1371,1337,W,time,2023-01-17 18:22:26,Brazil
+1363,1323,W,time,2023-01-17 14:19:05,Egypt
+1349,1328,L,time,2023-01-17 12:48:26,Netherlands
+1368,1311,W,checkmate,2023-01-16 18:25:40,Czech Republic
+1360,1393,L,time,2023-01-15 16:39:35,Indonesia
+1368,1372,W,checkmate,2023-01-15 16:28:10,Burundi
+1360,1366,L,time,2023-01-15 15:56:47,Spain
+1377,1418,L,time,2023-01-14 19:48:44,India
+1392,1420,L,time,2023-01-14 17:51:07,France
+1400,1431,W,time,2023-01-14 13:16:44,India
+1383,1420,L,time,2023-01-13 18:22:37,Sweden
+1400,1436,L,time,2023-01-13 14:46:26,Guatemala
+1398,1403,L,time,2023-01-12 18:46:15,Poland
+1414,1501,W,time,2023-01-12 15:39:25,India
+1404,1369,W,time,2023-01-11 17:41:01,United States
+1396,1459,L,time,2023-01-11 03:04:12,Japan
+1403,1401,L,time,2023-01-10 15:32:52,India
+1402,1379,W,checkmate,2023-01-09 21:13:20,Canada
+1387,1402,L,time,2023-01-09 19:40:27,Mexico
+1386,1412,D,material,2023-01-09 18:43:33,France
+1369,1349,W,time,2023-01-09 16:57:56,Canada
+1369,1361,L,time,2023-01-09 14:59:02,Ecuador
+1378,1392,W,resignation,2023-01-09 14:50:36,Italy
+1369,1326,L,time,2023-01-08 22:13:09,United States
+1370,1348,L,checkmate,2023-01-08 13:54:47,Bosnia-Herzegovina
+1379,1351,L,time,2023-01-08 12:20:55,India
+1371,1341,W,time,2023-01-06 22:33:49,Spain
+1355,1360,L,time,2023-01-06 18:20:01,Brazil
+1363,1327,W,time,2023-01-06 15:18:33,Armenia
+1347,1296,W,checkmate,2023-01-05 22:03:00,Canada
+1340,1334,L,time,2023-01-05 20:31:08,Ukraine
+1356,1348,L,time,2023-01-05 18:53:31,Italy
+1372,1383,L,time,2023-01-05 12:54:40,Slovakia
+1380,1334,W,checkmate,2023-01-04 21:26:39,Saudi Arabia
+1382,1386,L,time,2023-01-04 19:40:36,Poland
+1405,1425,L,time,2023-01-04 15:57:08,United States
+1413,1409,W,resignation,2023-01-04 12:50:09,Finland
+1397,1439,L,time,2023-01-04 10:56:01,United Kingdom
+1394,1445,L,checkmate,2023-01-04 09:15:05,Philippines
+1402,1466,L,time,2023-01-03 22:24:57,United States
+1418,1443,W,resignation,2023-01-03 21:02:42,Germany
+1409,1379,W,time,2023-01-03 20:51:04,Italy
+1387,1367,D,material,2023-01-03 18:32:43,Iran
+1413,1377,W,time,2023-01-03 11:01:45,Kosovo
+1406,1433,D,stalemate,2023-01-03 01:47:33,Brazil
+1397,1399,L,time,2023-01-03 01:36:02,United States
+1405,1384,W,checkmate,2023-01-03 00:53:35,United States
+1397,1459,L,time,2023-01-02 20:39:33,United States
+1396,1355,W,checkmate,2023-01-02 17:10:23,Sweden
+1389,1446,L,time,2023-01-02 15:07:05,Switzerland
+1388,1340,W,checkmate,2023-01-01 21:57:09,Brazil
+1387,1389,W,checkmate,2023-01-01 21:11:16,Armenia
+1389,1334,W,resignation,2023-01-01 20:38:33,Turkey
+1382,1357,W,time,2023-01-01 20:10:55,United States
+1374,1372,L,time,2023-01-01 19:20:21,United Kingdom
+1405,1350,W,checkmate,2023-01-01 13:53:06,France
+1398,1430,L,time,2023-01-01 03:11:37,United States
+1415,1459,L,time,2023-01-01 01:12:45,Canada
+1422,1461,L,time,2023-01-01 00:47:50,Colombia
+1429,1427,W,checkmate,2023-01-01 00:38:25,Mexico
+1428,1406,L,checkmate,2023-01-01 00:20:44,United States
+1437,1441,W,time,2022-12-31 22:43:56,United States
+1428,1416,W,resignation,2022-12-31 22:15:01,Germany
+1420,1417,L,checkmate,2022-12-31 22:11:28,United Kingdom
+1436,1383,W,time,2022-12-31 21:47:45,United States
+1435,1389,W,resignation,2022-12-30 22:53:28,Norway
+1428,1368,W,checkmate,2022-12-30 14:50:05,Brazil
+1446,1462,W,time,2022-12-30 11:06:19,France
+1437,1493,L,time,2022-12-29 20:56:20,Turkey
+1442,1470,W,checkmate,2022-12-29 13:51:10,Italy
+1433,1496,L,checkmate,2022-12-29 02:53:30,United States
+1440,1462,W,time,2022-12-28 13:29:41,Mauritius
+1431,1456,L,checkmate,2022-12-25 13:27:12,Poland
+1423,1409,W,resignation,2022-12-24 13:18:41,Romania
+1413,1461,L,time,2022-12-22 07:00:00,India
+1421,1380,W,checkmate,2022-12-21 21:31:24,Ireland
+1414,1426,L,checkmate,2022-12-21 20:52:42,Netherlands
+1422,1400,L,abandoned,2022-12-21 19:43:13,United States
+1439,1468,L,checkmate,2022-12-21 19:10:08,France
+1447,1459,W,time,2022-12-21 18:35:50,India
+1462,1506,L,time,2022-12-20 23:53:17,Canada
+1462,1510,L,time,2022-12-20 22:50:30,Serbia
+1469,1452,W,time,2022-12-20 20:58:13,Denmark
+1461,1466,L,time,2022-12-20 20:17:55,Azerbaijan
+1469,1478,D,material,2022-12-20 19:51:55,United States
+1490,1449,W,time,2022-12-20 16:12:13,Mexico
+1475,1435,W,time,2022-12-19 23:18:42,India
+1468,1427,W,time,2022-12-19 22:51:12,Peru
+1461,1438,W,checkmate,2022-12-19 22:44:39,Argentina
+1453,1430,L,time,2022-12-19 21:15:28,United States
+1462,1521,L,time,2022-12-19 21:13:35,International
+1478,1460,W,resignation,2022-12-19 19:52:57,India
+1460,1462,W,time,2022-12-19 18:26:11,United States
+1452,1389,W,resignation,2022-12-19 18:25:18,Brazil
+1445,1467,W,time,2022-12-19 16:26:07,France
+1436,1469,L,time,2022-12-19 15:31:44,India
+1419,1409,W,resignation,2022-12-19 15:14:27,Canada
+1411,1348,W,checkmate,2022-12-19 15:12:45,Mexico
+1389,1401,W,checkmate,2022-12-18 22:26:04,Israel
+1388,1335,W,checkmate,2022-12-18 19:43:54,United States
+1381,1380,W,checkmate,2022-12-18 16:40:48,Poland
+1380,1367,L,checkmate,2022-12-18 14:53:28,United States
+1398,1442,L,time,2022-12-18 13:21:01,Turkey
+1405,1383,W,time,2022-12-18 12:23:24,Germany
+1405,1431,L,time,2022-12-18 00:30:51,United States
+1413,1411,W,checkmate,2022-12-18 00:29:00,Puerto Rico
+1397,1447,L,time,2022-12-17 19:04:00,Sri Lanka
+1411,1409,L,checkmate,2022-12-17 15:21:59,Indonesia
+1419,1391,W,resignation,2022-12-17 15:19:10,France
+1411,1477,L,time,2022-12-17 12:13:34,United States
+1418,1482,L,time,2022-12-17 12:09:06,Austria
+1427,1475,L,time,2022-12-16 16:58:38,United States
+1434,1383,W,resignation,2022-12-16 11:03:15,Brazil
+1401,1451,L,time,2022-12-15 16:24:20,United States
+1416,1413,W,time,2022-12-15 16:19:39,Italy
+1408,1458,L,time,2022-12-15 16:04:29,Brazil
+1415,1473,L,time,2022-12-15 15:58:38,India
+1415,1454,L,time,2022-12-14 21:59:57,Switzerland
+1422,1371,W,time,2022-12-14 21:57:44,United States
+1390,1406,W,checkmate,2022-12-14 16:37:18,United Kingdom
+1396,1467,L,time,2022-12-14 14:21:30,European Union
+1403,1387,L,time,2022-12-14 14:18:49,Romania
+1412,1395,L,time,2022-12-13 17:49:10,Austria
+1421,1406,W,resignation,2022-12-13 17:31:58,India
+1421,1386,W,time,2022-12-12 21:21:59,United States
+1422,1373,W,time,2022-12-12 20:47:55,South Africa
+1408,1367,W,time,2022-12-12 20:19:34,Serbia
+1393,1440,D,material,2022-12-12 15:50:34,United States
+1392,1286,W,time,2022-12-12 15:35:43,Italy
+1386,1333,W,time,2022-12-12 15:33:40,Indonesia
+1370,1414,L,time,2022-12-12 13:08:05,Honduras
+1377,1383,W,checkmate,2022-12-11 14:04:49,United States
+1358,1352,L,time,2022-12-10 11:39:53,Indonesia
+1368,1391,W,checkmate,2022-12-10 11:28:23,United States
+1359,1320,W,resignation,2022-12-10 11:05:11,Finland
+1335,1285,W,time,2022-12-09 17:24:18,Sweden
+1327,1291,W,resignation,2022-12-09 16:47:45,Seychelles
+1319,1353,L,time,2022-12-09 16:16:17,Germany
+1320,1288,W,time,2022-12-09 09:46:09,Philippines
+1312,1339,L,time,2022-12-08 23:31:03,Chile
+1321,1342,W,resignation,2022-12-08 20:45:02,Netherlands
+1312,1275,W,time,2022-12-08 17:41:47,United States
+1304,1302,W,time,2022-12-08 17:40:14,United Kingdom
+1279,1329,L,time,2022-12-08 17:14:40,United States
+1294,1273,L,time,2022-12-08 13:02:27,India
+1303,1300,L,time,2022-12-08 13:00:04,Turkey
+1338,1307,L,time,2022-12-07 15:15:06,US Virgin Islands
+1347,1393,L,time,2022-12-07 15:10:38,United States
+1354,1290,W,checkmate,2022-12-06 13:50:54,United States
+1355,1345,L,time,2022-12-06 12:24:09,Russia
+1364,1343,D,stalemate,2022-12-05 23:36:35,Spain
+1379,1343,W,resignation,2022-12-05 23:00:47,Canada
+1348,1341,W,time,2022-12-05 22:09:35,India
+1340,1371,W,time,2022-12-05 20:14:53,United States
+1315,1271,L,time,2022-12-05 10:19:47,Syria
+1324,1325,W,time,2022-12-05 09:59:18,Venezuela
+1324,1287,W,time,2022-12-04 19:52:14,Spain
+1317,1324,L,time,2022-12-04 18:28:43,Egypt
+1325,1288,W,checkmate,2022-12-03 23:32:56,Russia
+1318,1317,L,time,2022-12-03 22:51:19,Italy
+1319,1306,W,resignation,2022-12-03 21:38:01,Brazil
+1327,1317,L,time,2022-12-03 00:58:21,Chile
+1328,1349,W,checkmate,2022-12-02 23:02:37,Turkey
+1327,1361,L,time,2022-12-02 21:27:46,Egypt
+1343,1352,W,time,2022-12-02 18:10:27,United Arab Emirates
+1334,1299,W,time,2022-12-02 13:35:56,Chile
+1302,1351,W,checkmate,2022-12-01 17:13:03,United Kingdom
+1292,1282,L,time,2022-12-01 17:03:26,France
+1293,1324,L,time,2022-12-01 16:27:51,Italy
+1308,1297,L,time,2022-12-01 13:20:14,International
+1317,1290,L,checkmate,2022-12-01 13:04:34,Netherlands
+1326,1265,L,time,2022-12-01 13:00:31,Peru
+1318,1354,L,time,2022-11-30 12:46:22,Russia
+1326,1234,W,checkmate,2022-11-30 11:31:27,Spain
+1345,1320,L,time,2022-11-28 20:04:18,Spain
+1354,1352,L,time,2022-11-28 19:12:16,Estonia
+1362,1346,L,time,2022-11-28 19:07:34,Russia
+1371,1397,L,time,2022-11-28 18:46:38,Netherlands
+1384,1398,W,time,2022-11-28 15:14:06,Poland
+1390,1364,W,checkmate,2022-11-27 15:38:32,France
+1374,1355,W,resignation,2022-11-27 14:38:32,Poland
+1366,1366,W,checkmate,2022-11-27 14:17:46,Uzbekistan
+1358,1324,W,time,2022-11-27 13:41:09,Indonesia
+1350,1407,L,time,2022-11-27 13:37:38,India
+1362,1300,W,time,2022-11-27 12:49:56,United States
+1362,1359,L,checkmate,2022-11-27 10:16:40,United States
+1370,1311,W,resignation,2022-11-26 22:21:48,Canada
+1371,1292,W,resignation,2022-11-26 21:43:28,Slovenia
+1364,1343,W,time,2022-11-26 20:37:46,Brazil
+1349,1385,L,time,2022-11-26 19:26:20,Canada
+1347,1341,W,time,2022-11-26 16:48:22,International
+1346,1292,W,checkmate,2022-11-26 15:56:25,International
+1347,1311,W,checkmate,2022-11-26 13:27:08,Russia
+1347,1297,W,time,2022-11-26 12:51:29,United States
+1340,1323,W,checkmate,2022-11-26 11:59:49,United States
+1332,1339,W,resignation,2022-11-26 11:55:51,United Kingdom
+1323,1313,W,checkmate,2022-11-26 11:16:18,Ukraine
+1323,1304,L,time,2022-11-25 18:40:22,Hungary
+1332,1319,W,checkmate,2022-11-25 18:31:22,Czech Republic
+1335,1336,L,time,2022-11-25 16:52:33,United Arab Emirates
+1351,1387,L,checkmate,2022-11-25 16:35:56,United States
+1358,1401,L,time,2022-11-25 16:32:59,Denmark
+1349,1344,L,time,2022-11-24 21:48:54,Germany
+1357,1360,W,checkmate,2022-11-24 21:36:52,Mexico
+1350,1308,D,stalemate,2022-11-24 21:16:14,Egypt
+1336,1299,W,resignation,2022-11-24 17:30:17,Nigeria
+1328,1365,D,material,2022-11-24 17:21:36,Spain
+1319,1335,L,time,2022-11-24 16:00:58,Peru
+1327,1296,W,checkmate,2022-11-24 13:58:53,Albania
+1328,1308,W,resignation,2022-11-24 12:35:25,Lebanon
+1320,1271,W,checkmate,2022-11-24 12:31:46,Germany
+1321,1358,L,time,2022-11-24 10:42:26,Somalia
+1321,1310,W,time,2022-11-23 22:15:46,Bosnia-Herzegovina
+1304,1297,W,time,2022-11-23 18:23:22,Slovenia
+1296,1263,W,time,2022-11-23 18:12:14,Russia
+1280,1309,L,time,2022-11-23 12:34:50,Brazil
+1280,1301,L,time,2022-11-23 11:39:56,Switzerland
+1288,1207,W,time,2022-11-23 11:36:05,Germany
+1256,1239,W,time,2022-11-22 22:48:07,Poland
+1255,1241,L,time,2022-11-22 21:24:28,Brazil
+1264,1260,L,checkmate,2022-11-22 19:02:54,Turkey
+1281,1273,W,time,2022-11-22 17:52:38,Russia
+1266,1252,W,time,2022-11-22 13:07:13,India
+1258,1234,W,resignation,2022-11-22 00:39:24,Colombia
+1250,1256,L,time,2022-11-22 00:12:52,Brazil
+1266,1287,W,resignation,2022-11-21 20:35:54,United States
+1257,1308,L,time,2022-11-21 20:06:14,Italy
+1264,1213,W,time,2022-11-21 19:53:48,Israel
+1280,1251,W,resignation,2022-11-21 16:37:10,United States
+1267,1257,L,time,2022-11-21 14:31:28,India
+1276,1285,W,time,2022-11-21 14:19:30,Romania
+1267,1265,L,time,2022-11-21 13:51:50,Netherlands
+1275,1308,W,time,2022-11-21 13:42:55,India
+1266,1305,D,stalemate,2022-11-21 10:58:04,Italy
+1256,1256,L,checkmate,2022-11-20 22:43:19,Georgia
+1279,1341,L,checkmate,2022-11-20 13:26:03,Australia
+1286,1228,W,time,2022-11-20 10:27:38,United States
+1279,1316,L,checkmate,2022-11-19 18:49:30,Sweden
+1296,1335,L,checkmate,2022-11-19 16:04:39,Bosnia-Herzegovina
+1295,1276,L,time,2022-11-19 12:29:04,Philippines
+1304,1309,L,time,2022-11-18 17:37:56,Egypt
+1304,1294,L,resignation,2022-11-18 16:38:29,Brazil
+1313,1247,L,time,2022-11-18 16:15:05,Slovenia
+1333,1353,L,checkmate,2022-11-18 14:40:08,Belgium
+1332,1437,L,time,2022-11-18 12:19:39,India
+1354,1320,W,time,2022-11-18 11:07:36,United Kingdom
+1346,1278,L,checkmate,2022-11-18 11:05:47,Germany
+1356,1328,L,time,2022-11-17 22:46:39,Argentina
+1357,1316,W,checkmate,2022-11-17 16:42:26,United States
+1350,1372,L,time,2022-11-17 16:19:26,United States
+1358,1406,L,time,2022-11-17 13:06:54,Greece
+1373,1453,L,time,2022-11-17 12:37:23,Italy
+1379,1404,W,time,2022-11-17 11:50:24,Mexico
+1378,1385,L,time,2022-11-17 08:41:17,India
+1386,1401,L,resignation,2022-11-17 07:52:29,India
+1394,1362,L,checkmate,2022-11-17 07:46:41,United States
+1412,1400,W,time,2022-11-16 20:31:36,Brazil
+1404,1379,W,resignation,2022-11-16 20:23:11,Israel
+1412,1414,W,time,2022-11-16 17:22:59,United States
+1404,1381,L,checkmate,2022-11-16 16:34:29,United States
+1420,1401,L,time,2022-11-16 13:16:01,India
+1429,1468,L,time,2022-11-16 09:51:45,United States
+1427,1472,L,resignation,2022-11-15 22:26:33,France
+1427,1399,W,checkmate,2022-11-15 21:05:43,United States
+1426,1488,L,checkmate,2022-11-15 20:54:43,Turkey
+1433,1414,W,time,2022-11-15 20:52:00,United States
+1425,1475,L,time,2022-11-15 20:49:47,Brazil
+1432,1415,W,resignation,2022-11-15 20:49:04,Palestine
+1425,1448,L,time,2022-11-15 19:17:46,United States
+1433,1405,L,checkmate,2022-11-15 19:16:43,Kuwait
+1437,1477,L,time,2022-11-15 18:56:05,Kenya
+1444,1380,W,time,2022-11-15 18:32:34,France
+1429,1461,L,time,2022-11-15 11:56:04,India
+1437,1428,L,time,2022-11-15 11:50:17,Germany
+1439,1438,L,time,2022-11-14 20:31:51,Brazil
+1447,1483,L,time,2022-11-14 18:39:52,United States
+1455,1429,W,resignation,2022-11-14 16:39:33,United States
+1449,1460,L,time,2022-11-14 14:32:58,Guatemala
+1448,1464,L,time,2022-11-14 14:18:05,Greece
+1456,1471,W,resignation,2022-11-14 13:20:55,Russia
+1431,1391,W,time,2022-11-14 07:19:00,Mexico
+1424,1454,L,time,2022-11-14 06:30:52,United States
+1432,1486,L,checkmate,2022-11-14 06:30:36,United States
+1422,1466,L,checkmate,2022-11-13 21:04:37,United States
+1447,1449,W,time,2022-11-13 19:11:52,Sweden
+1439,1455,W,time,2022-11-13 18:55:42,Estonia
+1430,1398,W,time,2022-11-13 18:52:41,Poland
+1413,1382,W,time,2022-11-13 18:45:13,Turkey
+1405,1436,W,time,2022-11-13 18:12:51,Iran
+1405,1374,D,material,2022-11-13 17:45:07,Ukraine
+1390,1338,W,checkmate,2022-11-13 12:15:42,Indonesia
+1367,1280,W,time,2022-11-12 20:19:59,Italy
+1361,1346,W,checkmate,2022-11-12 19:43:33,United Kingdom
+1346,1307,W,resignation,2022-11-12 18:43:19,United States
+1339,1397,L,checkmate,2022-11-12 17:53:26,Canada
+1354,1339,L,time,2022-11-12 12:34:47,Croatia
+1356,1344,W,time,2022-11-11 19:46:50,Malaysia
+1348,1367,W,time,2022-11-11 19:32:09,Poland
+1339,1282,W,resignation,2022-11-11 19:02:40,Brazil
+1318,1313,L,time,2022-11-11 17:15:56,Australia
+1326,1338,L,time,2022-11-11 16:07:23,Sweden
+1334,1372,L,checkmate,2022-11-11 15:30:01,United States
+1351,1341,L,time,2022-11-11 14:04:58,Croatia
+1360,1335,W,resignation,2022-11-11 14:01:59,India
+1352,1328,L,time,2022-11-11 13:43:23,United Kingdom
+1377,1429,L,time,2022-11-11 12:47:32,Poland
+1384,1391,L,time,2022-11-11 12:43:55,Spain
+1392,1394,L,time,2022-11-11 12:37:03,Zimbabwe
+1400,1356,W,time,2022-11-10 23:13:59,Norway
+1394,1369,W,time,2022-11-10 22:09:12,United States
+1393,1332,W,time,2022-11-10 18:45:58,India
+1393,1339,W,checkmate,2022-11-10 11:44:38,Romania
+1386,1398,L,time,2022-11-10 11:37:28,United States
+1394,1431,L,time,2022-11-10 11:28:25,Turkey
+1402,1430,L,time,2022-11-10 10:53:52,Vietnam
+1435,1412,L,time,2022-11-10 08:11:46,Iran
+1436,1414,W,time,2022-11-10 00:29:39,Mexico
+1437,1329,W,resignation,2022-11-09 23:40:03,Spain
+1416,1429,L,time,2022-11-09 22:55:23,United States
+1417,1390,L,time,2022-11-09 22:28:45,United States
+1426,1369,W,checkmate,2022-11-09 22:26:28,Nepal
+1419,1434,L,time,2022-11-09 21:56:35,France
+1427,1485,L,time,2022-11-09 21:32:33,Qatar
+1417,1418,L,time,2022-11-09 20:48:38,United States
+1409,1382,W,resignation,2022-11-09 18:50:36,Denmark
+1401,1428,W,resignation,2022-11-09 18:03:01,Germany
+1392,1409,L,time,2022-11-09 17:59:16,India
+1392,1412,L,time,2022-11-09 17:15:35,United States
+1400,1369,W,time,2022-11-09 17:12:02,Norway
+1392,1353,W,time,2022-11-09 16:54:19,Lithuania
+1384,1338,W,time,2022-11-09 16:34:49,Paraguay
+1369,1339,L,checkmate,2022-11-09 14:12:11,England
+1369,1318,W,resignation,2022-11-09 14:07:20,International
+1362,1360,L,time,2022-11-09 13:38:42,Colombia
+1370,1319,W,time,2022-11-09 13:32:17,Finland
+1363,1423,L,time,2022-11-09 13:22:49,Sudan
+1377,1394,W,time,2022-11-09 00:27:06,Argentina
+1361,1376,W,time,2022-11-08 23:17:31,France
+1345,1357,L,time,2022-11-08 21:35:54,Greece
+1354,1356,W,time,2022-11-08 20:45:55,Colombia
+1346,1379,L,time,2022-11-08 20:12:45,Tunisia
+1346,1378,W,resignation,2022-11-08 19:21:08,United States
+1337,1334,W,time,2022-11-08 18:55:45,Sweden
+1337,1332,L,time,2022-11-08 16:42:28,United States
+1346,1332,W,time,2022-11-08 14:38:50,Montenegro
+1338,1336,W,checkmate,2022-11-08 13:56:15,Spain
+1337,1310,W,time,2022-11-08 13:43:37,Vietnam
+1337,1277,W,time,2022-11-08 13:35:58,Mexico
+1356,1335,L,time,2022-11-08 11:29:58,Norway
+1374,1377,W,time,2022-11-08 10:53:22,Germany
+1366,1316,W,time,2022-11-08 01:00:10,Mexico
+1366,1335,L,checkmate,2022-11-08 00:25:31,Spain
+1375,1396,L,time,2022-11-08 00:12:56,United States
+1375,1374,W,time,2022-11-07 23:01:57,United States
+1379,1333,W,resignation,2022-11-07 20:33:10,Netherlands
+1372,1351,L,time,2022-11-07 20:06:19,Brazil
+1381,1366,L,checkmate,2022-11-07 20:03:15,France
+1397,1416,W,checkmate,2022-11-07 19:51:10,Kazakhstan
+1388,1393,W,resignation,2022-11-07 19:50:56,Poland
+1387,1333,W,abandoned,2022-11-07 19:15:31,Germany
+1388,1342,W,time,2022-11-07 18:30:42,India
+1389,1339,W,checkmate,2022-11-07 15:44:43,Denmark
+1382,1385,W,resignation,2022-11-07 15:29:19,Romania
+1374,1364,W,checkmate,2022-11-07 15:26:16,Singapore
+1357,1320,W,time,2022-11-07 14:51:31,Mexico
+1341,1343,L,time,2022-11-07 14:45:05,India
+1340,1341,L,time,2022-11-07 13:00:07,Italy
+1355,1384,W,checkmate,2022-11-07 12:21:30,India
+1346,1323,W,checkmate,2022-11-07 12:14:49,India
+1338,1304,W,checkmate,2022-11-07 12:11:02,Russia
+1330,1308,L,time,2022-11-07 11:49:24,United Kingdom
+1356,1338,W,checkmate,2022-11-06 22:52:15,United States
+1331,1358,L,time,2022-11-06 20:01:06,Croatia
+1347,1317,L,time,2022-11-06 19:51:14,Germany
+1356,1331,L,time,2022-11-06 19:49:05,United States
+1365,1393,L,checkmate,2022-11-06 19:48:17,United States
+1373,1312,W,time,2022-11-06 17:16:43,United Kingdom
+1366,1418,L,time,2022-11-06 17:04:56,United States
+1374,1358,L,time,2022-11-06 15:54:14,Peru
+1384,1374,W,time,2022-11-06 15:45:12,United States
+1376,1400,W,time,2022-11-06 15:36:38,Nepal
+1353,1305,W,checkmate,2022-11-06 14:42:05,United States
+1346,1353,D,material,2022-11-06 14:34:57,Peru
+1355,1309,W,time,2022-11-06 12:56:21,United States
+1348,1378,L,time,2022-11-06 12:50:45,Indonesia
+1365,1352,W,resignation,2022-11-06 02:50:03,United States
+1365,1383,W,time,2022-11-06 01:42:12,Thailand
+1365,1387,W,checkmate,2022-11-05 23:31:01,United States
+1364,1364,W,checkmate,2022-11-05 22:53:28,Argentina
+1356,1319,D,material,2022-11-05 21:09:13,Greece
+1349,1346,L,time,2022-11-05 19:13:50,India
+1357,1369,W,resignation,2022-11-05 19:13:45,United States
+1340,1320,L,time,2022-11-05 17:07:06,Bulgaria
+1349,1343,L,time,2022-11-05 17:00:41,United States
+1358,1388,W,time,2022-11-05 13:13:40,India
+1356,1353,L,time,2022-11-05 12:54:07,Spain
+1356,1305,L,time,2022-11-05 12:29:58,United States
+1374,1390,L,time,2022-11-04 20:49:12,Israel
+1382,1429,W,checkmate,2022-11-04 20:38:36,Germany
+1373,1346,W,time,2022-11-04 18:05:00,Kazakhstan
+1365,1367,W,time,2022-11-04 16:02:17,India
+1357,1344,W,time,2022-11-04 15:08:05,Philippines
+1356,1346,L,checkmate,2022-11-04 14:42:17,Czech Republic
+1355,1406,L,time,2022-11-04 14:00:07,United States
+1362,1409,L,checkmate,2022-11-04 13:54:16,India
+1369,1381,L,resignation,2022-11-04 13:45:00,Sweden
+1394,1424,L,time,2022-11-04 11:58:35,Philippines
+1394,1390,W,checkmate,2022-11-03 18:01:55,Belgium
+1386,1325,W,time,2022-11-03 17:28:02,Germany
+1379,1359,L,time,2022-11-03 17:02:56,Slovakia
+1396,1385,W,time,2022-11-03 16:52:32,United States
+1396,1404,L,checkmate,2022-11-03 16:47:10,Germany
+1405,1427,W,checkmate,2022-11-03 16:39:39,Germany
+1374,1347,L,time,2022-11-03 15:56:25,South Africa
+1390,1335,W,time,2022-11-03 15:48:03,United States
+1383,1398,L,time,2022-11-03 15:44:23,Venezuela
+1391,1344,L,time,2022-11-03 15:12:56,Mexico
+1401,1422,L,time,2022-11-03 14:36:46,Canada
+1401,1405,W,resignation,2022-11-03 13:13:39,Venezuela
+1416,1444,L,time,2022-11-02 22:08:13,United Kingdom
+1424,1466,D,repetition,2022-11-02 21:41:09,Montenegro
+1423,1417,D,material,2022-11-02 20:55:05,United States
+1423,1438,L,checkmate,2022-11-02 20:29:21,Poland
+1431,1466,L,checkmate,2022-11-02 18:39:20,United States
+1430,1387,W,checkmate,2022-11-02 18:28:09,Canada
+1421,1494,W,time,2022-11-02 17:22:12,Pakistan
+1426,1392,W,time,2022-11-02 16:24:02,United Kingdom
+1426,1437,L,time,2022-11-02 16:16:27,Serbia
+1434,1457,W,time,2022-11-02 16:13:35,Hungary
+1417,1398,L,time,2022-11-02 14:48:45,United States
+1426,1390,W,time,2022-11-02 14:34:16,India
+1402,1373,W,time,2022-11-02 13:06:19,Japan
+1401,1393,D,material,2022-11-02 12:55:33,Poland
+1394,1434,L,time,2022-11-02 12:38:23,France
+1401,1406,L,time,2022-11-02 12:36:14,Brazil
+1409,1350,W,time,2022-11-02 11:53:26,United Arab Emirates
+1402,1395,W,time,2022-11-02 11:50:29,Poland
+1402,1401,W,checkmate,2022-11-02 11:12:23,Sweden
+1409,1438,W,time,2022-11-01 23:37:33,Nigeria
+1409,1418,W,checkmate,2022-11-01 21:57:53,Catalonia
+1400,1439,L,time,2022-11-01 21:55:56,Bolivia
+1415,1418,W,time,2022-11-01 21:52:51,United Kingdom
+1407,1430,L,time,2022-11-01 20:56:47,United States
+1408,1371,W,time,2022-11-01 18:02:46,Argentina
+1401,1366,W,time,2022-11-01 15:07:16,Scotland
+1378,1356,L,time,2022-11-01 14:21:48,Egypt
+1396,1386,W,checkmate,2022-11-01 13:58:57,Germany
+1388,1382,L,time,2022-11-01 13:34:32,Spain
+1389,1413,W,checkmate,2022-11-01 12:25:59,Philippines
+1357,1346,W,time,2022-11-01 11:29:05,Poland
+1349,1320,L,time,2022-10-31 22:06:06,Peru
+1375,1380,W,time,2022-10-31 18:12:00,Belarus
+1366,1305,W,time,2022-10-31 18:09:39,Catalonia
+1367,1351,L,time,2022-10-31 16:49:49,Germany
+1376,1403,W,checkmate,2022-10-31 16:47:12,Kuwait
+1385,1322,W,time,2022-10-31 14:31:17,Poland
+1378,1374,L,time,2022-10-31 13:57:53,Vietnam
+1387,1380,L,time,2022-10-31 12:49:11,Vietnam
+1405,1371,D,repetition,2022-10-31 10:32:00,Spain
+1413,1418,L,time,2022-10-30 20:41:42,Finland
+1421,1386,D,stalemate,2022-10-30 18:41:13,Canada
+1422,1393,L,time,2022-10-30 18:30:26,United States
+1430,1466,L,time,2022-10-30 13:12:09,Uzbekistan
+1428,1390,W,resignation,2022-10-30 12:35:12,Norway
+1445,1361,W,time,2022-10-30 11:44:21,Indonesia
+1439,1376,W,resignation,2022-10-30 11:00:15,Belgium
+1432,1409,L,time,2022-10-30 10:38:32,Iran
+1441,1463,L,time,2022-10-30 10:07:37,India
+1439,1459,W,checkmate,2022-10-29 20:45:03,United Kingdom
+1422,1482,W,checkmate,2022-10-29 19:54:07,Mexico
+1412,1394,W,checkmate,2022-10-29 19:50:31,United States
+1404,1425,L,time,2022-10-29 19:12:45,Brazil
+1412,1422,L,time,2022-10-29 18:50:19,Venezuela
+1420,1413,L,time,2022-10-29 17:45:44,United States
+1437,1393,W,time,2022-10-29 17:41:40,Tonga
+1430,1387,W,time,2022-10-29 17:28:28,Spain
+1423,1393,W,checkmate,2022-10-29 16:19:08,Germany
+1408,1422,L,time,2022-10-29 16:13:05,Greece
+1416,1437,L,time,2022-10-29 15:48:59,India
+1414,1451,L,checkmate,2022-10-29 14:48:42,Poland
+1421,1438,W,checkmate,2022-10-29 14:43:27,Canada
+1412,1336,W,resignation,2022-10-29 14:40:54,Poland
+1396,1360,W,time,2022-10-29 10:16:59,Australia
+1406,1308,L,time,2022-10-29 09:14:22,United Kingdom
+1417,1372,W,checkmate,2022-10-29 09:09:05,France
+1418,1411,L,checkmate,2022-10-28 20:15:04,Brazil
+1420,1414,W,time,2022-10-28 18:48:48,Tajikistan
+1412,1397,W,resignation,2022-10-28 18:36:22,International
+1397,1361,W,checkmate,2022-10-28 17:26:51,Malaysia
+1382,1360,D,repetition,2022-10-28 12:25:10,United States
+1390,1385,W,resignation,2022-10-28 11:44:47,Russia
+1390,1406,L,resignation,2022-10-28 11:36:05,Spain
+1398,1348,W,time,2022-10-28 11:34:02,United Kingdom
+1399,1429,L,time,2022-10-28 11:13:19,India
+1424,1471,L,time,2022-10-28 10:35:07,United Kingdom
+1431,1398,W,checkmate,2022-10-28 10:32:19,Russia
+1439,1404,W,checkmate,2022-10-27 18:26:59,United States
+1431,1436,W,resignation,2022-10-27 18:04:22,Poland
+1423,1484,L,time,2022-10-27 16:45:31,Sweden
+1430,1468,L,time,2022-10-27 15:50:45,France
+1430,1393,W,resignation,2022-10-27 15:23:59,Indonesia
+1423,1438,L,time,2022-10-27 15:16:51,United States
+1431,1425,L,checkmate,2022-10-27 12:13:52,United Kingdom
+1431,1490,W,resignation,2022-10-27 11:56:36,Italy
+1430,1438,L,time,2022-10-27 09:54:00,Denmark
+1438,1475,L,checkmate,2022-10-27 09:32:49,Philippines
+1436,1441,W,checkmate,2022-10-26 17:26:45,Brazil
+1411,1384,L,time,2022-10-26 13:25:08,United States
+1420,1399,L,checkmate,2022-10-26 13:11:32,United States
+1436,1476,L,time,2022-10-26 12:37:40,Australia
+1435,1444,L,time,2022-10-26 11:40:58,India
+1443,1427,L,time,2022-10-26 11:37:55,Netherlands
+1459,1489,L,checkmate,2022-10-26 10:37:08,India
+1496,1478,W,checkmate,2022-10-25 20:19:29,South Africa
+1479,1438,W,checkmate,2022-10-25 18:49:11,North Korea
+1487,1523,L,time,2022-10-25 17:21:35,Isle of Man
+1495,1518,W,checkmate,2022-10-25 16:19:45,India
+1495,1455,W,checkmate,2022-10-25 16:00:06,Philippines
+1488,1476,W,time,2022-10-25 15:56:26,Australia
+1488,1493,W,checkmate,2022-10-25 14:26:54,Colombia
+1484,1416,W,time,2022-10-25 10:42:06,Australia
+1486,1449,W,checkmate,2022-10-25 07:34:40,United Kingdom
+1478,1514,L,time,2022-10-24 20:36:38,Italy
+1486,1520,W,time,2022-10-24 19:37:10,Canada
+1469,1468,L,time,2022-10-24 16:25:49,Mexico
+1499,1530,L,checkmate,2022-10-24 15:42:16,United States
+1491,1525,L,time,2022-10-24 12:28:39,Mexico
+1499,1539,L,time,2022-10-24 11:59:22,India
+1506,1501,L,time,2022-10-23 20:13:54,United States
+1506,1487,W,checkmate,2022-10-23 17:33:31,Nigeria
+1498,1510,W,time,2022-10-23 17:29:07,Germany
+1505,1448,W,time,2022-10-23 16:27:14,United States
+1505,1463,W,time,2022-10-23 14:35:08,Spain
+1481,1460,L,time,2022-10-23 13:26:41,Greece
+1490,1526,W,resignation,2022-10-23 13:23:32,Italy
+1475,1521,L,time,2022-10-23 11:49:52,Austria
+1482,1493,L,checkmate,2022-10-23 11:17:51,Italy
+1506,1494,W,time,2022-10-23 09:46:29,India
+1506,1451,L,time,2022-10-22 18:34:30,France
+1499,1495,L,time,2022-10-22 17:49:59,United States
+1508,1472,W,checkmate,2022-10-22 13:49:29,United States
+1492,1469,W,checkmate,2022-10-22 12:58:02,Spain
+1484,1466,W,time,2022-10-22 12:22:29,United States
+1485,1432,W,resignation,2022-10-22 12:04:36,Israel
+1469,1456,W,checkmate,2022-10-22 11:40:31,Australia
+1444,1416,W,checkmate,2022-10-22 11:16:02,Serbia
+1445,1460,L,checkmate,2022-10-22 10:35:26,Italy
+1438,1443,L,time,2022-10-22 09:29:51,Iraq
+1446,1445,L,time,2022-10-22 09:19:21,Sweden
+1470,1424,W,time,2022-10-21 23:36:13,Mexico
+1463,1509,L,time,2022-10-21 15:54:45,Finland
+1470,1466,W,time,2022-10-21 15:27:07,Brazil
+1462,1410,W,checkmate,2022-10-21 15:24:08,Thailand
+1455,1351,W,checkmate,2022-10-21 15:21:32,Germany
+1449,1460,L,time,2022-10-21 15:16:46,Georgia
+1457,1402,L,time,2022-10-21 15:14:01,Brazil
+1467,1546,L,time,2022-10-21 14:47:05,Canada
+1481,1469,W,checkmate,2022-10-21 14:26:58,International
+1466,1443,L,time,2022-10-21 09:47:44,Australia
+1475,1506,L,time,2022-10-21 08:26:22,India
+1474,1362,D,stalemate,2022-10-21 06:26:19,India
+1470,1359,W,checkmate,2022-10-20 20:49:28,Netherlands
+1464,1462,L,time,2022-10-20 20:45:54,United States
+1472,1478,L,time,2022-10-20 19:37:12,United States
+1480,1429,W,checkmate,2022-10-20 19:12:48,Serbia
+1473,1458,W,time,2022-10-20 19:01:35,Spain
+1450,1451,L,time,2022-10-20 17:23:36,Colombia
+1458,1413,W,time,2022-10-20 16:28:47,Argentina
+1451,1425,L,time,2022-10-20 15:20:11,International
+1462,1434,W,time,2022-10-20 14:40:26,Netherlands
+1454,1429,D,material,2022-10-20 14:32:34,Sweden
+1455,1489,L,time,2022-10-20 14:13:53,United Kingdom
+1463,1462,L,time,2022-10-20 13:41:09,India
+1471,1489,W,time,2022-10-20 13:18:55,India
+1462,1487,L,time,2022-10-20 12:33:05,Austria
+1469,1444,L,time,2022-10-20 11:38:56,Chile
+1476,1417,W,time,2022-10-20 07:26:12,Peru
+1478,1494,W,checkmate,2022-10-20 05:57:07,Canada
+1469,1429,W,checkmate,2022-10-20 05:49:06,Indonesia
+1462,1517,L,time,2022-10-20 05:43:10,Kosovo
+1469,1499,L,checkmate,2022-10-19 19:48:32,Ukraine
+1495,1489,W,time,2022-10-19 19:17:53,Finland
+1501,1489,L,time,2022-10-19 18:41:35,France
+1510,1548,L,time,2022-10-19 18:37:27,Saudi Arabia
+1525,1558,L,time,2022-10-19 16:45:00,Niger
+1533,1574,D,material,2022-10-19 16:08:55,Barbados
+1532,1542,L,checkmate,2022-10-19 15:28:05,Canada
+1515,1477,W,time,2022-10-19 13:40:46,United States
+1508,1511,L,time,2022-10-19 13:36:13,Iraq
+1516,1565,L,time,2022-10-19 13:34:08,Vanuatu
+1514,1623,L,checkmate,2022-10-19 10:46:50,Germany
+1520,1489,L,time,2022-10-19 10:30:50,Argentina
+1550,1513,W,resignation,2022-10-18 16:41:27,Uruguay
+1550,1519,D,material,2022-10-18 16:05:44,Sweden
+1551,1575,W,time,2022-10-18 15:30:45,United States
+1542,1503,L,time,2022-10-18 15:28:33,Romania
+1551,1574,W,checkmate,2022-10-18 15:26:33,Russia
+1550,1545,W,checkmate,2022-10-18 14:33:21,Philippines
+1556,1557,W,time,2022-10-18 14:16:34,Canada
+1548,1512,W,checkmate,2022-10-18 09:45:32,Spain
+1533,1537,W,resignation,2022-10-18 09:37:40,Ireland
+1525,1642,W,resignation,2022-10-18 07:08:26,Mongolia
+1514,1505,L,time,2022-10-18 05:55:53,United States
+1525,1524,W,resignation,2022-10-17 18:05:53,United States
+1524,1588,L,time,2022-10-17 09:17:36,India
+1516,1511,W,time,2022-10-17 09:10:27,Italy
+1516,1504,L,time,2022-10-17 09:02:37,Vietnam
+1525,1481,W,resignation,2022-10-17 07:57:29,India
+1518,1493,W,time,2022-10-17 07:23:27,Indonesia
+1502,1517,W,time,2022-10-17 06:44:51,United States
+1485,1442,L,time,2022-10-17 06:37:01,Finland
+1500,1571,L,time,2022-10-17 04:44:42,Peru
+1507,1458,W,checkmate,2022-10-17 04:24:42,Philippines
+1493,1647,L,time,2022-10-17 04:18:17,United States
+1498,1441,W,time,2022-10-17 04:08:04,Canada
+1483,1546,L,time,2022-10-17 03:51:45,Kosovo
+1497,1422,W,time,2022-10-17 03:02:13,United States
+1498,1507,W,time,2022-10-16 12:32:48,Germany
+1514,1505,D,material,2022-10-16 11:05:47,France
+1514,1517,W,time,2022-10-16 11:03:40,United States
+1515,1469,W,time,2022-10-16 08:54:02,Armenia
+1508,1614,L,time,2022-10-16 07:33:01,United States
+1514,1485,W,time,2022-10-16 06:09:38,Malaysia
+1514,1455,W,resignation,2022-10-16 05:18:08,Armenia
+1498,1540,L,checkmate,2022-10-16 04:09:07,United States
+1505,1505,W,resignation,2022-10-16 03:37:51,Mexico
+1488,1463,L,time,2022-10-16 00:31:51,Canada
+1490,1511,W,checkmate,2022-10-15 23:56:42,Morocco
+1490,1498,L,time,2022-10-15 17:13:29,Mozambique
+1491,1465,D,material,2022-10-15 16:11:02,India
+1492,1501,L,time,2022-10-15 15:12:18,United Kingdom
+1509,1508,W,time,2022-10-15 14:19:18,South Africa
+1501,1444,W,time,2022-10-15 14:16:59,Mexico
+1485,1433,W,resignation,2022-10-15 14:14:52,Philippines
+1478,1495,W,time,2022-10-15 14:12:12,Turkey
+1469,1436,W,time,2022-10-15 14:10:04,Botswana
+1468,1433,W,time,2022-10-15 12:44:09,Turkey
+1450,1494,L,time,2022-10-15 11:41:40,Poland
+1457,1451,L,time,2022-10-15 11:29:26,United States
+1466,1432,W,checkmate,2022-10-15 11:04:37,Iran
+1466,1501,L,time,2022-10-15 10:48:15,Turkey
+1474,1451,W,time,2022-10-15 09:52:08,Peru
+1466,1460,W,time,2022-10-15 08:00:21,Azerbaijan
+1466,1492,L,time,2022-10-15 07:54:43,Azerbaijan
+1474,1436,W,time,2022-10-15 07:13:11,India
+1467,1553,L,time,2022-10-15 07:04:18,Ukraine
+1473,1469,L,time,2022-10-15 06:58:31,Ireland
+1489,1500,W,time,2022-10-15 04:35:47,Nepal
+1471,1504,L,checkmate,2022-10-15 04:00:22,Mexico
+1469,1463,W,time,2022-10-15 03:39:51,United States
+1461,1429,L,resignation,2022-10-15 03:37:56,Nicaragua
+1454,1436,W,time,2022-10-15 03:21:10,Scotland
+1446,1481,W,time,2022-10-15 03:18:30,Australia
+1437,1476,L,checkmate,2022-10-15 03:16:37,United States
+1437,1474,L,time,2022-10-14 23:24:24,United States
+1444,1433,W,time,2022-10-14 22:03:08,Russia
+1444,1438,W,time,2022-10-14 20:45:28,Greece
+1452,1455,W,time,2022-10-14 08:39:54,Indonesia
+1444,1418,L,checkmate,2022-10-14 07:06:57,Israel
+1453,1437,W,time,2022-10-14 01:13:31,Peru
+1445,1439,W,time,2022-10-13 22:23:49,United States
+1429,1371,W,time,2022-10-13 21:30:41,Mexico
+1422,1434,L,checkmate,2022-10-13 21:23:08,United States
+1429,1399,W,checkmate,2022-10-13 21:06:39,United States
+1429,1472,L,checkmate,2022-10-13 21:02:21,Poland
+1436,1460,L,checkmate,2022-10-13 20:42:59,United States
+1453,1430,L,checkmate,2022-10-13 20:32:14,Philippines
+1462,1497,L,time,2022-10-13 20:00:35,United States
+1470,1438,W,time,2022-10-13 19:53:46,Brazil
+1470,1531,L,time,2022-10-13 10:23:12,Indonesia
+1484,1501,L,checkmate,2022-10-13 10:19:04,Indonesia
+1500,1480,W,checkmate,2022-10-13 10:04:57,Argentina
+1485,1493,L,checkmate,2022-10-13 09:48:48,Iraq
+1493,1480,L,checkmate,2022-10-13 09:47:01,India
+1527,1462,W,time,2022-10-13 09:39:59,Spain
+1520,1561,W,time,2022-10-13 09:37:48,Turkey
+1511,1491,W,time,2022-10-13 09:35:31,Germany
+1495,1467,W,time,2022-10-13 08:46:58,United States
+1487,1564,L,time,2022-10-13 08:39:27,Netherlands
+1502,1604,L,time,2022-10-13 08:36:04,Hungary
+1508,1500,W,time,2022-10-13 08:33:40,United States
+1524,1558,L,checkmate,2022-10-13 08:25:44,Russia
+1531,1546,W,checkmate,2022-10-13 08:19:04,Indonesia
+1522,1511,W,checkmate,2022-10-13 08:17:47,South Africa
+1507,1526,L,time,2022-10-13 08:03:53,Germany
+1515,1552,L,time,2022-10-13 07:56:21,Argentina
+1514,1467,L,time,2022-10-13 07:53:06,Poland
+1523,1460,L,checkmate,2022-10-13 07:47:51,Romania
+1511,1529,W,time,2022-10-13 07:38:45,Hong Kong
+1502,1499,W,checkmate,2022-10-13 07:33:24,Croatia
+1494,1498,L,time,2022-10-13 07:27:16,United States
+1494,1416,W,time,2022-10-13 07:14:07,Brazil
+1487,1500,L,time,2022-10-13 06:17:27,Austria
+1495,1503,L,time,2022-10-13 06:09:50,Malaysia
+1511,1500,W,resignation,2022-10-13 01:26:55,Indonesia
+1503,1467,W,time,2022-10-13 00:58:25,United States
+1496,1433,W,checkmate,2022-10-13 00:53:46,India
+1497,1441,W,resignation,2022-10-13 00:50:04,Brazil
+1490,1469,W,checkmate,2022-10-13 00:48:12,United States
+1482,1444,W,resignation,2022-10-13 00:46:22,Canada
+1474,1483,L,time,2022-10-12 23:30:00,United States
+1482,1444,W,time,2022-10-12 23:26:54,International
+1483,1487,W,time,2022-10-12 23:16:57,United Kingdom
+1467,1442,W,time,2022-10-12 23:12:33,Singapore
+1459,1390,W,time,2022-10-12 23:10:35,Germany
+1452,1396,W,checkmate,2022-10-12 23:08:28,Canada
+1436,1457,L,time,2022-10-12 22:25:00,Brazil
+1444,1454,L,time,2022-10-12 22:21:11,Saudi Arabia
+1452,1436,W,time,2022-10-12 21:45:41,Ukraine
+1453,1415,W,resignation,2022-10-12 21:32:51,Sao Tome/Principe
+1456,1422,W,time,2022-10-12 21:28:48,Spain
+1464,1444,D,material,2022-10-12 20:14:54,United States
+1473,1453,W,time,2022-10-12 19:35:26,United States
+1465,1516,L,time,2022-10-12 19:33:30,India
+1472,1497,W,time,2022-10-12 19:30:30,Bosnia-Herzegovina
+1472,1487,W,time,2022-10-12 19:24:33,France
+1463,1493,L,time,2022-10-12 19:22:24,France
+1462,1470,W,time,2022-10-12 18:58:57,United States
+1457,1434,D,repetition,2022-10-12 17:51:48,Israel
+1449,1411,W,time,2022-10-12 17:26:39,United States
+1442,1460,L,time,2022-10-12 17:24:34,Iraq
+1450,1436,W,time,2022-10-12 08:27:24,Indonesia
+1436,1393,W,checkmate,2022-10-12 06:33:15,India
+1429,1395,W,time,2022-10-12 06:25:07,Kyrgyzstan
+1421,1432,L,checkmate,2022-10-12 04:48:44,Egypt
+1429,1434,L,time,2022-10-12 04:35:20,South Africa
+1437,1421,W,time,2022-10-12 04:25:43,United States
+1428,1428,W,time,2022-10-12 03:45:37,Honduras
+1420,1412,W,checkmate,2022-10-12 03:30:49,United States
+1404,1398,W,time,2022-10-12 03:19:12,United States
+1397,1449,L,time,2022-10-12 01:55:26,Peru
+1411,1435,W,time,2022-10-12 01:51:15,Peru
+1393,1453,L,time,2022-10-12 01:47:02,Peru
+1391,1455,L,checkmate,2022-10-12 01:42:57,Peru
+1405,1441,L,time,2022-10-12 01:38:45,Peru
+1421,1425,W,time,2022-10-12 01:34:41,Peru
+1420,1426,W,time,2022-10-12 01:31:13,Peru
+1402,1444,L,checkmate,2022-10-12 01:27:52,Peru
+1400,1373,W,time,2022-10-12 01:23:31,United States
+1392,1345,D,stalemate,2022-10-12 01:21:18,United States
+1393,1415,W,time,2022-10-12 01:19:11,Philippines
+1375,1348,W,checkmate,2022-10-12 01:14:26,Canada
+1374,1379,L,time,2022-10-12 01:10:13,Mexico
+1390,1363,W,checkmate,2022-10-12 00:45:40,United States
+1374,1367,W,resignation,2022-10-12 00:37:02,Philippines
+1366,1312,W,resignation,2022-10-12 00:32:15,United States
+1350,1349,W,time,2022-10-12 00:22:42,United States
+1342,1385,L,time,2022-10-12 00:13:41,Sri Lanka
+1349,1384,L,time,2022-10-12 00:10:29,Brazil
+1349,1395,L,time,2022-10-11 23:17:26,United States
+1364,1338,L,checkmate,2022-10-11 22:10:45,International
+1365,1427,L,checkmate,2022-10-11 21:47:34,United States
+1372,1314,L,time,2022-10-11 20:37:39,Germany
+1382,1352,W,resignation,2022-10-11 20:34:37,Georgia
+1374,1397,L,time,2022-10-11 19:54:35,Finland
+1390,1308,W,checkmate,2022-10-11 19:27:26,Canada
+1393,1298,W,time,2022-10-11 18:10:44,Argentina
+1398,1329,L,time,2022-10-11 17:40:09,India
+1408,1330,W,resignation,2022-10-11 12:42:41,United States
+1401,1357,W,checkmate,2022-10-11 11:36:30,Germany
+1394,1418,L,time,2022-10-11 11:31:21,United States
+1420,1345,W,time,2022-10-11 08:02:11,North Korea
+1413,1296,L,time,2022-10-11 05:08:01,Norway
+1424,1365,W,checkmate,2022-10-11 01:33:46,United States
+1423,1460,L,time,2022-10-11 00:54:45,United States
+1430,1402,W,time,2022-10-11 00:40:34,Peru
+1422,1462,L,resignation,2022-10-11 00:38:39,United States
+1437,1412,W,time,2022-10-11 00:31:09,Brazil
+1429,1449,W,checkmate,2022-10-10 23:56:47,Poland
+1429,1406,D,material,2022-10-10 20:48:51,United States
+1431,1404,L,time,2022-10-10 20:44:02,United States
+1433,1429,L,checkmate,2022-10-10 20:27:15,Albania
+1441,1423,L,time,2022-10-10 19:57:11,United States
+1450,1508,L,checkmate,2022-10-10 19:27:46,Poland
+1457,1434,L,time,2022-10-10 18:26:24,Dominican Republic
+1489,1427,W,time,2022-10-10 01:58:31,Germany
+1482,1440,W,checkmate,2022-10-10 01:52:57,United States
+1475,1525,W,time,2022-10-10 01:51:00,Venezuela
+1456,1505,L,time,2022-10-10 01:46:41,United States
+1447,1399,W,resignation,2022-10-09 16:32:19,Switzerland
+1447,1425,W,checkmate,2022-10-09 16:09:39,International
+1439,1418,W,time,2022-10-08 22:53:58,Mexico
+1428,1380,W,checkmate,2022-10-08 22:24:26,United States
+1421,1458,L,time,2022-10-08 16:11:36,Albania
+1429,1416,W,time,2022-10-08 15:47:06,Turkey
+1421,1437,L,time,2022-10-08 15:39:36,Indonesia
+1421,1460,L,time,2022-10-07 17:20:03,Israel
+1435,1463,L,time,2022-10-07 17:15:38,United States
+1445,1390,W,time,2022-10-07 17:09:59,France
+1445,1389,W,resignation,2022-10-07 17:07:34,United States
+1445,1400,W,time,2022-10-07 17:03:11,Nigeria
+1447,1466,W,time,2022-10-07 15:25:02,Canada
+1431,1462,L,checkmate,2022-10-07 15:21:02,Myanmar
+1439,1524,L,time,2022-10-07 15:09:15,Spain
+1445,1419,W,checkmate,2022-10-07 15:07:15,Nigeria
+1438,1427,L,time,2022-10-07 06:49:42,Poland
+1452,1405,L,time,2022-10-06 22:12:34,Brazil
+1468,1466,W,time,2022-10-06 16:12:47,Panama
+1468,1499,L,time,2022-10-06 03:02:48,United States
+1476,1493,W,resignation,2022-10-06 01:20:54,United States
+1475,1511,L,time,2022-10-05 16:51:27,International
+1499,1464,L,time,2022-10-05 03:44:51,United States
+1508,1479,W,resignation,2022-10-04 20:05:59,Venezuela
+1506,1455,W,time,2022-10-04 16:52:09,Italy
+1499,1511,W,time,2022-10-04 16:27:09,Russia
+1490,1550,L,time,2022-10-04 16:20:59,French Guiana
+1497,1497,W,time,2022-10-04 16:16:07,United States
+1473,1452,L,time,2022-10-04 15:38:08,Argentina
+1482,1442,W,checkmate,2022-10-04 14:02:15,France
+1491,1486,W,time,2022-10-04 12:58:37,India
+1491,1508,W,resignation,2022-10-04 12:17:25,France
+1490,1484,L,checkmate,2022-10-04 02:28:08,Poland
+1494,1498,L,time,2022-10-04 01:36:44,Brazil
+1502,1534,W,time,2022-10-04 01:34:17,Spain
+1493,1458,W,checkmate,2022-10-04 01:32:25,United States
+1494,1492,W,checkmate,2022-10-04 01:28:22,United States
+1486,1395,L,checkmate,2022-10-04 01:27:29,United States
+1511,1454,W,time,2022-10-04 01:18:40,Australia
+1511,1479,L,checkmate,2022-10-04 01:14:56,Brazil
+1520,1443,L,resignation,2022-10-04 01:13:54,United States
+1513,1456,W,resignation,2022-10-04 00:34:14,Germany
+1506,1457,W,time,2022-10-04 00:31:57,Philippines
+1499,1475,L,time,2022-10-04 00:29:37,Puerto Rico
+1516,1550,L,checkmate,2022-10-04 00:23:16,Germany
+1525,1545,L,time,2022-10-04 00:17:13,Brazil
+1533,1509,W,time,2022-10-04 00:14:55,Colombia
+1526,1455,W,time,2022-10-04 00:07:54,United States
+1519,1550,L,checkmate,2022-10-04 00:06:20,United States
+1512,1574,L,time,2022-10-04 00:00:27,Australia
+1519,1501,W,checkmate,2022-10-03 23:59:15,Australia
+1502,1469,W,time,2022-10-03 23:54:25,United States
+1494,1494,W,time,2022-10-03 23:52:10,Mexico
+1494,1513,L,checkmate,2022-10-03 23:48:34,United States
+1502,1487,W,checkmate,2022-10-03 23:43:31,Nepal
+1494,1533,L,time,2022-10-03 23:41:15,Germany
+1492,1496,L,time,2022-10-03 23:36:46,Egypt
+1492,1521,L,time,2022-10-03 23:32:23,Canada
+1500,1479,W,time,2022-10-03 23:26:18,Denmark
+1491,1566,D,material,2022-10-03 21:10:45,United Kingdom
+1489,1453,W,time,2022-10-03 21:08:25,United States
+1474,1478,W,checkmate,2022-10-03 20:23:58,Finland
+1466,1451,L,checkmate,2022-10-03 20:22:26,India
+1475,1520,L,time,2022-10-03 20:20:21,Germany
+1481,1444,W,time,2022-10-03 20:13:13,United States
+1475,1383,W,resignation,2022-10-03 20:07:23,Poland
+1469,1470,W,time,2022-10-03 20:05:04,Russia
+1470,1465,W,time,2022-10-03 20:01:01,United States
+1471,1496,L,checkmate,2022-10-03 19:56:43,Mexico
+1479,1507,W,checkmate,2022-10-03 19:50:55,Italy
+1454,1466,L,time,2022-10-03 19:32:36,United States
+1454,1450,L,time,2022-10-03 19:14:06,United States
+1455,1439,W,time,2022-10-03 17:19:22,Ukraine
+1447,1438,L,checkmate,2022-10-03 17:17:43,United States
+1463,1428,W,time,2022-10-03 17:13:42,International
+1463,1468,W,checkmate,2022-10-03 16:55:55,United States
+1454,1470,W,time,2022-10-03 16:41:33,India
+1445,1420,L,time,2022-10-03 16:10:09,Italy
+1461,1463,L,time,2022-10-03 11:19:49,India
+1469,1431,W,checkmate,2022-10-03 11:14:41,Germany
+1477,1465,L,time,2022-10-03 01:18:06,United States
+1481,1526,L,checkmate,2022-10-02 22:28:57,United States
+1488,1534,L,resignation,2022-10-02 20:51:16,Belgium
+1495,1501,W,time,2022-10-02 20:47:36,Australia
+1486,1476,L,checkmate,2022-10-02 20:44:50,Albania
+1502,1431,W,time,2022-10-02 19:44:51,Poland
+1496,1509,L,time,2022-10-02 18:34:26,Poland
+1480,1490,W,checkmate,2022-10-02 18:28:48,Poland
+1471,1520,L,time,2022-10-02 18:26:32,India
+1478,1487,W,time,2022-10-02 18:24:17,United Arab Emirates
+1477,1419,W,time,2022-10-02 18:20:28,Austria
+1470,1517,L,checkmate,2022-10-02 18:18:34,Italy
+1470,1463,L,time,2022-10-02 18:12:26,France
+1468,1438,W,time,2022-10-02 17:32:55,India
+1460,1409,D,repetition,2022-10-02 17:30:44,United States
+1461,1398,W,resignation,2022-10-02 17:29:01,United States
+1462,1510,L,time,2022-10-02 16:51:52,Israel
+1469,1473,W,resignation,2022-10-02 16:51:04,North Macedonia
+1453,1448,W,resignation,2022-10-02 16:00:15,United States
+1454,1480,L,checkmate,2022-10-02 15:56:13,Poland
+1459,1515,L,time,2022-10-02 15:49:45,United Kingdom
+1475,1506,W,resignation,2022-10-02 15:42:01,Croatia
+1466,1430,W,time,2022-10-02 15:39:54,Romania
+1459,1464,W,checkmate,2022-10-02 15:38:18,United States
+1450,1445,W,time,2022-10-02 15:35:56,American Samoa
+1442,1437,L,checkmate,2022-10-02 15:34:23,Hungary
+1435,1489,W,resignation,2022-10-02 13:42:31,France
+1420,1421,W,time,2022-10-02 01:14:49,Slovenia
+1412,1479,L,time,2022-10-02 01:12:30,Colombia
+1419,1475,L,time,2022-10-01 21:56:10,Belgium
+1426,1440,D,material,2022-10-01 21:54:01,Egypt
+1435,1415,D,repetition,2022-10-01 21:49:34,India
+1445,1408,W,resignation,2022-10-01 21:46:41,United States
+1430,1481,L,time,2022-10-01 21:42:30,India
+1447,1458,L,time,2022-10-01 21:34:14,Armenia
+1455,1433,W,checkmate,2022-10-01 21:32:22,Nigeria
+1447,1432,W,time,2022-10-01 21:30:06,Argentina
+1433,1390,W,time,2022-10-01 21:17:28,United States
+1440,1404,W,time,2022-10-01 21:11:04,United Kingdom
+1432,1447,W,resignation,2022-10-01 21:10:08,United Kingdom
+1423,1460,L,checkmate,2022-10-01 21:08:20,United Kingdom
+1431,1438,L,checkmate,2022-10-01 21:02:27,International
+1430,1441,W,time,2022-10-01 20:57:52,Spain
+1403,1460,L,time,2022-10-01 20:52:30,International
+1410,1417,W,time,2022-10-01 20:50:13,Iran
+1401,1411,W,checkmate,2022-10-01 20:48:53,International
+1392,1397,W,resignation,2022-10-01 20:47:14,Bosnia-Herzegovina
+1385,1361,W,time,2022-10-01 20:41:58,United Kingdom
+1377,1350,W,resignation,2022-10-01 19:30:07,United States
+1376,1323,W,time,2022-10-01 19:24:15,Galicia
+1352,1375,L,time,2022-10-01 19:14:34,Luxembourg
+1360,1297,W,checkmate,2022-10-01 18:10:41,United States
+1370,1372,L,checkmate,2022-10-01 18:04:31,United States
+1378,1397,L,time,2022-10-01 18:01:58,Romania
+1386,1418,W,time,2022-10-01 17:59:51,Hungary
+1386,1396,W,time,2022-10-01 17:55:33,Croatia
+1385,1349,W,time,2022-10-01 17:47:17,United States
+1377,1356,W,time,2022-10-01 17:45:49,Nigeria
+1361,1372,W,time,2022-10-01 17:41:18,Nigeria
+1344,1392,D,material,2022-10-01 17:37:18,United States
+1352,1377,W,resignation,2022-10-01 17:34:55,Austria
+1343,1360,L,time,2022-10-01 17:20:15,United States
+1344,1371,W,time,2022-10-01 15:58:30,Denmark
+1335,1409,L,checkmate,2022-10-01 15:57:04,Sweden
+1325,1337,W,time,2022-10-01 15:50:54,Taiwan
+1316,1315,L,time,2022-10-01 15:48:38,India
+1324,1249,W,checkmate,2022-10-01 15:47:34,Germany
+1308,1288,W,checkmate,2022-10-01 15:43:38,Spain
+1301,1322,L,checkmate,2022-10-01 15:37:47,Brazil
+1309,1268,W,time,2022-10-01 13:14:12,India
+1284,1224,W,checkmate,2022-10-01 12:49:51,Egypt
+1285,1298,W,time,2022-10-01 12:45:55,United Kingdom
+1276,1262,L,checkmate,2022-09-30 22:59:08,Brazil
+1294,1282,L,checkmate,2022-09-30 16:55:39,Turkey
+1303,1277,W,resignation,2022-09-30 16:52:24,Brazil
+1295,1271,W,time,2022-09-30 16:46:40,Norway
+1287,1278,W,time,2022-09-30 16:40:46,Norway
+1279,1250,D,material,2022-09-30 16:04:12,Bosnia-Herzegovina
+1279,1220,L,time,2022-09-30 13:42:43,United States
+1272,1334,L,time,2022-09-29 20:15:42,Dominican Republic
+1279,1269,L,time,2022-09-29 20:12:14,United States
+1287,1313,L,time,2022-09-29 17:36:34,France
+1303,1300,W,time,2022-09-29 17:32:41,United States
+1295,1240,W,time,2022-09-29 17:30:13,Egypt
+1289,1321,L,time,2022-09-29 15:04:04,United States
+1287,1334,L,time,2022-09-29 15:00:27,Croatia
+1302,1335,L,checkmate,2022-09-28 20:38:06,Spain
+1300,1290,L,checkmate,2022-09-28 16:17:44,Spain
+1309,1285,W,checkmate,2022-09-28 15:57:19,India
+1317,1349,L,time,2022-09-28 15:51:16,India
+1333,1279,W,resignation,2022-09-28 14:52:35,United States
+1320,1246,W,checkmate,2022-09-28 13:47:28,Australia
+1306,1286,W,time,2022-09-28 13:43:03,Cyprus
+1298,1334,L,time,2022-09-28 13:41:22,Myanmar
+1305,1279,W,time,2022-09-28 13:39:04,Turkey
+1273,1325,L,checkmate,2022-09-28 13:32:07,Italy
+1280,1290,L,time,2022-09-28 13:29:43,Ireland
+1289,1331,W,time,2022-09-28 13:23:16,Mexico
+1288,1303,L,time,2022-09-28 13:05:31,Israel
+1296,1249,L,time,2022-09-28 12:27:53,Poland
+1305,1321,L,time,2022-09-28 01:47:20,United States
+1322,1355,L,time,2022-09-28 00:00:34,Australia
+1330,1328,W,time,2022-09-27 23:52:15,France
+1297,1256,W,time,2022-09-27 18:52:12,Spain
+1282,1298,W,time,2022-09-27 16:01:07,Jamaica
+1265,1287,W,checkmate,2022-09-27 13:58:47,Malaysia
+1256,1231,W,checkmate,2022-09-27 13:43:25,Malaysia
+1248,1258,L,time,2022-09-27 13:31:40,United States
+1256,1291,L,time,2022-09-27 13:09:53,Mexico
+1270,1246,L,time,2022-09-26 17:50:24,France
+1279,1278,L,checkmate,2022-09-26 17:48:58,Serbia
+1295,1240,W,checkmate,2022-09-26 16:40:44,Turkey
+1288,1318,L,time,2022-09-26 16:38:37,South Africa
+1296,1267,W,checkmate,2022-09-26 16:36:19,United States
+1288,1244,W,time,2022-09-26 16:20:19,Belgium
+1267,1256,W,time,2022-09-26 11:18:00,Morocco
+1237,1210,L,time,2022-09-25 12:33:44,India
+1239,1233,W,checkmate,2022-09-25 00:12:49,India
+1231,1271,L,time,2022-09-25 00:06:23,Poland
+1238,1283,L,time,2022-09-24 23:38:54,France
+1245,1306,L,time,2022-09-24 19:31:08,Russia
+1252,1238,L,time,2022-09-24 17:47:50,United States
+1260,1250,W,time,2022-09-24 14:58:00,Russia
+1236,1229,L,time,2022-09-23 21:22:27,United States
+1245,1114,W,resignation,2022-09-23 21:20:54,Mexico
+1238,1287,L,time,2022-09-23 18:56:25,England
+1253,1181,W,resignation,2022-09-23 18:51:19,Russia
+1238,1191,W,time,2022-09-23 12:48:57,Costa Rica
+1231,1250,D,material,2022-09-23 00:31:11,Russia
+1238,1209,W,time,2022-09-22 22:45:54,United States
+1244,1217,W,time,2022-09-21 18:36:55,Ukraine
+1245,1250,W,checkmate,2022-09-21 14:03:44,Finland
+1229,1258,L,time,2022-09-20 01:34:43,Brazil
+1237,1266,L,time,2022-09-19 16:42:44,Italy
+1253,1253,W,time,2022-09-19 14:37:16,India
+1238,1206,W,time,2022-09-19 13:15:56,India
+1224,1275,W,time,2022-09-18 21:12:45,Finland
+1214,1161,W,time,2022-09-18 17:01:00,India
+1190,1197,L,time,2022-09-17 17:35:16,Canada
+1198,1201,W,time,2022-09-17 16:16:22,India
+1197,1234,L,time,2022-09-15 18:08:25,Germany
+1196,1142,W,checkmate,2022-09-15 15:35:03,Pakistan
+1189,1191,L,checkmate,2022-09-14 16:05:55,United Kingdom
+1190,1179,L,time,2022-09-12 15:34:54,Brazil
+1199,1379,L,time,2022-09-12 15:00:41,United States
+1199,1276,L,time,2022-09-12 11:14:33,India
+1206,1267,L,time,2022-09-11 19:56:29,Israel
+1213,1275,L,time,2022-09-11 15:30:46,Kosovo
+1229,1281,W,resignation,2022-09-11 11:43:25,Finland
+1219,1228,L,resignation,2022-09-11 10:39:15,India
+1225,1666,W,checkmate,2022-09-10 21:20:26,Spain
+1210,1188,L,time,2022-09-09 11:11:31,France
+1219,1166,L,time,2022-09-08 23:34:32,Mexico
+1222,1265,L,time,2022-09-08 16:06:03,Egypt
+1229,1271,L,checkmate,2022-09-08 14:38:27,United States
+1226,1169,W,checkmate,2022-09-08 13:51:26,United States
+1219,1276,L,checkmate,2022-09-08 00:25:30,United States
+1226,1252,L,time,2022-09-07 21:32:20,Italy
+1234,1295,L,resignation,2022-09-07 15:15:32,France
+1240,1284,L,time,2022-09-07 08:07:17,Algeria
+1247,1270,L,time,2022-09-07 05:15:23,India
+1239,1040,W,time,2022-09-06 20:47:56,Poland
+1240,1233,W,resignation,2022-09-06 20:42:56,Romania
+1232,1220,W,time,2022-09-06 19:18:45,Brazil
+1215,1217,L,time,2022-09-06 19:05:57,Canada
+1237,1238,L,time,2022-09-06 17:45:13,Egypt
+1246,1242,W,resignation,2022-09-06 16:51:36,Bangladesh
+1238,1202,L,time,2022-09-06 16:13:39,United Kingdom
+1239,1191,W,time,2022-09-06 10:36:51,Brazil
+1232,1268,L,resignation,2022-09-06 07:36:52,India
+1224,1172,L,time,2022-09-06 05:32:43,Canada
+1251,1208,W,checkmate,2022-09-05 19:24:27,France
+1236,1211,L,time,2022-09-05 14:03:37,India
+1253,1291,L,time,2022-09-05 12:20:12,Slovenia
+1260,1190,W,time,2022-09-04 23:20:16,United States
+1238,1294,L,checkmate,2022-09-04 12:33:02,Canada
+1237,1231,W,time,2022-09-03 20:53:23,Canada
+1229,1196,W,time,2022-09-03 19:31:47,Jamaica
+1229,1197,L,time,2022-09-03 15:17:17,India
+1230,1288,L,time,2022-09-03 14:58:31,Ecuador
+1245,1249,D,material,2022-09-03 14:43:57,Poland
+1245,1183,W,time,2022-09-02 18:56:48,Sweden
+1231,1167,W,time,2022-09-02 15:10:42,Brazil
+1224,1178,W,time,2022-09-02 14:49:52,Egypt
+1200,1213,W,resignation,2022-09-02 13:11:47,Israel
+1191,1203,L,time,2022-09-02 13:07:14,India
+1197,1218,L,time,2022-09-02 07:45:46,United States
+1205,1181,L,time,2022-09-01 18:38:17,Bosnia-Herzegovina
+1214,1164,W,time,2022-09-01 18:19:04,Philippines
+1207,1230,L,time,2022-09-01 17:07:20,India
+1222,1247,L,time,2022-09-01 04:57:37,Canada
+1230,1187,W,time,2022-09-01 04:42:39,India
+1225,1241,L,checkmate,2022-08-31 19:48:15,Ukraine
+1233,1240,L,time,2022-08-31 19:29:53,India
+1241,1223,W,time,2022-08-31 19:05:09,France
+1241,1209,W,time,2022-08-31 15:41:06,Germany
+1233,1262,L,time,2022-08-31 15:04:44,Indonesia
+1242,1243,L,time,2022-08-30 23:24:32,Canada
+1256,1262,L,checkmate,2022-08-30 15:04:20,Jamaica
+1264,1247,L,time,2022-08-30 14:28:29,Finland
+1273,1255,W,checkmate,2022-08-30 13:16:53,Kenya
+1265,1253,L,checkmate,2022-08-30 12:48:02,Turkey
+1274,1300,W,checkmate,2022-08-30 11:33:42,Indonesia
+1263,1289,L,checkmate,2022-08-30 09:40:50,Spain
+1279,1242,W,time,2022-08-30 08:42:08,Syria
+1280,1269,L,time,2022-08-29 18:51:52,Albania
+1289,1305,W,time,2022-08-29 18:07:18,North Korea
+1280,1249,L,time,2022-08-29 18:05:01,Israel
+1305,1333,W,time,2022-08-29 15:07:35,Switzerland
+1306,1290,W,time,2022-08-29 13:48:52,Greece
+1298,1280,W,time,2022-08-29 13:03:00,International
+1306,1290,W,time,2022-08-28 19:08:54,Isle of Man
+1298,1250,W,time,2022-08-28 17:04:16,Sweden
+1300,1263,W,time,2022-08-28 15:09:35,Iran
+1293,1271,L,time,2022-08-28 13:29:08,United States
+1302,1333,L,time,2022-08-28 11:31:42,Sweden
+1301,1293,L,time,2022-08-28 10:44:55,United States
+1310,1344,L,time,2022-08-27 17:51:22,Mexico
+1318,1291,W,time,2022-08-27 17:48:00,Sweden
+1310,1247,W,checkmate,2022-08-27 15:07:28,United States
+1303,1320,W,checkmate,2022-08-27 14:56:14,International
+1294,1312,L,resignation,2022-08-27 13:12:22,Italy
+1293,1318,W,checkmate,2022-08-26 16:15:51,Jordan
+1283,1291,L,time,2022-08-25 16:05:44,United States
+1300,1287,W,checkmate,2022-08-25 12:38:50,Canada
+1292,1314,L,time,2022-08-25 07:48:55,Brazil
+1300,1288,L,time,2022-08-24 21:00:43,Nigeria
+1302,1262,W,time,2022-08-24 15:32:08,Iran
+1296,1323,W,time,2022-08-23 21:10:36,England
+1278,1247,L,checkmate,2022-08-22 23:15:39,France
+1287,1302,W,time,2022-08-22 23:09:47,United States
+1278,1281,W,time,2022-08-22 12:47:31,Spain
+1276,1321,L,checkmate,2022-08-21 10:33:32,United States
+1284,1280,L,time,2022-08-19 19:49:15,India
+1283,1325,L,time,2022-08-18 20:27:38,Saudi Arabia
+1290,1280,W,time,2022-08-18 17:24:53,Philippines
+1282,1228,W,time,2022-08-18 15:49:56,Morocco
+1275,1283,L,time,2022-08-17 19:41:56,Ecuador
+1281,1240,W,time,2022-08-16 17:50:12,United States
+1274,1264,L,time,2022-08-16 17:31:22,Norway
+1283,1288,W,time,2022-08-16 12:22:08,United States
+1274,1312,L,time,2022-08-16 10:14:44,Italy
+1281,1277,W,time,2022-08-16 10:07:39,New Zealand
+1273,1237,W,checkmate,2022-08-15 19:16:03,United Kingdom
+1266,1275,L,time,2022-08-15 18:51:05,United States
+1274,1289,L,time,2022-08-15 11:48:19,Luxembourg
+1259,1264,L,checkmate,2022-08-14 16:05:38,India
+1259,1262,L,time,2022-08-14 14:29:52,Kyrgyzstan
+1267,1269,L,time,2022-08-14 10:12:54,India
+1283,1276,L,time,2022-08-13 12:39:23,United Kingdom
+1292,1273,W,resignation,2022-08-13 11:45:04,Sweden
+1284,1256,W,time,2022-08-12 23:17:20,Germany
+1267,1232,W,time,2022-08-12 19:39:40,France
+1259,1276,L,time,2022-08-12 04:57:06,United States
+1267,1258,W,resignation,2022-08-11 22:07:05,Brazil
+1250,1215,W,checkmate,2022-08-11 07:14:49,Romania
+1249,1259,L,time,2022-08-10 22:31:46,Russia
+1257,1301,L,time,2022-08-10 22:04:19,Italy
+1264,1266,W,time,2022-08-10 19:02:20,Philippines
+1258,1243,L,time,2022-08-09 17:51:33,Colombia
+1267,1229,W,time,2022-08-09 11:03:55,Bangladesh
+1251,1306,L,time,2022-08-08 21:00:13,Argentina
+1258,1205,W,time,2022-08-08 19:59:11,Chile
+1243,1237,W,time,2022-08-08 19:05:52,India
+1235,1323,L,time,2022-08-08 14:59:03,India
+1241,1219,W,checkmate,2022-08-08 14:00:50,United States
+1233,1280,L,time,2022-08-08 13:18:28,Norway
+1240,1251,L,checkmate,2022-08-08 11:14:54,Australia
+1273,1259,L,time,2022-08-07 19:32:40,France
+1282,1319,L,time,2022-08-07 19:23:12,Paraguay
+1295,1259,W,resignation,2022-08-07 13:47:39,Spain
+1279,1251,W,checkmate,2022-08-07 09:54:50,Brazil
+1271,1263,L,checkmate,2022-08-06 09:48:35,United States
+1280,1250,L,checkmate,2022-08-05 21:42:36,United States
+1291,1283,W,resignation,2022-08-05 20:52:43,Canada
+1283,1225,W,time,2022-08-05 19:35:50,Colombia
+1276,1241,W,time,2022-08-05 15:30:08,Netherlands
+1275,1257,W,time,2022-08-05 14:57:46,Haiti
+1267,1235,L,checkmate,2022-08-05 14:56:34,Turkey
+1276,1337,L,checkmate,2022-08-05 14:30:19,Puerto Rico
+1292,1279,D,repetition,2022-08-05 10:50:42,Australia
+1298,1278,W,checkmate,2022-08-04 20:32:50,Iran
+1290,1324,L,time,2022-08-04 20:18:27,Norway
+1298,1276,W,checkmate,2022-08-04 20:16:15,France
+1306,1340,L,checkmate,2022-08-04 15:23:12,Croatia
+1314,1353,L,time,2022-08-04 15:16:25,Philippines
+1321,1341,L,time,2022-08-04 08:00:07,Belgium
+1321,1326,L,time,2022-08-03 12:45:21,Greenland
+1329,1336,W,time,2022-08-03 11:12:36,South Africa
+1328,1380,L,time,2022-08-02 21:15:54,Bangladesh
+1335,1371,L,time,2022-08-02 18:57:41,Brazil
+1351,1362,L,time,2022-08-02 15:29:25,Canada
+1352,1320,W,checkmate,2022-08-02 09:09:25,Germany
+1359,1410,L,time,2022-08-01 17:03:21,International
+1366,1352,W,time,2022-08-01 14:10:40,Turkey
+1358,1402,L,time,2022-07-31 21:11:41,Ukraine
+1373,1427,L,time,2022-07-31 12:14:33,Bulgaria
+1380,1349,W,time,2022-07-31 12:10:21,France
+1389,1410,D,stalemate,2022-07-30 23:31:26,Basque Country
+1382,1444,L,time,2022-07-30 23:27:40,Indonesia
+1372,1375,W,time,2022-07-30 21:34:57,India
+1348,1311,D,stalemate,2022-07-30 18:33:42,Greece
+1349,1303,L,time,2022-07-30 17:06:57,Egypt
+1351,1400,L,time,2022-07-30 10:24:06,Catalonia
+1350,1384,W,time,2022-07-30 08:19:06,United States
+1341,1306,W,checkmate,2022-07-30 07:32:36,Germany
+1333,1378,L,time,2022-07-30 07:25:04,Nigeria
+1316,1351,L,checkmate,2022-07-29 19:08:40,Croatia
+1324,1302,W,checkmate,2022-07-29 12:42:00,United States
+1316,1321,W,time,2022-07-28 20:14:52,United Kingdom
+1316,1350,L,time,2022-07-28 17:43:17,Norway
+1324,1320,L,time,2022-07-28 16:59:08,Russia
+1332,1319,L,time,2022-07-28 16:12:07,Canada
+1339,1392,L,time,2022-07-28 14:53:47,Serbia
+1339,1306,W,checkmate,2022-07-28 12:57:21,United States
+1323,1322,W,time,2022-07-28 12:37:59,Denmark
+1308,1311,W,time,2022-07-27 19:09:19,Ecuador
+1293,1334,L,time,2022-07-27 16:08:03,Nepal
+1284,1307,W,time,2022-07-27 07:57:47,Italy
+1275,1233,W,abandoned,2022-07-26 14:54:14,Chile
+1268,1276,D,material,2022-07-26 14:44:35,Armenia
+1267,1288,D,material,2022-07-26 14:04:21,United States
+1266,1275,L,time,2022-07-26 12:32:21,Colombia
+1281,1286,W,time,2022-07-25 16:44:37,Russia
+1272,1303,L,time,2022-07-25 15:38:33,Canada
+1290,1320,L,checkmate,2022-07-24 22:13:52,India
+1298,1287,W,checkmate,2022-07-24 19:42:33,United States
+1282,1315,L,time,2022-07-24 18:12:02,United Kingdom
+1290,1300,W,checkmate,2022-07-23 20:25:18,Germany
+1274,1310,D,material,2022-07-23 18:31:05,India
+1305,1309,L,time,2022-07-23 13:33:27,England
+1328,1344,L,time,2022-07-23 01:46:13,United States
+1336,1311,W,resignation,2022-07-22 23:13:46,Brazil
+1328,1359,W,time,2022-07-22 19:48:40,Egypt
+1335,1346,L,time,2022-07-22 12:07:22,Serbia
+1342,1394,L,resignation,2022-07-21 17:44:32,India
+1349,1326,W,time,2022-07-21 17:16:21,Italy
+1357,1324,W,time,2022-07-21 13:53:25,United States
+1349,1330,L,time,2022-07-21 11:27:06,Hong Kong
+1343,1319,W,time,2022-07-19 19:48:22,Malaysia
+1344,1357,W,time,2022-07-19 10:41:21,France
+1335,1347,W,checkmate,2022-07-18 22:35:42,Canada
+1479,1444,W,resignation,2022-07-18 18:52:28,United Kingdom
+1318,1375,L,checkmate,2022-07-18 15:00:53,United Kingdom
+1325,1289,D,material,2022-07-17 22:54:50,Brazil
+1311,1314,W,time,2022-07-17 18:38:46,Spain
+1312,1274,L,time,2022-07-16 19:36:42,United States
+1313,1333,W,time,2022-07-16 19:17:16,Turkey
+1304,1311,W,time,2022-07-16 14:48:43,United States
+1310,1299,W,checkmate,2022-07-15 18:42:34,Russia
+1302,1292,L,time,2022-07-15 17:12:26,Russia
+1311,1343,W,checkmate,2022-07-15 17:06:07,France
+1311,1275,W,checkmate,2022-07-15 11:01:56,Italy
+1303,1315,L,time,2022-07-14 22:40:38,France
+1305,1283,L,time,2022-07-14 16:02:38,Germany
+1314,1314,W,time,2022-07-14 13:05:54,Wales
+1314,1248,W,time,2022-07-14 12:07:13,Ecuador
+1307,1354,L,time,2022-07-13 20:26:10,Canada
+1329,1353,D,material,2022-07-13 15:02:47,Canada
+1337,1362,W,resignation,2022-07-13 14:44:32,Argentina
+1320,1278,W,checkmate,2022-07-12 23:45:41,United States
+1313,1337,L,time,2022-07-12 22:37:53,Poland
+1314,1333,L,checkmate,2022-07-12 19:28:11,Brazil
+1322,1274,W,time,2022-07-12 18:42:06,Israel
+1308,1292,W,checkmate,2022-07-12 15:23:09,Argentina
+1300,1240,W,abandoned,2022-07-12 15:16:19,Tajikistan
+1287,1213,W,checkmate,2022-07-12 14:51:09,Ukraine
+1273,1227,W,time,2022-07-12 14:46:33,Ukraine
+1275,1225,W,checkmate,2022-07-12 14:43:36,Ukraine
+1261,1239,W,time,2022-07-12 14:39:10,Ukraine
+1262,1238,W,time,2022-07-12 14:34:32,Ukraine
+1263,1249,W,time,2022-07-12 11:30:54,Brazil
+1246,1222,L,time,2022-07-11 22:57:58,Dominican Republic
+1263,1152,W,time,2022-07-11 22:22:47,Russia
+1250,1230,D,material,2022-07-11 19:59:15,Brazil
+1250,1220,W,checkmate,2022-07-11 16:32:23,Italy
+1234,1264,L,time,2022-07-11 11:39:19,Canada
+1225,1258,L,time,2022-07-10 19:05:13,Slovenia
+1233,1274,L,time,2022-07-10 16:46:06,United States
+1257,1232,W,checkmate,2022-07-09 22:49:17,Italy
+1248,1207,W,time,2022-07-09 19:17:30,United States
+1241,1216,W,checkmate,2022-07-09 18:59:15,United Kingdom
+1223,1213,L,time,2022-07-09 17:35:50,United States
+1224,1165,W,time,2022-07-09 13:31:06,Brazil
+1217,1181,W,checkmate,2022-07-09 13:28:01,International
+1217,1197,D,material,2022-07-09 11:10:40,Iran
+1225,1221,L,time,2022-07-09 00:00:24,India
+1226,1209,W,time,2022-07-08 19:37:15,Guatemala
+1218,1270,L,time,2022-07-08 19:29:17,United States
+1234,1217,L,time,2022-07-08 18:59:40,Slovakia
+1252,1213,W,time,2022-07-08 15:41:05,Sweden
+1229,1234,W,time,2022-07-08 13:09:12,Croatia
+1203,1232,W,resignation,2022-07-07 21:27:05,Morocco
+1194,1179,W,resignation,2022-07-07 20:17:34,Canada
+1186,1190,L,checkmate,2022-07-07 19:23:34,Brazil
+1194,1199,W,time,2022-07-07 19:20:15,Czech Republic
+1186,1130,W,resignation,2022-07-07 18:41:57,Poland
+1205,1174,L,time,2022-07-07 12:52:16,Italy
+1223,1221,L,time,2022-07-07 00:23:35,Bolivia
+1231,1219,W,checkmate,2022-07-06 22:13:15,United States
+1223,1235,L,checkmate,2022-07-06 16:54:36,United States
+1231,1245,L,checkmate,2022-07-06 12:30:41,India
+1240,1214,L,time,2022-07-05 20:02:32,Jamaica
+1249,1255,L,time,2022-07-05 18:52:31,United States
+1240,1230,D,repetition,2022-07-05 15:23:27,India
+1240,1285,L,time,2022-07-05 15:17:04,United Kingdom
+1247,1243,W,time,2022-07-04 18:34:38,Germany
+1239,1261,W,resignation,2022-07-04 16:03:22,Vietnam
+1245,1156,D,material,2022-07-04 05:05:40,United States
+1263,1334,L,checkmate,2022-07-04 02:33:47,United States
+1255,1245,W,resignation,2022-07-04 01:09:19,France
+1247,1271,L,time,2022-07-04 00:44:09,Portugal
+1255,1237,W,checkmate,2022-07-03 17:56:19,Malaysia
+1247,1303,L,time,2022-07-03 15:11:21,United States
+1246,1237,L,checkmate,2022-07-03 13:49:50,Saint Lucia
+1255,1218,W,time,2022-07-03 13:41:20,France
+1256,1230,W,time,2022-07-03 11:48:36,Australia
+1249,1254,L,time,2022-07-02 20:43:52,United States
+1257,1249,W,checkmate,2022-07-02 20:36:31,United Kingdom
+1249,1244,L,time,2022-07-02 17:34:53,Egypt
+1272,1326,L,time,2022-07-02 13:21:04,Iran
+1288,1282,L,time,2022-07-02 12:22:53,Iran
+1305,1283,W,checkmate,2022-07-01 19:18:44,Egypt
+1297,1254,W,time,2022-07-01 18:52:11,Ghana
+1290,1298,L,time,2022-07-01 18:42:30,International
+1298,1318,W,time,2022-07-01 18:27:59,United States
+1297,1239,W,time,2022-07-01 17:46:51,Italy
+1299,1275,W,time,2022-07-01 14:00:19,Denmark
+1290,1321,L,time,2022-07-01 12:27:55,Iran
+1298,1284,L,checkmate,2022-07-01 12:23:37,Serbia
+1314,1291,W,checkmate,2022-07-01 12:04:59,Netherlands
+1298,1329,L,time,2022-07-01 00:00:47,France
+1306,1292,W,resignation,2022-06-30 22:45:42,Egypt
+1289,1302,L,time,2022-06-30 11:38:37,Spain
+1274,1252,W,time,2022-06-29 14:45:29,India
+1266,1304,L,time,2022-06-29 14:00:59,India
+1264,1279,W,resignation,2022-06-29 12:31:57,Belarus
+1255,1219,W,resignation,2022-06-29 04:36:47,Singapore
+1247,1190,W,resignation,2022-06-29 04:36:39,Russia
+1257,1261,W,resignation,2022-06-28 17:38:20,United States
+1257,1270,L,checkmate,2022-06-28 14:29:12,France
+1273,1290,L,time,2022-06-27 19:25:39,Mexico
+1274,1336,L,time,2022-06-27 13:40:18,India
+1281,1259,L,time,2022-06-27 12:27:53,Indonesia
+1290,1323,L,time,2022-06-27 12:13:01,United Kingdom
+1291,1314,L,checkmate,2022-06-27 11:13:18,United States
+1291,1317,L,time,2022-06-27 00:25:07,Swaziland
+1293,1293,L,time,2022-06-26 14:10:38,Canada
+1309,1306,W,time,2022-06-26 13:48:37,Egypt
+1301,1306,L,time,2022-06-25 17:00:29,Netherlands
+1294,1266,W,time,2022-06-25 12:52:32,Spain
+1287,1265,W,resignation,2022-06-24 18:46:30,Dominican Republic
+1287,1250,W,time,2022-06-24 15:35:21,India
+1279,1272,L,time,2022-06-24 14:57:53,United Kingdom
+1295,1209,W,checkmate,2022-06-24 12:56:56,France
+1289,1290,W,time,2022-06-24 12:52:02,India
+1264,1249,W,time,2022-06-24 11:36:28,Poland
+1256,1305,L,time,2022-06-24 10:16:13,Kazakhstan
+1256,1312,L,time,2022-06-24 01:11:17,Brazil
+1264,1274,L,time,2022-06-23 10:09:28,Netherlands
+1272,1281,W,resignation,2022-06-22 19:43:52,England
+1263,1239,W,time,2022-06-22 03:33:34,India
+1248,1255,L,time,2022-06-21 17:45:51,Canada
+1238,1256,L,time,2022-06-21 16:38:57,Lebanon
+1246,1200,W,checkmate,2022-06-21 16:30:09,India
+1239,1211,W,resignation,2022-06-21 13:12:24,Israel
+1247,1242,L,checkmate,2022-06-20 17:32:25,Brazil
+1255,1219,W,time,2022-06-20 17:29:39,Norway
+1256,1236,W,time,2022-06-19 15:21:50,Malaysia
+1240,1208,D,stalemate,2022-06-19 10:12:25,India
+1241,1219,L,time,2022-06-19 09:51:28,Afghanistan
+1250,1249,W,resignation,2022-06-18 18:21:21,Iran
+1234,1230,L,time,2022-06-18 17:41:53,Brazil
+1258,1269,L,time,2022-06-18 16:27:00,International
+1259,1214,W,time,2022-06-18 13:46:21,India
+1243,1280,L,time,2022-06-18 10:31:22,Germany
+1250,1267,L,time,2022-06-17 14:29:35,International
+1244,1260,W,resignation,2022-06-16 18:59:08,Catalonia
+1220,1223,L,time,2022-06-16 11:46:55,Brazil
+1220,1276,L,time,2022-06-16 11:34:57,Latvia
+1227,1204,W,resignation,2022-06-15 19:28:24,Canada
+1219,1244,W,checkmate,2022-06-15 15:28:41,India
+1203,1216,W,time,2022-06-14 11:45:35,Palestine
+1202,1180,W,checkmate,2022-06-13 23:46:00,United States
+1194,1196,L,time,2022-06-13 22:15:29,Turkey
+1193,1207,W,resignation,2022-06-13 15:26:18,India
+1176,1167,W,resignation,2022-06-13 15:23:50,Latvia
+1168,1176,L,time,2022-06-13 13:55:13,Germany
+1176,1159,W,time,2022-06-13 13:45:21,Poland
+1176,1230,L,time,2022-06-12 19:21:22,Costa Rica
+1176,1177,W,time,2022-06-12 16:31:28,Albania
+1159,1151,L,time,2022-06-12 12:23:18,Myanmar
+1184,1171,W,checkmate,2022-06-11 10:45:58,Bosnia-Herzegovina
+1183,1202,W,checkmate,2022-06-11 09:06:24,Hong Kong
+1174,1141,L,time,2022-06-10 21:42:44,Romania
+1183,1128,W,time,2022-06-10 11:51:50,United States
+1168,1150,L,time,2022-06-10 10:48:23,Jordan
+1179,1176,W,time,2022-06-09 19:27:59,Germany
+1180,1199,W,time,2022-06-09 17:31:03,Norway
+1171,1153,W,resignation,2022-06-09 17:25:25,United States
+1163,1100,W,resignation,2022-06-09 15:22:17,United Kingdom
+1156,1209,L,time,2022-06-09 13:57:26,India
+1163,1200,L,checkmate,2022-06-09 12:48:51,Romania
+1176,1151,W,checkmate,2022-06-08 10:49:27,Indonesia
+1195,1217,W,time,2022-06-07 17:35:49,United States
+1186,1217,L,time,2022-06-07 16:03:52,India
+1194,1212,W,checkmate,2022-06-07 15:55:13,Canada
+1185,1165,W,time,2022-06-07 15:46:59,India
+1169,1164,L,checkmate,2022-06-07 14:39:12,Spain
+1178,1212,L,time,2022-06-07 14:18:23,France
+1187,1134,W,time,2022-06-07 12:59:40,Brazil
+1188,1140,W,checkmate,2022-06-07 11:01:45,Morocco
+1181,1212,W,checkmate,2022-06-06 23:34:42,Peru
+1172,1222,L,time,2022-06-06 22:14:42,Mexico
+1188,1242,L,time,2022-06-06 11:32:08,United States
+1195,1104,W,checkmate,2022-06-06 08:11:00,Norway
+1213,1179,W,resignation,2022-06-05 14:04:25,United States
+1205,1173,W,checkmate,2022-06-05 14:01:23,Netherlands
+1197,1180,W,checkmate,2022-06-05 11:30:16,Malaysia
+1189,1249,L,time,2022-06-05 11:14:11,Serbia
+1203,1154,W,checkmate,2022-06-04 09:38:32,Taiwan
+1188,1197,W,time,2022-06-03 21:30:29,Italy
+1170,1066,W,abandoned,2022-06-03 08:49:06,Germany
+1156,1172,L,time,2022-06-02 12:40:00,United States
+1164,1169,W,checkmate,2022-06-01 11:56:59,Saudi Arabia
+1164,1216,L,time,2022-05-31 16:37:17,United States
+1179,1143,W,time,2022-05-30 19:08:28,India
+1170,1165,L,time,2022-05-29 11:36:02,Andorra
+1187,1184,L,time,2022-05-29 10:48:51,Norway
+1195,1173,L,time,2022-05-27 11:56:15,United Kingdom
+1204,1223,L,time,2022-05-27 11:48:25,Indonesia
+1204,1215,L,time,2022-05-23 20:53:25,Germany
+1204,1255,L,time,2022-05-21 11:50:31,United Kingdom
+1219,1259,L,resignation,2022-05-17 15:25:08,United States
+1226,1266,L,time,2022-05-16 22:37:59,Canada
+1233,1235,L,time,2022-05-16 22:24:14,Australia
+1225,1254,L,time,2022-05-16 18:42:43,United Kingdom
+1233,1242,W,resignation,2022-05-16 18:09:03,Colombia
+1224,1262,W,checkmate,2022-05-16 16:20:22,United States
+1215,1204,L,time,2022-05-16 12:54:23,United Kingdom
+1232,1227,L,checkmate,2022-05-15 22:39:18,United States
+1231,1294,L,time,2022-05-15 15:04:52,Germany
+1237,1259,D,material,2022-05-14 16:13:51,France
+1236,1273,L,time,2022-05-14 10:12:21,Australia
+1244,1276,L,time,2022-05-13 18:39:08,Luxembourg
+1252,1268,L,time,2022-05-12 23:57:25,United States
+1277,1263,W,time,2022-05-12 11:32:27,United States
+1261,1205,W,time,2022-05-11 14:03:54,Colombia
+1239,1270,L,time,2022-05-09 11:05:32,Romania
+1239,1192,W,time,2022-05-08 16:28:23,United States
+1232,1210,W,resignation,2022-05-08 16:04:37,Germany
+1224,1220,L,time,2022-05-06 23:19:54,Italy
+1256,1233,L,time,2022-05-06 13:23:27,United Kingdom
+1266,1222,W,checkmate,2022-05-05 12:43:42,Uzbekistan
+1259,1281,L,time,2022-05-05 08:32:28,France
+1275,1337,L,time,2022-05-05 08:10:01,Egypt
+1282,1274,W,time,2022-05-04 21:42:43,United States
+1288,1180,W,checkmate,2022-05-04 17:08:45,Italy
+1282,1301,L,time,2022-05-04 14:15:20,Poland
+1296,1313,L,time,2022-05-04 10:45:05,Portugal
+1304,1298,W,resignation,2022-05-04 00:44:30,United States
+1296,1296,W,time,2022-05-03 16:14:33,Croatia
+1288,1244,W,checkmate,2022-05-03 15:56:50,France
+1273,1274,W,checkmate,2022-05-03 12:49:39,United States
+1256,1282,L,time,2022-05-03 11:58:41,India
+1271,1264,L,time,2022-05-03 09:41:24,United Kingdom
+1273,1325,L,time,2022-05-02 12:08:42,Brazil
+1280,1246,W,time,2022-05-02 11:41:12,United Kingdom
+1272,1286,L,checkmate,2022-05-02 00:46:09,United States
+1281,1236,W,time,2022-05-01 15:12:51,Italy
+1266,1220,W,resignation,2022-04-30 19:23:26,Poland
+1249,1240,W,time,2022-04-29 11:55:57,Italy
+1233,1292,W,time,2022-04-29 11:49:52,Spain
+1223,1242,W,time,2022-04-29 11:43:25,Russia
+1222,1280,L,checkmate,2022-04-29 09:34:30,Turkey
+1220,1205,L,time,2022-04-28 19:38:10,United States
+1220,1245,W,time,2022-04-28 14:35:58,France
+1219,1233,L,time,2022-04-27 21:03:14,Mexico
+1235,1283,L,checkmate,2022-04-27 16:56:05,Catalonia
+1242,1205,W,checkmate,2022-04-27 16:33:06,United States
+1228,1197,W,time,2022-04-27 14:12:16,United States
+1228,1229,W,checkmate,2022-04-26 19:01:29,United States
+1212,1248,L,time,2022-04-26 18:44:56,Germany
+1235,1214,L,checkmate,2022-04-26 16:21:46,Sweden
+1237,1233,L,time,2022-04-26 16:06:17,United States
+1245,1242,L,time,2022-04-26 15:22:07,United States
+1253,1237,W,resignation,2022-04-26 15:22:02,Taiwan
+1252,1177,L,time,2022-04-26 13:30:29,Chile
+1270,1251,W,time,2022-04-25 17:50:59,United States
+1255,1240,L,time,2022-04-25 13:04:34,India
+1264,1292,W,time,2022-04-25 12:09:05,India
+1254,1291,L,time,2022-04-24 17:06:23,Canada
+1262,1226,W,checkmate,2022-04-24 17:04:33,Serbia
+1247,1245,W,checkmate,2022-04-24 15:24:27,Thailand
+1230,1230,W,time,2022-04-24 14:54:03,Colombia
+1231,1236,W,checkmate,2022-04-24 12:44:46,Israel
+1213,1235,L,time,2022-04-24 01:33:25,Afghanistan
+1221,1234,L,time,2022-04-23 16:55:03,Sweden
+1237,1225,L,time,2022-04-23 11:57:37,Mexico
+1254,1262,W,checkmate,2022-04-22 18:54:49,Egypt
+1238,1254,L,checkmate,2022-04-22 00:45:03,Chile
+1246,1303,L,time,2022-04-21 20:53:53,Russia
+1253,1215,W,checkmate,2022-04-21 20:48:41,Russia
+1246,1236,L,time,2022-04-21 20:44:45,India
+1279,1259,L,time,2022-04-21 16:28:14,Russia
+1288,1300,W,checkmate,2022-04-21 16:22:16,Poland
+1287,1317,W,checkmate,2022-04-21 14:35:50,India
+1278,1253,L,time,2022-04-21 14:06:24,Canada
+1304,1338,L,time,2022-04-21 11:56:23,Australia
+1312,1309,W,resignation,2022-04-21 11:03:40,India
+1306,1268,W,checkmate,2022-04-20 22:45:51,Brazil
+1299,1269,L,time,2022-04-20 22:00:03,United States
+1307,1266,W,checkmate,2022-04-20 18:05:43,Qatar
+1300,1345,L,time,2022-04-20 18:00:20,India
+1315,1354,L,time,2022-04-20 17:18:59,Philippines
+1322,1308,W,checkmate,2022-04-20 17:07:13,Argentina
+1305,1332,W,resignation,2022-04-20 11:44:28,India
+1296,1354,L,time,2022-04-20 11:02:53,Ukraine
+1295,1278,W,checkmate,2022-04-19 18:13:27,Switzerland
+1287,1228,W,time,2022-04-19 15:17:03,Australia
+1289,1322,L,resignation,2022-04-19 12:41:10,Israel
+1298,1303,W,resignation,2022-04-18 21:39:27,Canada
+1288,1245,W,resignation,2022-04-17 18:29:44,Greece
+1626,1797,W,checkmate,2022-04-16 10:28:52,Philippines
+1282,1279,L,time,2022-04-16 09:46:12,Portugal
+1290,1334,L,resignation,2022-04-15 21:00:53,Syria
+1297,1303,L,time,2022-04-15 20:42:38,Greece
+1305,1276,L,time,2022-04-15 20:10:19,United States
+1331,1287,D,material,2022-04-15 15:41:15,United States
+1332,1284,W,time,2022-04-15 11:28:38,Spain
+1332,1355,L,time,2022-04-15 09:20:37,India
+1341,1372,L,time,2022-04-14 21:43:48,Israel
+1349,1346,L,time,2022-04-14 21:40:57,Turkey
+1350,1391,L,checkmate,2022-04-14 15:17:24,Bangladesh
+1342,1315,W,checkmate,2022-04-14 14:15:45,United States
+1341,1323,W,checkmate,2022-04-14 13:58:07,France
+1342,1351,L,checkmate,2022-04-14 12:17:27,United States
+1350,1298,W,resignation,2022-04-14 11:50:19,Mexico
+1343,1355,W,checkmate,2022-04-14 11:44:39,Iran
+1327,1268,W,checkmate,2022-04-14 11:36:09,Switzerland
+1320,1304,W,checkmate,2022-04-14 11:32:39,Philippines
+1305,1270,W,resignation,2022-04-13 22:38:09,Ukraine
+1288,1317,L,time,2022-04-13 15:40:11,Lebanon
+1303,1308,W,checkmate,2022-04-12 19:58:03,Argentina
+1295,1288,L,time,2022-04-12 19:39:17,Brazil
+1304,1307,L,checkmate,2022-04-12 15:07:18,Netherlands
+1312,1363,L,checkmate,2022-04-12 13:53:45,Mexico
+1312,1248,W,time,2022-04-12 11:22:05,India
+1322,1297,L,time,2022-04-11 22:05:50,Mexico
+1332,1332,L,time,2022-04-10 22:40:00,United States
+1340,1290,W,resignation,2022-04-09 10:07:05,Philippines
+1333,1263,L,time,2022-04-08 21:02:53,Bulgaria
+1343,1306,W,time,2022-04-08 18:17:41,Ecuador
+1343,1395,L,resignation,2022-04-07 21:53:37,United States
+1326,1318,L,time,2022-04-05 16:25:46,Colombia
+1335,1374,L,time,2022-04-05 15:43:02,Germany
+1342,1293,W,resignation,2022-04-05 15:42:25,United States
+1335,1372,L,time,2022-04-05 15:11:05,India
+1343,1330,W,time,2022-04-04 21:58:13,India
+1335,1277,W,time,2022-04-04 21:52:52,Cuba
+1336,1334,W,resignation,2022-04-04 12:49:48,India
+1294,1318,L,time,2022-04-03 20:00:02,United States
+1302,1281,W,time,2022-04-03 19:57:37,India
+1294,1242,W,time,2022-04-03 18:14:03,Jordan
+1296,1277,W,resignation,2022-04-02 22:00:45,Russia
+1288,1259,W,time,2022-04-02 21:55:39,Russia
+1280,1329,L,time,2022-04-02 20:27:13,Canada
+1280,1267,L,time,2022-04-02 20:08:17,United States
+1279,1229,W,resignation,2022-04-02 19:57:48,Jordan
+1263,1278,L,time,2022-04-02 17:07:52,United States
+1271,1210,W,time,2022-04-02 16:56:56,Philippines
+1264,1301,L,time,2022-04-02 16:47:16,United States
+1272,1300,W,time,2022-04-02 16:42:41,United States
+1263,1246,W,checkmate,2022-04-02 16:34:42,United Kingdom
+1255,1230,W,checkmate,2022-04-02 13:27:16,Myanmar
+1271,1229,W,checkmate,2022-04-02 11:12:14,Iran
+1264,1273,L,time,2022-04-02 11:09:33,Spain
+1265,1315,L,time,2022-04-01 22:09:39,Basque Country
+1272,1295,W,time,2022-04-01 19:35:38,Canada
+1278,1285,L,time,2022-03-31 19:32:25,United States
+1286,1292,L,time,2022-03-31 17:12:23,Russia
+1279,1338,W,time,2022-03-31 14:35:24,Germany
+1269,1269,W,checkmate,2022-03-31 13:58:53,United Kingdom
+1277,1242,W,checkmate,2022-03-31 12:26:31,Poland
+1277,1238,W,time,2022-03-31 11:28:14,Iran
+1270,1292,L,checkmate,2022-03-31 11:17:49,Indonesia
+1278,1261,L,time,2022-03-31 10:59:34,El Salvador
+1288,1352,W,time,2022-03-31 10:43:25,Indonesia
+1286,1328,L,time,2022-03-31 10:26:12,Malaysia
+1294,1264,L,time,2022-03-31 09:11:58,Lebanon
+1286,1291,W,checkmate,2022-03-31 08:07:13,India
+1277,1280,W,resignation,2022-03-31 08:06:26,United States
+1268,1211,W,checkmate,2022-03-30 18:16:38,Ukraine
+1261,1259,W,time,2022-03-30 18:02:49,Israel
+1253,1260,L,time,2022-03-30 17:52:42,International
+1246,1297,L,time,2022-03-30 16:28:08,United Kingdom
+1279,1260,L,time,2022-03-30 15:33:40,Saudi Arabia
+1288,1241,W,resignation,2022-03-30 15:33:35,Germany
+1281,1293,L,time,2022-03-30 15:29:19,Italy
+1297,1212,W,time,2022-03-30 09:26:36,India
+1280,1253,W,time,2022-03-29 22:58:54,Australia
+1264,1219,W,checkmate,2022-03-29 22:35:41,Brazil
+1257,1242,L,time,2022-03-29 22:26:22,United Kingdom
+1266,1256,W,checkmate,2022-03-29 21:07:39,United States
+1258,1221,W,time,2022-03-29 21:01:02,United States
+1242,1210,W,checkmate,2022-03-29 19:17:12,Hong Kong
+1235,1227,L,time,2022-03-29 17:31:46,United Kingdom
+1236,1195,W,checkmate,2022-03-29 17:25:46,India
+1229,1271,L,time,2022-03-29 16:51:07,United States
+1236,1154,W,checkmate,2022-03-29 16:49:48,Ireland
+1222,1253,W,resignation,2022-03-29 15:45:30,Australia
+1223,1224,W,checkmate,2022-03-29 13:20:04,United States
+1223,1204,L,time,2022-03-28 21:43:16,Turkey
+1232,1268,L,time,2022-03-28 21:24:58,Bangladesh
+1247,1270,L,time,2022-03-28 21:16:45,Russia
+1255,1195,W,checkmate,2022-03-28 21:06:55,United States
+1248,1198,W,resignation,2022-03-28 17:57:38,Russia
+1257,1306,L,checkmate,2022-03-28 17:37:48,United States
+1278,1252,W,time,2022-03-28 17:14:10,India
+1263,1321,L,checkmate,2022-03-28 16:53:35,India
+1270,1294,L,checkmate,2022-03-28 16:13:16,France
+1278,1328,L,time,2022-03-28 15:54:50,Canada
+1277,1298,W,checkmate,2022-03-28 14:45:38,Russia
+1270,1324,L,time,2022-03-28 13:54:34,India
+1269,1237,W,time,2022-03-28 13:36:37,Ukraine
+1261,1286,L,time,2022-03-28 12:30:14,Italy
+1269,1297,W,checkmate,2022-03-28 12:21:17,Egypt
+1252,1255,W,resignation,2022-03-28 11:54:37,Philippines
+1252,1046,W,checkmate,2022-03-28 11:18:30,Russia
+1245,1268,L,time,2022-03-28 11:08:19,International
+1246,1303,L,time,2022-03-28 10:37:25,Ireland
+1261,1314,L,time,2022-03-27 14:05:21,Brazil
+1275,1239,W,time,2022-03-27 13:16:07,Russia
+1276,1310,L,time,2022-03-27 12:46:53,India
+1284,1268,W,checkmate,2022-03-27 12:42:58,United States
+1293,1311,L,time,2022-03-27 11:49:20,Russia
+1301,1304,W,resignation,2022-03-27 11:43:55,United Kingdom
+1301,1238,W,time,2022-03-27 11:24:51,France
+1303,1296,L,checkmate,2022-03-27 09:56:19,Norway
+1305,1360,L,time,2022-03-27 08:58:19,Germany
+1312,1282,W,checkmate,2022-03-27 02:17:27,United States
+1318,1366,L,time,2022-03-26 23:43:10,United States
+1335,1335,L,time,2022-03-26 22:32:47,Canada
+1327,1231,W,time,2022-03-26 21:53:15,Argentina
+1321,1326,W,time,2022-03-26 21:50:35,United States
+1313,1256,W,time,2022-03-26 20:54:09,Poland
+1281,1322,L,checkmate,2022-03-26 17:38:46,Argentina
+1288,1284,W,checkmate,2022-03-26 17:00:10,United States
+1279,1318,L,time,2022-03-26 16:06:36,Brazil
+1286,1230,W,checkmate,2022-03-26 15:31:24,Germany
+1296,1205,W,time,2022-03-26 14:36:35,South Africa
+1290,1341,L,time,2022-03-26 14:16:02,India
+1290,1297,L,time,2022-03-26 12:26:50,Lithuania
+1298,1335,D,stalemate,2022-03-26 12:19:45,Norway
+1313,1373,L,time,2022-03-26 10:00:11,Pakistan
+1328,1278,W,checkmate,2022-03-26 09:41:25,Denmark
+1328,1353,L,time,2022-03-25 23:35:19,Poland
+1336,1388,L,time,2022-03-25 16:54:09,United States
+1342,1313,L,time,2022-03-25 11:51:02,Egypt
+1335,1296,L,time,2022-03-25 11:20:39,Germany
+1337,1344,L,time,2022-03-25 10:17:05,Canada
+1345,1363,W,time,2022-03-25 10:13:13,Iceland
+1343,1344,W,time,2022-03-25 02:16:49,Mongolia
+1350,1356,W,time,2022-03-25 00:44:23,United States
+1332,1315,L,time,2022-03-24 22:56:50,Canada
+1341,1304,W,checkmate,2022-03-24 22:54:04,United States
+1333,1298,L,checkmate,2022-03-24 22:14:28,United Kingdom
+1358,1341,L,time,2022-03-24 17:54:32,United States
+1374,1412,L,time,2022-03-24 17:30:58,India
+1381,1346,W,time,2022-03-24 16:53:58,United States
+1373,1410,L,checkmate,2022-03-24 16:46:21,Colombia
+1380,1376,L,time,2022-03-24 16:28:49,Italy
+1397,1400,L,checkmate,2022-03-24 15:33:54,United States
+1405,1450,W,time,2022-03-24 14:11:46,Russia
+1388,1385,L,time,2022-03-24 11:39:46,Mexico
+1396,1395,W,abandoned,2022-03-24 11:38:38,Austria
+1380,1328,W,checkmate,2022-03-24 10:58:50,India
+1373,1332,L,checkmate,2022-03-24 09:40:21,United Arab Emirates
+1374,1369,W,time,2022-03-24 08:43:48,Philippines
+1366,1353,L,checkmate,2022-03-23 19:40:23,Russia
+1376,1340,W,time,2022-03-23 19:19:45,Saudi Arabia
+1384,1342,W,time,2022-03-23 17:04:07,Chile
+1377,1397,L,time,2022-03-23 17:00:58,Latvia
+1384,1439,L,checkmate,2022-03-23 15:32:51,United States
+1391,1411,W,checkmate,2022-03-23 15:15:19,Czech Republic
+1382,1364,L,time,2022-03-23 15:10:30,Serbia
+1374,1346,W,time,2022-03-23 14:04:59,Australia
+1382,1411,L,time,2022-03-23 13:37:42,Sweden
+1390,1416,L,time,2022-03-23 12:47:24,India
+1406,1361,W,checkmate,2022-03-23 12:27:02,Norway
+1390,1368,L,time,2022-03-23 11:17:05,Spain
+1390,1420,L,time,2022-03-23 11:10:13,Indonesia
+1398,1399,W,checkmate,2022-03-23 10:55:33,India
+1406,1437,L,time,2022-03-23 00:28:52,United States
+1431,1477,D,material,2022-03-22 21:50:10,Turkey
+1438,1426,W,resignation,2022-03-22 20:03:37,Portugal
+1430,1373,W,time,2022-03-22 17:05:29,Israel
+1423,1427,W,time,2022-03-22 09:02:35,United States
+1416,1364,W,time,2022-03-22 08:57:42,Brazil
+1401,1416,W,checkmate,2022-03-22 08:41:17,Zimbabwe
+1391,1390,L,time,2022-03-21 22:01:51,Saudi Arabia
+1399,1385,L,time,2022-03-21 21:28:42,United Kingdom
+1408,1346,W,time,2022-03-21 21:26:09,Brazil
+1401,1450,L,time,2022-03-21 20:58:23,International
+1407,1443,L,time,2022-03-21 16:17:31,France
+1422,1404,L,time,2022-03-21 13:29:39,United States
+1423,1406,L,time,2022-03-21 13:21:41,Malaysia
+1432,1414,W,checkmate,2022-03-21 11:54:36,Nepal
+1424,1375,W,time,2022-03-21 11:52:12,Indonesia
+1417,1362,W,time,2022-03-21 11:47:46,France
+1402,1396,W,time,2022-03-21 11:41:33,Russia
+1386,1368,D,material,2022-03-21 11:37:26,India
+1379,1412,L,resignation,2022-03-21 11:08:29,Italy
+1387,1350,W,time,2022-03-21 10:35:16,Azerbaijan
+1371,1354,W,checkmate,2022-03-21 10:30:05,Basque Country
+1363,1337,W,time,2022-03-20 23:57:57,United States
+1355,1459,L,time,2022-03-20 23:17:27,Canada
+1361,1326,W,time,2022-03-20 22:19:34,Poland
+1340,1317,W,time,2022-03-20 21:25:39,United States
+1332,1309,W,time,2022-03-20 21:19:41,Jersey
+1333,1275,W,resignation,2022-03-20 20:25:23,Brazil
+1326,1281,W,time,2022-03-20 20:22:09,France
+1319,1293,W,time,2022-03-20 20:09:02,United States
+1320,1335,W,checkmate,2022-03-20 19:52:05,Colombia
+1319,1317,W,time,2022-03-20 19:45:55,Slovenia
+1327,1341,L,time,2022-03-20 19:00:13,Ukraine
+1351,1353,L,time,2022-03-20 16:52:29,Paraguay
+1360,1371,L,time,2022-03-20 16:46:28,Greece
+1361,1321,W,time,2022-03-20 16:26:33,France
+1362,1373,W,checkmate,2022-03-20 15:58:15,India
+1353,1354,L,time,2022-03-20 15:47:13,United States
+1372,1400,W,time,2022-03-20 12:17:06,United Kingdom
+1363,1388,L,time,2022-03-20 01:42:26,France
+1379,1426,L,time,2022-03-19 23:25:59,Brazil
+1386,1369,W,time,2022-03-19 22:10:21,Mexico
+1378,1412,L,time,2022-03-19 18:26:04,Czech Republic
+1393,1367,W,checkmate,2022-03-19 17:57:49,Switzerland
+1368,1305,L,checkmate,2022-03-19 16:21:04,Brazil
+1369,1418,L,time,2022-03-19 15:57:45,Turkey
+1369,1338,W,time,2022-03-19 15:03:13,Philippines
+1361,1311,W,time,2022-03-19 13:30:31,United States
+1361,1358,L,time,2022-03-19 12:28:42,India
+1369,1386,W,time,2022-03-19 11:52:41,United States
+1344,1327,L,time,2022-03-19 10:06:19,India
+1338,1301,W,checkmate,2022-03-18 18:01:32,India
+1330,1357,L,time,2022-03-18 17:22:26,France
+1338,1349,W,checkmate,2022-03-18 17:20:04,United States
+1329,1280,W,time,2022-03-18 17:15:15,Netherlands
+1306,1284,W,time,2022-03-18 12:51:59,Germany
+1298,1267,L,time,2022-03-18 12:14:28,Netherlands
+1300,1309,W,time,2022-03-17 23:49:56,Germany
+1308,1272,W,time,2022-03-17 19:08:01,India
+1291,1310,L,resignation,2022-03-17 18:22:06,India
+1308,1312,W,checkmate,2022-03-17 17:46:36,France
+1300,1245,W,resignation,2022-03-17 16:56:07,International
+1293,1291,W,resignation,2022-03-17 16:29:38,Brazil
+1277,1264,W,checkmate,2022-03-17 15:51:04,United States
+1252,1259,L,checkmate,2022-03-16 23:10:50,United States
+1253,1222,W,checkmate,2022-03-16 20:32:58,Turkey
+1245,1229,W,checkmate,2022-03-16 16:39:55,Spain
+1237,1234,L,time,2022-03-16 11:08:48,United Kingdom
+1245,1324,L,time,2022-03-16 11:04:10,Netherlands
+1252,1235,L,time,2022-03-16 00:14:16,France
+1246,1276,W,resignation,2022-03-15 23:24:02,Canada
+1238,1287,L,time,2022-03-15 13:26:46,India
+1253,1267,L,checkmate,2022-03-15 10:41:32,International
+1261,1238,L,time,2022-03-15 09:56:03,European Union
+1270,1323,L,time,2022-03-15 09:44:38,India
+1293,1265,W,time,2022-03-15 07:19:43,India
+1276,1258,W,checkmate,2022-03-14 17:17:51,Sweden
+1276,1283,L,time,2022-03-14 09:33:50,International
+1286,1250,W,checkmate,2022-03-14 04:23:34,Myanmar
+1279,1257,L,time,2022-03-14 03:20:15,Brazil
+1288,1357,L,time,2022-03-14 03:17:09,France
+1310,1255,W,resignation,2022-03-14 01:39:38,United States
+1304,1336,L,time,2022-03-14 00:09:51,Nigeria
+1320,1326,L,checkmate,2022-03-13 23:05:27,United Kingdom
+1328,1322,W,checkmate,2022-03-13 21:23:47,United States
+1338,1299,W,checkmate,2022-03-13 19:38:08,Iran
+1330,1310,W,checkmate,2022-03-13 18:59:30,India
+1322,1381,W,checkmate,2022-03-13 18:47:32,United States
+1312,1339,W,time,2022-03-13 16:08:40,Armenia
+1303,1334,W,resignation,2022-03-13 14:05:33,Spain
+1302,1298,W,time,2022-03-13 12:44:23,United Kingdom
+1292,1222,L,time,2022-03-13 11:22:05,India
+1313,1335,L,checkmate,2022-03-12 20:51:52,Iran
+1321,1303,W,time,2022-03-12 20:31:08,Canada
+1313,1264,W,checkmate,2022-03-12 20:18:56,Colombia
+1306,1263,W,checkmate,2022-03-12 20:16:16,United Kingdom
+1290,1308,W,resignation,2022-03-12 19:17:43,Russia
+1281,1326,L,time,2022-03-12 16:11:41,United States
+1297,1289,L,time,2022-03-12 15:53:21,Spain
+1306,1327,L,checkmate,2022-03-12 12:52:13,India
+1314,1363,L,time,2022-03-12 12:48:31,Russia
+1329,1331,L,time,2022-03-12 12:03:48,United States
+1337,1332,W,time,2022-03-10 21:10:56,Norway
+1336,1358,D,material,2022-03-10 19:12:13,Canada
+1326,1348,L,time,2022-03-10 18:43:06,United States
+1334,1297,W,time,2022-03-10 18:24:49,Pakistan
+1326,1268,W,checkmate,2022-03-10 14:03:41,Denmark
+1328,1300,L,time,2022-03-10 12:17:35,Germany
+1337,1363,L,checkmate,2022-03-10 12:15:57,Spain
+1345,1379,L,time,2022-03-10 04:07:26,Spain
+1345,1291,W,checkmate,2022-03-09 22:21:32,United States
+1330,1275,W,time,2022-03-09 19:33:40,Russia
+1323,1306,W,time,2022-03-09 19:20:10,Australia
+1324,1364,L,time,2022-03-09 18:41:15,Morocco
+1331,1368,L,time,2022-03-09 11:33:57,Spain
+1338,1230,W,resignation,2022-03-09 11:25:48,United Kingdom
+1326,1328,W,time,2022-03-08 20:18:56,Dominican Republic
+1302,1281,W,checkmate,2022-03-08 12:34:00,India
+1294,1317,W,resignation,2022-03-07 19:54:43,Norway
+1285,1342,L,time,2022-03-07 19:35:30,United States
+1292,1304,L,time,2022-03-07 19:00:20,United States
+1325,1333,L,time,2022-03-06 20:58:36,Canada
+1340,1367,L,time,2022-03-06 19:46:14,Mexico
+1348,1366,L,time,2022-03-06 19:36:56,Belgium
+1347,1302,W,time,2022-03-06 18:56:32,Spain
+1348,1373,L,checkmate,2022-03-06 12:37:31,Australia
+1356,1420,L,time,2022-03-06 12:32:04,Malaysia
+1355,1406,L,time,2022-03-05 19:16:09,South Africa
+1347,1343,L,time,2022-03-05 13:34:13,International
+1356,1420,L,time,2022-03-05 12:54:41,Vietnam
+1380,1374,L,time,2022-03-04 20:31:07,Nepal
+1389,1389,W,resignation,2022-03-04 20:23:21,Netherlands
+1373,1394,W,resignation,2022-03-04 18:08:13,United States
+1356,1269,W,abandoned,2022-03-04 13:03:14,Russia
+1350,1317,W,time,2022-03-04 12:59:52,India
+1342,1336,W,checkmate,2022-03-03 17:21:02,Belgium
+1333,1345,W,time,2022-03-03 13:15:25,Russia
+1324,1324,W,resignation,2022-03-02 18:21:05,United Kingdom
+1300,1364,L,time,2022-03-02 17:21:29,Italy
+1315,1315,W,time,2022-03-02 14:00:59,Germany
+1307,1295,L,time,2022-03-02 13:29:25,United States
+1308,1345,L,time,2022-03-02 12:20:12,Portugal
+1316,1319,L,time,2022-03-02 11:50:40,Netherlands
+1331,1328,W,time,2022-03-01 20:55:27,Ukraine
+1322,1331,W,resignation,2022-03-01 12:34:58,United States
+1313,1324,L,time,2022-02-28 20:32:58,India
+1321,1364,L,time,2022-02-28 13:09:39,Vietnam
+1337,1337,L,checkmate,2022-02-28 09:21:12,India
+1328,1270,W,resignation,2022-02-26 10:00:17,India
+1313,1367,L,time,2022-02-24 10:59:36,Denmark
+1311,1266,W,time,2022-02-24 00:38:25,International
+1312,1317,L,time,2022-02-23 23:50:51,United States
+1320,1303,W,time,2022-02-23 18:55:53,Netherlands
+1312,1251,W,checkmate,2022-02-23 17:45:41,United States
+1288,1287,W,time,2022-02-23 14:17:38,Mexico
+1271,1247,L,checkmate,2022-02-23 13:49:02,Germany
+1280,1213,L,time,2022-02-23 12:41:15,United Kingdom
+1290,1300,L,time,2022-02-23 11:22:53,Romania
+1289,1285,L,time,2022-02-23 10:53:14,India
+1305,1305,W,checkmate,2022-02-21 14:17:32,Netherlands
+1296,1267,W,checkmate,2022-02-20 21:01:51,United States
+1288,1299,W,time,2022-02-20 15:07:39,Belgium
+1279,1218,W,time,2022-02-20 14:54:32,Italy
+1273,1241,D,stalemate,2022-02-20 13:14:29,Canada
+1274,1254,W,checkmate,2022-02-20 13:00:17,United Arab Emirates
+1248,1270,L,time,2022-02-18 18:19:02,United States
+1255,1194,W,time,2022-02-17 21:27:42,Canada
+1247,1220,W,time,2022-02-17 18:10:42,Venezuela
+1247,1202,W,time,2022-02-17 13:05:13,Russia
+1248,1188,W,time,2022-02-14 15:58:47,Mexico
+1249,1247,W,checkmate,2022-02-10 13:04:37,Vatican City
+1233,1231,L,time,2022-02-09 22:22:34,Bulgaria
+1250,1239,L,time,2022-02-07 14:37:23,Czech Republic
+1251,1282,W,time,2022-02-05 12:00:26,Croatia
+1239,1245,W,time,2022-02-03 18:29:59,Slovakia
+1238,1261,W,resignation,2022-02-03 17:48:29,Indonesia
+1229,1185,W,time,2022-02-03 17:38:55,United States
+1231,1236,W,checkmate,2022-02-03 15:35:24,Russia
+1231,1243,L,time,2022-02-02 20:05:09,Argentina
+1246,1222,L,checkmate,2022-02-02 18:54:32,Lebanon
+1255,1269,W,time,2022-02-02 13:54:30,Brazil
+1246,1217,W,checkmate,2022-02-01 21:52:11,India
+1246,1253,L,resignation,2022-01-31 15:47:41,India
+1254,1270,L,time,2022-01-31 10:45:22,India
+1279,1284,W,time,2022-01-29 14:16:38,Brazil
+1261,1286,L,time,2022-01-28 18:39:28,United States
+1269,1246,W,checkmate,2022-01-28 13:18:26,India
+1254,1198,W,time,2022-01-27 21:07:01,United States
+1255,1239,W,time,2022-01-27 19:58:46,Greece
+1230,1249,L,checkmate,2022-01-27 01:30:13,United States
+1231,1252,L,time,2022-01-27 00:27:03,United States
+1239,1216,L,time,2022-01-26 22:36:42,United States
+1248,1213,W,checkmate,2022-01-26 22:32:15,North Korea
+1263,1260,W,checkmate,2022-01-26 20:04:20,Germany
+1255,1224,L,time,2022-01-26 16:37:31,India
+1247,1284,L,time,2022-01-26 14:28:21,United Kingdom
+1264,1262,L,time,2022-01-25 20:37:47,New Zealand
+1272,1242,W,resignation,2022-01-25 20:28:30,Italy
+1264,1281,W,time,2022-01-25 19:54:48,Netherlands
+1255,1245,W,time,2022-01-25 19:18:23,United States
+1247,1232,W,resignation,2022-01-25 16:09:54,Italy
+1248,1204,W,time,2022-01-25 14:21:45,Russia
+1235,1249,W,time,2022-01-24 19:41:23,Brazil
+1234,1283,L,time,2022-01-24 19:11:27,Spain
+1241,1226,L,time,2022-01-24 18:05:55,Canada
+1259,1275,W,time,2022-01-24 18:00:22,North Macedonia
+1250,1307,L,time,2022-01-24 17:53:33,France
+1257,1269,L,checkmate,2022-01-24 17:17:22,United States
+1274,1313,L,resignation,2022-01-24 17:05:32,Germany
+1304,1285,W,time,2022-01-23 19:21:53,Bangladesh
+1296,1273,W,time,2022-01-23 19:17:08,Mexico
+1288,1262,W,checkmate,2022-01-23 18:34:20,Mexico
+1279,1311,L,resignation,2022-01-23 15:55:57,United States
+1294,1251,W,resignation,2022-01-23 15:05:46,Canada
+1288,1285,W,resignation,2022-01-23 13:25:28,United States
+1297,1241,W,time,2022-01-23 11:36:28,Philippines
+1290,1239,W,time,2022-01-23 11:30:07,Spain
+1283,1322,L,time,2022-01-23 11:19:28,Greece
+1306,1292,W,checkmate,2022-01-22 19:56:56,Finland
+1298,1238,W,time,2022-01-22 19:55:01,Canada
+1298,1294,L,time,2022-01-22 19:11:19,Mozambique
+1306,1335,L,time,2022-01-22 18:36:03,India
+1324,1331,L,time,2022-01-22 17:54:42,Gibraltar
+1323,1399,L,time,2022-01-22 13:03:28,Slovakia
+1330,1309,L,time,2022-01-22 12:48:16,Poland
+1348,1396,W,resignation,2022-01-22 12:15:02,Lebanon
+1338,1345,L,checkmate,2022-01-22 09:30:02,Philippines
+1338,1390,L,time,2022-01-21 14:48:33,Belgium
+1340,1373,L,time,2022-01-20 15:53:19,India
+1340,1349,W,time,2022-01-20 13:56:58,Argentina
+1341,1346,L,time,2022-01-20 13:26:43,Ukraine
+1357,1408,L,time,2022-01-20 13:04:00,Germany
+1364,1372,W,checkmate,2022-01-20 12:53:03,Canada
+1363,1363,W,checkmate,2022-01-20 11:53:38,United States
+1363,1347,W,time,2022-01-20 11:30:43,Philippines
+1362,1393,W,time,2022-01-18 18:01:05,Bulgaria
+1361,1334,W,time,2022-01-17 19:34:19,United States
+1353,1327,W,resignation,2022-01-17 18:29:21,United States
+1338,1286,W,checkmate,2022-01-17 15:43:20,Australia
+1323,1343,L,time,2022-01-15 20:19:19,United Kingdom
+1317,1374,L,time,2022-01-15 04:38:44,United States
+1325,1330,W,checkmate,2022-01-15 03:26:52,Uruguay
+1317,1324,W,time,2022-01-15 03:16:04,United Kingdom
+1308,1283,L,time,2022-01-15 02:52:52,Philippines
+1317,1275,W,time,2022-01-15 02:34:56,Israel
+1318,1328,L,time,2022-01-14 19:58:34,United States
+1327,1354,L,time,2022-01-14 17:22:57,Italy
+1337,1343,L,time,2022-01-14 16:27:48,Sweden
+1354,1339,W,checkmate,2022-01-14 16:25:24,Poland
+1346,1377,W,checkmate,2022-01-14 16:10:33,United States
+1337,1369,L,checkmate,2022-01-14 15:25:25,Egypt
+1362,1324,W,checkmate,2022-01-14 13:33:09,Oman
+1355,1276,W,time,2022-01-14 12:50:00,India
+1333,1370,L,time,2022-01-14 08:27:03,United States
+1341,1342,W,time,2022-01-14 08:19:32,India
+1333,1343,L,time,2022-01-14 08:17:16,India
+1333,1309,D,material,2022-01-14 06:48:09,Poland
+1357,1345,W,checkmate,2022-01-13 18:24:09,Uruguay
+1357,1341,W,time,2022-01-13 18:06:01,International
+1341,1293,W,time,2022-01-13 17:34:43,International
+1334,1363,L,time,2022-01-13 17:28:04,Mexico
+1351,1315,W,time,2022-01-13 17:15:56,Colombia
+1344,1335,L,time,2022-01-13 17:10:20,United States
+1346,1358,L,time,2022-01-13 11:29:12,South Africa
+1339,1292,W,checkmate,2022-01-13 04:35:35,United States
+1325,1302,W,resignation,2022-01-13 03:58:13,Chile
+1315,1342,L,time,2022-01-13 02:03:52,United States
+1323,1252,W,resignation,2022-01-13 01:08:52,Canada
+1316,1334,L,checkmate,2022-01-13 00:49:16,South Africa
+1324,1267,W,checkmate,2022-01-13 00:39:52,United States
+1332,1328,L,time,2022-01-12 22:06:54,South Korea
+1349,1291,W,time,2022-01-12 20:40:08,Saudi Arabia
+1351,1393,L,time,2022-01-12 20:29:21,Italy
+1358,1356,W,resignation,2022-01-12 19:52:37,Canada
+1350,1292,W,resignation,2022-01-12 19:49:51,United Kingdom
+1343,1325,L,time,2022-01-12 19:46:14,Turkey
+1345,1344,W,time,2022-01-12 19:33:47,Mexico
+1338,1297,W,checkmate,2022-01-12 19:17:29,Canada
+1339,1339,L,time,2022-01-12 18:01:22,Israel
+1347,1320,L,time,2022-01-12 17:57:25,India
+1379,1345,W,time,2022-01-12 17:18:30,Peru
+1371,1299,W,resignation,2022-01-12 16:20:18,Poland
+1381,1357,L,time,2022-01-12 15:16:16,Nigeria
+1390,1379,L,resignation,2022-01-12 15:05:56,Russia
+1399,1367,W,checkmate,2022-01-12 15:01:12,United States
+1391,1464,L,time,2022-01-11 17:06:54,US Virgin Islands
+1398,1407,L,time,2022-01-11 14:56:20,Russia
+1406,1430,L,checkmate,2022-01-11 05:09:57,United States
+1422,1400,L,time,2022-01-11 00:08:05,United States
+1431,1380,L,checkmate,2022-01-11 00:05:39,Egypt
+1441,1419,W,time,2022-01-10 22:54:01,Mexico
+1433,1438,W,resignation,2022-01-10 22:53:07,France
+1431,1422,W,time,2022-01-10 18:52:01,Switzerland
+1416,1418,L,time,2022-01-10 16:49:48,South Africa
+1399,1438,L,time,2022-01-10 10:19:38,Iran
+1406,1478,L,time,2022-01-10 02:48:18,United States
+1413,1411,W,checkmate,2022-01-10 02:44:31,Greece
+1398,1370,W,checkmate,2022-01-09 21:39:13,Italy
+1390,1326,W,checkmate,2022-01-09 17:48:18,Albania
+1382,1365,W,time,2022-01-09 02:38:31,Philippines
+1364,1349,L,time,2022-01-08 15:18:18,United States
+1373,1344,L,time,2022-01-08 14:28:43,Netherlands
+1382,1389,L,time,2022-01-08 13:54:24,Georgia
+1382,1413,L,checkmate,2022-01-08 13:39:36,United States
+1390,1382,W,resignation,2022-01-08 13:10:26,Norway
+1374,1382,L,time,2022-01-08 12:25:24,Germany
+1382,1378,L,time,2022-01-08 00:49:15,India
+1383,1351,L,time,2022-01-07 23:51:55,Brazil
+1392,1357,W,checkmate,2022-01-07 23:49:10,France
+1384,1371,L,time,2022-01-07 21:25:56,Israel
+1385,1349,D,material,2022-01-07 20:36:13,Brazil
+1386,1382,W,checkmate,2022-01-07 18:29:49,United States
+1386,1440,L,time,2022-01-07 17:58:59,United States
+1386,1369,W,resignation,2022-01-07 17:51:07,United States
+1378,1354,W,time,2022-01-07 00:10:32,United States
+1370,1368,W,time,2022-01-07 00:02:43,United Kingdom
+1362,1329,W,checkmate,2022-01-06 23:39:11,Mexico
+1346,1335,W,time,2022-01-06 23:03:30,Canada
+1331,1385,L,time,2022-01-06 17:38:16,United States
+1322,1315,L,time,2022-01-05 19:56:55,Scotland
+1331,1347,W,resignation,2022-01-05 19:42:33,International
+1322,1311,W,time,2022-01-05 19:27:51,India
+1314,1341,W,time,2022-01-05 18:47:44,United Kingdom
+1305,1356,L,time,2022-01-05 18:42:11,India
+1320,1289,W,checkmate,2022-01-05 18:33:39,India
+1312,1351,L,time,2022-01-05 18:10:41,Turkey
+1313,1340,L,time,2022-01-05 17:49:38,Turkey
+1337,1351,W,resignation,2022-01-05 17:08:03,Turkey
+1328,1310,L,checkmate,2022-01-05 15:26:31,France
+1337,1334,W,time,2022-01-05 14:38:14,United States
+1329,1388,L,time,2022-01-05 14:28:03,Germany
+1336,1274,W,time,2022-01-05 13:36:19,India
+1329,1319,L,resignation,2022-01-05 13:34:37,India
+1345,1380,L,time,2022-01-04 16:15:52,Spain
+1353,1391,L,time,2022-01-04 15:39:08,Cameroon
+1360,1329,W,checkmate,2022-01-04 14:02:12,North Korea
+1352,1408,L,time,2022-01-03 21:46:22,Syria
+1385,1371,W,resignation,2022-01-03 15:20:49,Turkey
+1377,1382,L,time,2022-01-03 13:10:38,India
+1386,1334,W,time,2022-01-03 11:50:35,Iran
+1379,1407,L,checkmate,2022-01-02 19:53:16,Argentina
+1379,1369,L,time,2022-01-02 19:21:46,Mexico
+1388,1374,L,checkmate,2022-01-02 19:13:04,Indonesia
+1388,1422,L,time,2022-01-01 19:51:35,Zimbabwe
+1396,1448,L,time,2022-01-01 18:44:19,Mexico
+1412,1382,W,time,2022-01-01 15:48:05,United States
+1396,1288,W,time,2022-01-01 14:05:39,India
+1390,1403,W,checkmate,2022-01-01 13:55:46,Germany
+1397,1359,W,time,2022-01-01 12:19:09,Germany
+1374,1402,W,time,2021-12-31 22:13:30,Suriname
+1365,1392,L,time,2021-12-31 21:52:07,United States
+1374,1389,W,time,2021-12-30 23:38:53,Chile
+1372,1364,W,resignation,2021-12-30 21:00:14,Mexico
+1356,1339,W,checkmate,2021-12-30 19:17:28,United Kingdom
+1348,1347,L,time,2021-12-30 19:07:27,Israel
+1340,1359,L,time,2021-12-30 11:31:17,United Kingdom
+1348,1385,L,time,2021-12-30 10:37:35,Russia
+1349,1331,W,resignation,2021-12-30 03:58:01,Netherlands
+1348,1364,L,time,2021-12-30 00:54:56,United States
+1356,1306,W,time,2021-12-29 22:45:20,Jamaica
+1358,1371,W,time,2021-12-29 20:50:42,Finland
+1359,1373,W,checkmate,2021-12-29 19:49:18,Austria
+1342,1342,L,time,2021-12-29 00:41:12,Turkey
+1350,1378,L,time,2021-12-29 00:37:42,United States
+1350,1413,L,resignation,2021-12-29 00:36:34,United States
+1357,1320,W,time,2021-12-28 23:14:38,Hungary
+1350,1325,L,time,2021-12-28 18:09:09,India
+1344,1338,W,checkmate,2021-12-28 13:54:12,Kazakhstan
+1336,1267,L,time,2021-12-28 13:20:27,Taiwan
+1330,1273,W,checkmate,2021-12-26 21:23:29,Greece
+1332,1342,L,time,2021-12-26 18:50:38,United States
+1340,1308,L,time,2021-12-26 16:34:38,United States
+1349,1323,L,time,2021-12-26 15:06:18,Dominica
+1358,1402,L,time,2021-12-26 14:42:38,Peru
+1365,1405,L,time,2021-12-26 14:23:48,Brazil
+1371,1407,L,time,2021-12-26 03:49:39,Mexico
+1386,1343,W,checkmate,2021-12-26 02:56:34,Paraguay
+1379,1426,W,checkmate,2021-12-26 01:54:30,India
+1378,1437,L,resignation,2021-12-25 20:25:10,United States
+1402,1389,L,time,2021-12-25 20:08:06,Romania
+1412,1428,L,time,2021-12-25 18:07:23,Finland
+1411,1376,W,resignation,2021-12-25 18:02:35,India
+1403,1417,W,time,2021-12-25 17:52:05,United States
+1394,1379,W,time,2021-12-25 17:45:59,Russia
+1379,1329,W,checkmate,2021-12-25 16:58:47,United Kingdom
+1363,1370,L,resignation,2021-12-25 16:44:10,Brazil
+1396,1335,W,checkmate,2021-12-24 16:04:50,United States
+1389,1375,L,time,2021-12-24 00:23:12,United States
+1398,1432,L,checkmate,2021-12-24 00:17:55,France
+1406,1467,L,checkmate,2021-12-24 00:14:27,International
+1413,1425,L,time,2021-12-23 23:59:40,United States
+1417,1396,W,resignation,2021-12-23 20:41:42,India
+1409,1445,L,time,2021-12-23 20:24:28,Russia
+1409,1373,W,time,2021-12-23 15:24:40,India
+1401,1359,W,time,2021-12-23 15:18:37,Saudi Arabia
+1394,1382,L,time,2021-12-23 15:15:13,Egypt
+1395,1381,L,time,2021-12-23 15:10:33,Egypt
+1380,1382,L,time,2021-12-23 14:40:42,Poland
+1380,1387,L,checkmate,2021-12-23 14:35:15,Poland
+1388,1370,L,time,2021-12-23 14:32:25,Algeria
+1391,1371,L,checkmate,2021-12-23 14:01:43,India
+1408,1447,L,time,2021-12-23 12:47:14,Spain
+1415,1450,L,checkmate,2021-12-23 12:45:45,Austria
+1412,1382,W,checkmate,2021-12-23 01:40:28,Brazil
+1404,1448,L,time,2021-12-23 01:36:39,United States
+1411,1438,L,time,2021-12-23 00:53:20,Norway
+1428,1433,L,time,2021-12-22 20:31:40,Colombia
+1436,1488,L,time,2021-12-22 19:39:09,United States
+1443,1494,L,time,2021-12-22 19:34:54,Georgia
+1467,1456,W,checkmate,2021-12-22 18:52:42,Canada
+1459,1481,W,checkmate,2021-12-22 17:11:15,United States
+1450,1459,L,time,2021-12-22 16:57:38,United States
+1444,1441,W,time,2021-12-21 23:47:02,Israel
+1436,1462,L,checkmate,2021-12-21 23:44:17,Germany
+1445,1384,W,resignation,2021-12-21 12:50:58,Vietnam
+1447,1426,W,checkmate,2021-12-21 12:12:42,United States
+1439,1452,L,time,2021-12-20 23:47:17,Jamaica
+1440,1435,W,time,2021-12-20 22:43:49,International
+1416,1420,W,resignation,2021-12-20 22:28:19,China
+1407,1411,W,checkmate,2021-12-20 15:25:12,Finland
+1407,1424,L,time,2021-12-20 14:14:16,International
+1407,1371,W,checkmate,2021-12-20 12:16:40,Lithuania
+1416,1443,W,checkmate,2021-12-17 01:42:48,Italy
+1407,1386,W,checkmate,2021-12-16 23:23:50,Egypt
+1413,1370,W,time,2021-12-16 22:24:02,International
+1406,1405,W,time,2021-12-16 22:09:59,Philippines
+1398,1422,W,time,2021-12-16 22:07:49,Argentina
+1372,1341,W,time,2021-12-16 22:02:10,United States
+1364,1382,W,resignation,2021-12-16 21:50:40,United States
+1364,1291,W,checkmate,2021-12-16 20:00:07,Norway
+1356,1344,L,time,2021-12-16 17:53:29,Israel
+1365,1346,W,checkmate,2021-12-16 17:52:44,Canada
+1357,1335,L,time,2021-12-16 17:49:02,Italy
+1374,1384,W,checkmate,2021-12-16 17:46:13,Australia
+1365,1359,L,time,2021-12-16 15:16:15,Turkey
+1366,1383,W,checkmate,2021-12-16 14:20:32,Brazil
+1363,1331,W,time,2021-12-16 13:28:21,India
+1355,1295,W,checkmate,2021-12-16 13:18:08,Germany
+1356,1329,L,time,2021-12-16 12:07:33,Catalonia
+1374,1318,W,checkmate,2021-12-16 00:04:26,India
+1367,1392,W,resignation,2021-12-16 00:00:45,Vietnam
+1358,1380,W,checkmate,2021-12-15 22:48:23,Philippines
+1350,1353,W,resignation,2021-12-15 13:15:40,United States
+1333,1383,L,time,2021-12-15 12:18:23,United Kingdom
+1349,1293,W,checkmate,2021-12-14 16:27:44,India
+1334,1310,D,material,2021-12-14 14:16:11,United States
+1335,1272,W,time,2021-12-14 14:05:53,Scotland
+1328,1382,L,checkmate,2021-12-14 14:04:47,Italy
+1318,1330,W,checkmate,2021-12-14 12:30:27,France
+1302,1270,W,checkmate,2021-12-10 17:45:18,United States
+1294,1315,L,time,2021-12-10 17:05:38,Egypt
+1302,1286,W,time,2021-12-10 16:27:59,Peru
+1294,1253,W,time,2021-12-10 15:54:00,United States
+1287,1248,W,time,2021-12-10 14:57:08,United States
+1262,1203,W,time,2021-12-09 20:38:49,Estonia
+1238,1284,L,time,2021-12-09 18:23:59,France
+1245,1250,W,checkmate,2021-12-09 16:14:11,United States
+1237,1263,L,resignation,2021-12-09 15:31:47,Turkey
+1245,1181,W,abandoned,2021-12-09 14:47:10,India
+1247,1252,W,resignation,2021-12-09 12:18:26,International
+1239,1239,W,checkmate,2021-12-09 01:24:44,United States
+1230,1283,L,resignation,2021-12-09 01:10:45,International
+1237,1233,W,resignation,2021-12-09 00:14:50,Brazil
+1222,1201,W,checkmate,2021-12-07 22:56:39,Colombia
+1206,1188,L,time,2021-12-07 22:27:05,United Kingdom
+1215,1183,L,time,2021-12-07 22:20:27,Indonesia
+1224,1268,L,time,2021-12-07 21:28:05,Norway
+1238,1242,W,checkmate,2021-12-07 19:01:40,South Africa
+1229,1248,W,checkmate,2021-12-07 18:58:11,France
+1244,1253,W,checkmate,2021-12-07 17:53:16,United States
+1243,1269,W,checkmate,2021-12-07 17:38:00,India
+1234,1238,W,time,2021-12-07 16:00:55,Belgium
+1226,1275,L,time,2021-12-07 15:56:28,Chile
+1241,1245,W,checkmate,2021-12-07 14:59:30,India
+1232,1244,W,time,2021-12-07 14:57:21,India
+1216,1248,L,time,2021-12-06 23:35:40,United Kingdom
+1225,1253,W,time,2021-12-06 21:31:51,India
+1216,1215,L,checkmate,2021-12-06 21:31:00,Brazil
+1215,1238,W,checkmate,2021-12-06 20:35:50,Romania
+1214,1222,W,resignation,2021-12-06 12:50:30,Spain
+1213,1197,W,abandoned,2021-12-06 12:35:37,International
+1205,1253,L,time,2021-12-05 21:28:00,Argentina
+1195,1182,L,time,2021-12-05 19:00:47,Germany
+1204,1193,L,time,2021-12-05 18:32:40,Russia
+1213,1185,L,time,2021-12-05 18:09:39,Ethiopia
+1247,1196,W,abandoned,2021-12-05 17:49:17,Germany
+1240,1276,L,time,2021-12-05 17:45:33,United States
+1242,1247,L,checkmate,2021-12-03 19:27:05,United States
+1250,1242,W,time,2021-12-03 19:19:11,Zimbabwe
+1242,1184,W,time,2021-12-03 17:58:06,Sweden
+1235,1225,L,time,2021-12-03 17:55:09,Colombia
+1235,1228,W,checkmate,2021-12-03 15:10:57,United States
+1227,1227,L,checkmate,2021-12-03 15:09:54,Czech Republic
+1234,1198,W,time,2021-12-03 13:36:14,Indonesia
+1234,1319,L,resignation,2021-12-03 13:20:41,Colombia
+1240,1214,L,time,2021-12-03 13:15:59,Basque Country
+1249,1190,W,checkmate,2021-12-03 10:17:46,Portugal
+1242,1215,W,resignation,2021-12-02 21:14:46,Lebanon
+1226,1195,L,time,2021-12-02 01:15:43,United States
+1219,1205,L,checkmate,2021-12-01 21:26:46,United States
+1236,1238,W,checkmate,2021-11-30 18:52:19,Nauru
+1219,1189,W,time,2021-11-30 16:53:17,India
+1211,1223,W,checkmate,2021-11-30 13:27:04,Serbia
+1202,1220,L,checkmate,2021-11-29 17:55:44,United Kingdom
+1219,1281,L,checkmate,2021-11-28 16:39:43,United States
+1218,1190,W,time,2021-11-26 13:43:02,Brazil
+1210,1230,L,time,2021-11-26 01:59:56,Canada
+1211,1231,L,checkmate,2021-11-25 21:24:55,India
+1220,1225,W,checkmate,2021-11-25 17:36:54,Canada
+1212,1216,W,time,2021-11-25 16:26:04,Lebanon
+1195,1140,L,time,2021-11-24 11:24:10,India
+1205,1190,L,time,2021-11-24 08:35:39,India
+1221,1194,L,checkmate,2021-11-24 07:40:22,Indonesia
+1214,1240,L,time,2021-11-23 21:44:20,Poland
+1213,1194,L,time,2021-11-23 20:23:41,Brazil
+1237,1194,W,time,2021-11-23 16:16:32,Basque Country
+1230,1198,L,time,2021-11-23 15:54:20,India
+1239,1298,L,time,2021-11-23 11:57:51,Vietnam
+1261,1297,L,time,2021-11-22 21:04:22,Italy
+1269,1274,W,checkmate,2021-11-22 20:54:54,Canada
+1245,1240,L,time,2021-11-22 11:29:10,Malaysia
+1253,1284,W,abandoned,2021-11-22 07:35:42,India
+1244,1201,W,checkmate,2021-11-18 23:18:14,Sweden
+1229,1217,W,time,2021-11-18 21:51:05,United Kingdom
+1213,1239,L,time,2021-11-18 20:12:00,Mexico
+1213,1186,W,time,2021-11-18 16:53:38,Colombia
+1205,1149,L,checkmate,2021-11-18 16:47:24,Netherlands
+1214,1203,L,time,2021-11-18 14:02:26,United Kingdom
+1215,1178,W,checkmate,2021-11-17 23:03:06,United States
+1208,1191,L,time,2021-11-17 20:44:48,Jamaica
+1217,1250,W,time,2021-11-17 19:08:49,Germany
+1209,1195,W,checkmate,2021-11-17 13:21:44,United States
+1194,1222,L,time,2021-11-17 00:29:28,United States
+1201,1173,L,checkmate,2021-11-16 16:05:37,Netherlands
+1202,1198,W,time,2021-11-16 12:31:48,India
+1194,1228,L,time,2021-11-16 11:00:16,Slovakia
+1201,1170,W,time,2021-11-15 23:04:10,United Kingdom
+1193,1156,W,time,2021-11-15 19:03:17,Canada
+1178,1197,W,checkmate,2021-11-15 11:33:13,Serbia
+1177,1160,L,checkmate,2021-11-12 11:50:12,Switzerland
+1186,1211,L,time,2021-11-12 11:46:43,India
+1210,1224,L,checkmate,2021-11-12 10:10:01,Poland
+1235,1292,L,time,2021-11-12 09:27:55,India
+1242,1227,L,time,2021-11-11 14:09:28,Indonesia
+1251,1280,W,time,2021-11-11 14:05:55,Vietnam
+1242,1295,L,checkmate,2021-11-11 13:36:06,Canada
+1240,1261,D,stalemate,2021-11-11 11:26:10,Vietnam
+1239,1218,W,checkmate,2021-11-11 11:19:59,India
+1233,1203,W,time,2021-11-10 19:22:56,United Kingdom
+1225,1224,W,time,2021-11-10 19:19:49,United States
+1209,1150,W,time,2021-11-10 18:26:21,Italy
+1186,1178,L,time,2021-11-10 10:03:03,United States
+1202,1292,L,time,2021-11-09 02:02:32,United States
+1200,1192,W,time,2021-11-08 18:44:34,Poland
+1192,1254,L,checkmate,2021-11-08 18:35:38,Japan
+1206,1213,L,time,2021-11-03 10:01:15,Singapore
+1214,1193,W,checkmate,2021-11-02 16:45:34,North Korea
+1199,1209,W,time,2021-11-02 14:36:10,Hungary
+1190,1194,L,time,2021-11-02 14:23:24,Netherlands
+1207,1218,L,time,2021-11-02 12:39:04,Iran
+1215,1253,L,time,2021-11-02 12:24:13,Russia
+1229,1234,W,checkmate,2021-11-02 10:40:24,Japan
+1227,1278,L,time,2021-11-01 18:13:35,International
+1234,1245,L,time,2021-10-31 20:28:24,Turkey
+1233,1290,L,time,2021-10-31 19:11:01,Italy
+1233,1247,L,time,2021-10-31 09:29:12,India
+1257,1199,W,time,2021-10-29 14:44:37,India
+1224,1245,L,checkmate,2021-10-28 10:48:08,Philippines
+1232,1255,L,time,2021-10-28 10:28:19,Nigeria
+1240,1248,W,resignation,2021-10-27 19:17:16,Russia
+1239,1300,L,time,2021-10-27 10:28:18,France
+1253,1305,L,time,2021-10-26 22:06:22,Germany
+1269,1294,W,resignation,2021-10-26 17:22:39,Canada
+1269,1277,L,checkmate,2021-10-26 14:24:28,Nigeria
+1277,1265,W,time,2021-10-25 19:33:03,Czech Republic
+1270,1305,L,time,2021-10-25 11:30:58,Sweden
+1286,1265,W,checkmate,2021-10-25 10:33:58,United Kingdom
+1278,1283,W,resignation,2021-10-25 08:56:29,India
+1262,1307,L,time,2021-10-25 08:33:20,Indonesia
+1267,1239,L,time,2021-10-21 12:05:34,Sweden
+1285,1333,L,time,2021-10-21 00:09:30,United Kingdom
+1292,1275,W,time,2021-10-21 00:07:20,Philippines
+1293,1274,W,time,2021-10-21 00:00:45,United States
+1268,1274,W,resignation,2021-10-20 23:53:52,Colombia
+1259,1285,L,time,2021-10-20 21:33:12,United States
+1258,1234,L,checkmate,2021-10-20 11:31:14,Italy
+1267,1285,W,time,2021-10-20 11:15:42,Germany
+1265,1240,W,checkmate,2021-10-15 11:00:57,International
+1257,1252,L,time,2021-10-14 11:06:03,Singapore
+1265,1328,L,checkmate,2021-10-13 12:41:49,India
+1281,1298,W,resignation,2021-10-13 10:20:15,Russia
+1263,1221,W,time,2021-10-12 08:47:17,Romania
+1255,1245,W,resignation,2021-10-11 23:17:11,Italy
+1246,1302,L,checkmate,2021-10-11 23:15:25,Azerbaijan
+1254,1248,L,checkmate,2021-10-11 23:11:06,Bahrain
+1255,1212,W,time,2021-10-11 20:27:28,France
+1267,1294,L,checkmate,2021-10-11 18:55:37,Poland
+1287,1288,W,checkmate,2021-10-11 14:50:15,United States
+1626,1605,D,repetition,2021-10-11 12:58:50,Romania
+1274,1343,L,time,2021-10-08 18:03:09,Colombia
+1284,1267,L,time,2021-10-08 16:06:59,United States
+1271,1233,W,time,2021-10-07 14:30:52,Poland
+1258,1273,L,time,2021-10-07 08:49:12,India
+1273,1299,L,time,2021-10-06 15:20:30,India
+1275,1270,W,time,2021-10-01 10:56:45,South Korea
+1256,1271,L,time,2021-09-21 10:51:09,United Kingdom
+1309,1294,L,time,2021-08-23 16:15:46,India
